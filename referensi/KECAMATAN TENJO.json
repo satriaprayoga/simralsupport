@@ -1,0 +1,2219 @@
+[
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "9711200",
+    "rincian_murni": "7420000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "546200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "960000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1575000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6630000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5215150",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "679150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "676000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3060000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "7399450",
+    "rincian_murni": "7256000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1329450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1080000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4590000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5069950",
+    "rincian_murni": "5276000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "529950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1080000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3060000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5274200",
+    "rincian_murni": "4600500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "419200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1260000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3195000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "2824674570",
+    "rincian_murni": "3210471207",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "866593000"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "104000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "83980000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "14170000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "48000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "16285100"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "408278"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "135432000"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "4206192"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "7200000"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "1530000000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "11400000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "6394200",
+    "rincian_murni": "6600000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2751800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1902400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "540000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.02.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5493200",
+    "rincian_murni": "5280000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "904000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "839200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.02.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3687600",
+    "rincian_murni": "5276000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "594400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "473200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2220000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.02.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "9439600",
+    "rincian_murni": "6299300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2139600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.02.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "1541050",
+    "rincian_murni": "8594000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "721050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "280000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "540000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8887,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pengadaan Pakaian Dinas Beserta Atribut Kelengkapannya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "0",
+    "rincian_murni": "29360000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0063",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0073",
+        "nama_akun": "Belanja Pakaian KORPRI",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "8130000",
+    "rincian_murni": "8130000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "8130000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "63230700",
+    "rincian_murni": "24564800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "50230700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "1680000",
+    "rincian_murni": "750000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "1680000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "43390400",
+    "rincian_murni": "38996900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "43390400"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8902,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "6600000",
+    "rincian_murni": "6600000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "101800000",
+    "rincian_murni": "160600000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "53400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "48400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.06.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "34500000",
+    "rincian_murni": "38775000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "34500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8912,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1866",
+    "kode_giat": "7.01.01.2.07",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.07.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pengadaan Mebel",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "0",
+    "rincian_murni": "24584600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8916,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1866",
+    "kode_giat": "7.01.01.2.07",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.07.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pengadaan Gedung Kantor atau Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "0",
+    "rincian_murni": "79102119",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.05.02.0004",
+        "nama_akun": "Belanja Modal Alat Pendingin",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0003",
+        "nama_akun": "Belanja Modal Peralatan Studio Gambar",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0004",
+        "nama_akun": "Belanja Modal Peralatan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0005",
+        "nama_akun": "Belanja Modal Peralatan Komputer Lainnya",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.08.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "57000000",
+    "rincian_murni": "44448000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "45000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.08.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "479865220",
+    "rincian_murni": "384468424",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "1765650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3075000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "34668000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "136800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "102000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "96000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "30364020"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "9704600"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "7440000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0004",
+        "nama_akun": "Belanja Modal Alat Pendingin",
+        "total_rincian": "8733100"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "9086000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0003",
+        "nama_akun": "Belanja Modal Peralatan Studio Gambar",
+        "total_rincian": "9607500"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0004",
+        "nama_akun": "Belanja Modal Peralatan Cetak",
+        "total_rincian": "7354200"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "7978950"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "7950800"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0005",
+        "nama_akun": "Belanja Modal Peralatan Komputer Lainnya",
+        "total_rincian": "7337400"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.09.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "24600000",
+    "rincian_murni": "24600000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0038",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "3600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.09.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "7500000",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "7500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.01.2.09.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "7737500",
+    "rincian_murni": "30000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "4737500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "3000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8291,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.02.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi/Sinergi Perencanaan dan Pelaksanaan Kegiatan Pemerintahan dengan Perangkat Daerah dan Instansi Vertikal Terkait",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "106257800",
+    "rincian_murni": "126257800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7107800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "42000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "35000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "10800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8292,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.02.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5001650",
+    "rincian_murni": "5001650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1501650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8294,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.02.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Percepatan Pencapaian Standar Pelayanan Minimal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "4000000",
+    "rincian_murni": "4000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8295,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.02.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Peningkatan Efektifitas Pelaksanaan Pelayanan kepada Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "16776000",
+    "rincian_murni": "5100000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "276000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "14400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8298,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.427.1822",
+    "kode_giat": "7.01.02.2.04",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.02.2.04.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pelaksanaan Urusan Pemerintahan yang Dilimpahkan kepada Camat",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pelaksanaan Urusan Pemerintahan yang terkait dengan Pelayanan Perizinan Non Usaha",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "17466750",
+    "rincian_murni": "17466750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7066750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8299,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.427.1822",
+    "kode_giat": "7.01.02.2.04",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.02.2.04.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pelaksanaan Urusan Pemerintahan yang Dilimpahkan kepada Camat",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pelaksanaan Urusan Pemerintahan yang terkait dengan Nonperizinan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "9516150",
+    "rincian_murni": "9516150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3016150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8301,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.03.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Peningkatan Partisipasi Masyarakat dalam Forum Musyawarah Perencanaan Pembangunan di Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "18276450",
+    "rincian_murni": "18701500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "926450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8303,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.03.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemberdayaan Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "27834850",
+    "rincian_murni": "13000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "549650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5285200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "22000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 9001,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.428.1882",
+    "kode_giat": "7.01.03.2.05",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.03.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi dan Sinkronisasi Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM)",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penanganan Covid-19 di Tingkat Desa dan Kelurahan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "75000000",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "9365000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0037",
+        "nama_akun": "Belanja Obat-Obatan-Obat",
+        "total_rincian": "3705000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0038",
+        "nama_akun": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "total_rincian": "2250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "35200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "24480000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8318,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.04.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Sinergitas dengan Kepolisian Negara Republik Indonesia, Tentara Nasional Indonesia dan Instansi Vertikal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "0",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8319,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.04.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Harmonisasi Hubungan Dengan Tokoh Agama dan Tokoh Masyarakat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3600000",
+    "rincian_murni": "6298500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8320,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.429.1828",
+    "kode_giat": "7.01.04.2.02",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.04.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penerapan dan Penegakan Peraturan Daerah dan Peraturan Kepala Daerah",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi/Sinergi Dengan Perangkat Daerah yang Tugas dan Fungsinya di Bidang Penegakan Peraturan Perundang-Undangan dan/atau Kepolisian Negara Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "6000000",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2810000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "790000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8324,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pembinaan Wawasan Kebangsaan dan Ketahanan Nasional dalam rangka Memantapkan Pengamalan Pancasila, Pelaksanaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pelestarian Bhinneka Tunggal Ika serta Pemertahanan dan Pemeliharaan Keutuhan Negara Kesatuan Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "16239800",
+    "rincian_murni": "21750200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "919800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3320000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "8000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8325,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi, Koordinasi dan Pembinaan (Bimtek, Sosialisasi, Konsultasi) Wawasan Kebangsaan dan Ketahanan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "0",
+    "rincian_murni": "23035500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8326,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pembinaan Persatuan dan Kesatuan Bangsa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "7646150",
+    "rincian_murni": "7646150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1326150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1520000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8327,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pembinaan Kerukunan Antarsuku dan Intrasuku, Umat Beragama, Ras, dan Golongan Lainnya Guna Mewujudkan Stabilitas Keamanan Lokal, Regional, dan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "139842000",
+    "rincian_murni": "130342000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "15442000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "35000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0076",
+        "nama_akun": "Belanja Pakaian Olahraga",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "9900000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "79500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8328,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Penanganan Konflik Sosial sesuai Ketentuan Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5000000",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1240000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1360000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8329,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pengembangan Kehidupan Demokrasi Berdasarkan Pancasila",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "6581300",
+    "rincian_murni": "6581300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1081300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8331,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.05.2.01.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Pelaksanaan Tugas Forum Koordinasi Pimpinan di Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "35059500",
+    "rincian_murni": "35059500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12859500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8333,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Administrasi Tata Pemerintahan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "8800000",
+    "rincian_murni": "9000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "796400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "803600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8334,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Pengelolaan Keuangan Desa dan Pendayagunaan Aset Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "4808650",
+    "rincian_murni": "5106000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "347350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "261300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8335,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Penerapan dan Penegakan Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3000000",
+    "rincian_murni": "3000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2712800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "287200"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8336,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas Kepala Desa dan Perangkat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "4841300",
+    "rincian_murni": "3593500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1700500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "180800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2960000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8338,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas dan Fungsi Badan Permusyawaratan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3420500",
+    "rincian_murni": "3590050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "338100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "482400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8340,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Sinkronisasi Perencanaan Pembangunan Daerah dengan Pembangunan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "30690000",
+    "rincian_murni": "17313700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1340000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "13800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "15550000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8342,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.11",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "13149400",
+    "rincian_murni": "13149400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5568200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1861200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "920000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8343,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.12",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas, Fungsi, dan Kewajiban Lembaga Kemasyarakatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3106000",
+    "rincian_murni": "3101000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "55200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "170800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2880000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8344,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.13",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Penyusunan Perencanaan Pembangunan Partisipatif",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3101450",
+    "rincian_murni": "3101450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "801450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8347,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.16",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Fasilitasi Penyusunan Program dan Pelaksanaan Pemberdayaan Masyarakat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "3019150",
+    "rincian_murni": "3019150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1319150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8348,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.17",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi Pendampingan Desa di Wilayahnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "8365700",
+    "rincian_murni": "22776550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1032600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1308100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "2025000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1472,
+    "id_sub_giat": 8349,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1472.1835.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.23.0000",
+    "kode_sub_giat": "7.01.06.2.01.18",
+    "kode_sub_skpd": "7.01.0.00.0.00.23.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN TENJO",
+    "nama_sub_giat": "Koordinasi Pelaksanaan Pembangunan Kawasan Perdesaan di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Tenjo",
+    "rincian": "5265350",
+    "rincian_murni": "5265350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1372350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2293000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1600000"
+      }
+    ]
+  }
+]

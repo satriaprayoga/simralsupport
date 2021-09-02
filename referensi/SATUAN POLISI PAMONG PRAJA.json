@@ -1,0 +1,1633 @@
+[
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.01",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "19317700",
+    "rincian_murni": "60255650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6453700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4064000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.02",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "168714072",
+    "rincian_murni": "232717497",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3842400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2048600"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "148776000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5950000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.03",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "7571250",
+    "rincian_murni": "7571250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3743750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3347500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "480000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.04",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "14661900",
+    "rincian_murni": "17049850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9155400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5106500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.05",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "7829400",
+    "rincian_murni": "7829400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3531100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3098300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.06",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "8167550",
+    "rincian_murni": "16096450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3002850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3564700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0063",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1860",
+    "kode_giat": "1.05.01.2.01",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.01.07",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "160793750",
+    "rincian_murni": "68185950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11929350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3154400"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "50000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "95710000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.01",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "17219403716",
+    "rincian_murni": "19837077434",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "5911076827"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "697284714"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "173485000"
+      },
+      {
+        "kode_akun": "5.1.01.01.04.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional PNS",
+        "total_rincian": "457332571"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "83597000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "412284124"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "16640000"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "4692892"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "586977417"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "12725385"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "41701396"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "8782606390"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "33000000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0002",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.03",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "20000000",
+    "rincian_murni": "20000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2409750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7990250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.04",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "12000000",
+    "rincian_murni": "12000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1623750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4616250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5760000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.05",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1920500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3279500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.06",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "6000000",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "741250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3458750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.07",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "24676750",
+    "rincian_murni": "27395000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8110350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5046400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "11520000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1861",
+    "kode_giat": "1.05.01.2.02",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.02.08",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "5000000",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1699000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1381000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1920000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8894,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1864",
+    "kode_giat": "1.05.01.2.05",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.05.09",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pendidikan dan Pelatihan Pegawai Berdasarkan Tugas dan Fungsi",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "24800000",
+    "rincian_murni": "24800000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "24000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1865",
+    "kode_giat": "1.05.01.2.06",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.06.01",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "6194500",
+    "rincian_murni": "6194500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "6194500"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1865",
+    "kode_giat": "1.05.01.2.06",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.06.02",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "95294900",
+    "rincian_murni": "95298900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "29815350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "65479550"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1865",
+    "kode_giat": "1.05.01.2.06",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.06.04",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "427398900",
+    "rincian_murni": "327400000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "351948900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0043",
+        "nama_akun": "Belanja Natura dan Pakan-Natura",
+        "total_rincian": "75450000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8902,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1865",
+    "kode_giat": "1.05.01.2.06",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.06.06",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "6000000",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.05.01.01.0001",
+        "nama_akun": "Belanja Modal Buku Umum",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1865",
+    "kode_giat": "1.05.01.2.06",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.06.08",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "20750000",
+    "rincian_murni": "20750000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "20750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1865",
+    "kode_giat": "1.05.01.2.06",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.06.09",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "614722000",
+    "rincian_murni": "422347000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "104160000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "233587000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "156975000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8913,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1866",
+    "kode_giat": "1.05.01.2.07",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.07.06",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pengadaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "151926050",
+    "rincian_murni": "151926050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "11330000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0002",
+        "nama_akun": "Belanja Modal Peralatan Studio Video dan Film",
+        "total_rincian": "27142500"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "88046850"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "25406700"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8918,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1866",
+    "kode_giat": "1.05.01.2.07",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.07.11",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pengadaan Sarana dan Prasarana Pendukung Gedung Kantor atau Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "1001722463",
+    "rincian_murni": "75499800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "31640000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "22050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "2967500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "242312500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0037",
+        "nama_akun": "Belanja Obat-Obatan-Obat",
+        "total_rincian": "11750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "134850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0076",
+        "nama_akun": "Belanja Pakaian Olahraga",
+        "total_rincian": "167440000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "48278000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "52883600"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0003",
+        "nama_akun": "Belanja Modal Alat Pembersih",
+        "total_rincian": "3759063"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0004",
+        "nama_akun": "Belanja Modal Alat Pendingin",
+        "total_rincian": "75499800"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0006",
+        "nama_akun": "Belanja Modal Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "61792500"
+      },
+      {
+        "kode_akun": "5.2.02.05.03.0003",
+        "nama_akun": "Belanja Modal Kursi Kerja Pejabat",
+        "total_rincian": "7297500"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "2035000"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0001",
+        "nama_akun": "Belanja Modal Komputer Jaringan",
+        "total_rincian": "13750000"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0004",
+        "nama_akun": "Belanja Modal Peralatan Jaringan",
+        "total_rincian": "21417000"
+      },
+      {
+        "kode_akun": "5.2.02.15.03.0004",
+        "nama_akun": "Belanja Modal Alat SAR Lainnya",
+        "total_rincian": "100000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1867",
+    "kode_giat": "1.05.01.2.08",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.08.02",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "202377000",
+    "rincian_murni": "180000390",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "14877000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "172000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "3500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1867",
+    "kode_giat": "1.05.01.2.08",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.08.04",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "419379680",
+    "rincian_murni": "281291616",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "23253000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "4500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0007",
+        "nama_akun": "Honorarium Rohaniwan",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0029",
+        "nama_akun": "Belanja Jasa Tenaga Ahli",
+        "total_rincian": "7700000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "183600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "158326680"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1868",
+    "kode_giat": "1.05.01.2.09",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.09.01",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "34680000",
+    "rincian_murni": "34680000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "34680000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1868",
+    "kode_giat": "1.05.01.2.09",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.09.02",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "396000000",
+    "rincian_murni": "396000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "396000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1578.59.422.1868",
+    "kode_giat": "1.05.01.2.09",
+    "kode_program": "1.05.01",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.01.2.09.09",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Sat Pol PP",
+    "rincian": "371093322",
+    "rincian_murni": "276194000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.03.02.0117",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Kantor-Alat Kantor Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "24400000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "21900000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0410",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Jaringan",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "294793322"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5291,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1579.59.231.1478",
+    "kode_giat": "1.05.02.2.02",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.02.02",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penegakan Peraturan Daerah Kabupaten/Kota dan Peraturan Bupati/Wali Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pengawasan atas Kepatuhan terhadap Pelaksanaan Peraturan Daerah dan Peraturan Bupati/Wali Kota",
+    "nama_sub_skpd": "Bidang Penegakan Perundang-undangan Daerah",
+    "rincian": "447500008",
+    "rincian_murni": "447500020",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8939050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "88155350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6160000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "36000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "158400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "12145608"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "137700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5292,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1579.59.231.1478",
+    "kode_giat": "1.05.02.2.02",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.02.03",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penegakan Peraturan Daerah Kabupaten/Kota dan Peraturan Bupati/Wali Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penanganan atas Pelanggaran Peraturan Daerah dan Peraturan Bupati/Wali Kota",
+    "nama_sub_skpd": "Bidang Penegakan Perundang-undangan Daerah",
+    "rincian": "278999568",
+    "rincian_murni": "278999462",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7207150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4453150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5760000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "32925000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "45500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "151130000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5282,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1580.59.231.1477",
+    "kode_giat": "1.05.02.2.01",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.01.02",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penindakan atas Gangguan Ketenteraman dan Ketertiban Umum Berdasarkan Perda dan Perkada melalui Penertiban dan Penanganan Unjuk Rasa dan Kerusuhan Massa",
+    "nama_sub_skpd": "Bidang Ketertiban Umum",
+    "rincian": "1168776958",
+    "rincian_murni": "1107501600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "19441750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7885600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "195000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "149000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "224304000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "12145608"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "561000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5289,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1580.59.231.1477",
+    "kode_giat": "1.05.02.2.01",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.01.10",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Penyediaan Layanan dalam rangka Dampak Penegakan Peraturan Daerah dan Perkada",
+    "nama_sub_skpd": "Bidang Ketertiban Umum",
+    "rincian": "16648448807",
+    "rincian_murni": "17504700229",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2366400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "789000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "134850000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0017",
+        "nama_akun": "Belanja Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "total_rincian": "14744400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "854072407"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "123760000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5283,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1581.59.231.1477",
+    "kode_giat": "1.05.02.2.01",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.01.03",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Koordinasi Penyelenggaraan Ketentraman dan Ketertiban Umum serta Perlindungan Masyarakat Tingkat Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Perlindungan Masyarakat",
+    "rincian": "507887570",
+    "rincian_murni": "510019778",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2142750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2905250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "9570000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0017",
+        "nama_akun": "Belanja Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "total_rincian": "327500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "21929570"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "141440000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5284,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1581.59.231.1477",
+    "kode_giat": "1.05.02.2.01",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.01.04",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pemberdayaan Perlindungan Masyarakat dalam rangka Ketentraman dan Ketertiban Umum",
+    "nama_sub_skpd": "Bidang Perlindungan Masyarakat",
+    "rincian": "208114800",
+    "rincian_murni": "208114800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7043750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3311050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "17600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0076",
+        "nama_akun": "Belanja Pakaian Olahraga",
+        "total_rincian": "61500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0017",
+        "nama_akun": "Belanja Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "total_rincian": "40000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0029",
+        "nama_akun": "Belanja Jasa Tenaga Ahli",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "76160000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5281,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1582.59.231.1477",
+    "kode_giat": "1.05.02.2.01",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.01.01",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Pencegahan Gangguan Ketenteraman dan Ketertiban Umum melalui Deteksi Dini dan Cegah Dini, Pembinaan dan Penyuluhan, Pelaksanaan Patroli, Pengamanan, dan Pengawalan",
+    "nama_sub_skpd": "Bidang Pembinaan",
+    "rincian": "491477018",
+    "rincian_murni": "451522912",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "16600750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "18000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "77712000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "374340000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1371,
+    "id_sub_giat": 5285,
+    "kode_bidang_urusan": "1.05",
+    "kode_bl": "1371.1582.59.231.1477",
+    "kode_giat": "1.05.02.2.01",
+    "kode_program": "1.05.02",
+    "kode_skpd": "1.05.0.00.0.00.01.0000",
+    "kode_sub_giat": "1.05.02.2.01.05",
+    "kode_sub_skpd": "1.05.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG KETENTERAMAN DAN KETERTIBAN UMUM SERTA PERLINDUNGAN MASYARAKAT",
+    "nama_giat": "Penanganan Gangguan Ketenteraman dan Ketertiban Umum dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN KETENTERAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+    "nama_sub_giat": "Peningkatan Kapasitas SDM Satuan Polisi Pamongpraja dan Satuan Perlindungan Masyarakat termasuk dalam Pelaksanaan Tugas yang Bernuansa Hak Asasi Manusia",
+    "nama_sub_skpd": "Bidang Pembinaan",
+    "rincian": "735134468",
+    "rincian_murni": "1151182462",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "20512300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7151900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "112500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "76176000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0029",
+        "nama_akun": "Belanja Jasa Tenaga Ahli",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "180000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "336770000"
+      }
+    ]
+  }
+]

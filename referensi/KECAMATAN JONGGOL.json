@@ -1,0 +1,1876 @@
+[
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "5999900",
+    "rincian_murni": "5999900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2463500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "286400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "5999950",
+    "rincian_murni": "5999950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2859950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "290000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "6000000",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2867200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "282800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.01.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "5999850",
+    "rincian_murni": "5999850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2216250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "203600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2080000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "5999700",
+    "rincian_murni": "5999700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2314100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "355600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2080000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "3182902000",
+    "rincian_murni": "3621582000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "922985458"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "124485280"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "83708800"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "46662000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "68943840"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "2442166"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "100000"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "33592646"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "22646953"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "5334857"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "1872000000"
+      },
+      {
+        "kode_akun": "5.1.01.02.02.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Tempat Bertugas PNS",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "6000000",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5548800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "451200"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "5999700",
+    "rincian_murni": "5999700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5174100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "321600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "24000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "480000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "6000000",
+    "rincian_murni": "6000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5262200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "162800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "15000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "560000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "19999850",
+    "rincian_murni": "19999850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5634650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "365200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "10000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "70367823",
+    "rincian_murni": "70367823",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5088300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "399200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "960000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "63920323"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.02.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "3040000",
+    "rincian_murni": "12000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1566400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "477600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "36000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "960000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8887,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pengadaan Pakaian Dinas Beserta Atribut Kelengkapannya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "0",
+    "rincian_murni": "40170000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0063",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8888,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.05.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pendataan dan Pengolahan Administrasi Kepegawaian",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "9999900",
+    "rincian_murni": "9999900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5045500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "154400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8889,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.05.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Sistem Informasi Kepegawaian",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "91055985",
+    "rincian_murni": "91055985",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1556300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "269200"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "81480485"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "7750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.06.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "19688400",
+    "rincian_murni": "29379400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9064400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "933000"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "9691000"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.06.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.06.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "42960000",
+    "rincian_murni": "34000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "42960000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.06.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "35950000",
+    "rincian_murni": "35950000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "35950000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8919,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.08.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Jasa Surat Menyurat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "5000000",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1164200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2085800"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.08.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "165001170",
+    "rincian_murni": "165001170",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0046",
+        "nama_akun": "Belanja Jasa Konversi Aplikasi/Sistem Informasi",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "18001170"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "96000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "24000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.08.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "173131131",
+    "rincian_murni": "173131131",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "2210000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "67080485"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "103840646"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.09.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "57500000",
+    "rincian_murni": "57500000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "55500000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0038",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "2000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.01.2.09.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "7045113",
+    "rincian_murni": "7045113",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "7045113"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8291,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.02.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi/Sinergi Perencanaan dan Pelaksanaan Kegiatan Pemerintahan dengan Perangkat Daerah dan Instansi Vertikal Terkait",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "100487900",
+    "rincian_murni": "100487900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8979500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1058400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "58200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "3750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "9000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8294,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.02.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Percepatan Pencapaian Standar Pelayanan Minimal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "68183612",
+    "rincian_murni": "68183612",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7508650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1814800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "31960162"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8295,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.02.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Peningkatan Efektifitas Pelaksanaan Pelayanan kepada Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "35999800",
+    "rincian_murni": "35999800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7765400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5784400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "1450000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8301,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.03.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Peningkatan Partisipasi Masyarakat dalam Forum Musyawarah Perencanaan Pembangunan di Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "24999900",
+    "rincian_murni": "24999900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12831900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1968000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8303,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.03.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemberdayaan Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "134455562",
+    "rincian_murni": "282405712",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11287200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4923200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "61000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "31960162"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0036",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "4200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "5760000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3325000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 9001,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.428.1882",
+    "kode_giat": "7.01.03.2.05",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.03.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi dan Sinkronisasi Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM)",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Penanganan Covid-19 di Tingkat Desa dan Kelurahan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "75000000",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "61875000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "13125000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8318,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.04.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Sinergitas dengan Kepolisian Negara Republik Indonesia, Tentara Nasional Indonesia dan Instansi Vertikal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "35999400",
+    "rincian_murni": "35999400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "13135400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3364000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "9900000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8320,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.429.1828",
+    "kode_giat": "7.01.04.2.02",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.04.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penerapan dan Penegakan Peraturan Daerah dan Peraturan Kepala Daerah",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi/Sinergi Dengan Perangkat Daerah yang Tugas dan Fungsinya di Bidang Penegakan Peraturan Perundang-Undangan dan/atau Kepolisian Negara Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "56183762",
+    "rincian_murni": "56183762",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4903200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2820400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "31960162"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6900000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8324,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.05.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pembinaan Wawasan Kebangsaan dan Ketahanan Nasional dalam rangka Memantapkan Pengamalan Pancasila, Pelaksanaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pelestarian Bhinneka Tunggal Ika serta Pemertahanan dan Pemeliharaan Keutuhan Negara Kesatuan Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "267633412",
+    "rincian_murni": "134758262",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "13510450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5642800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "105050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0077",
+        "nama_akun": "Belanja Pakaian Paskibraka",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "48600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "24760162"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0036",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "2100000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "11250000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "6120000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "6600000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "32500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8326,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.05.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pembinaan Persatuan dan Kesatuan Bangsa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "20999700",
+    "rincian_murni": "20999700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3926500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1953200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "11200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3920000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8327,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.05.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pembinaan Kerukunan Antarsuku dan Intrasuku, Umat Beragama, Ras, dan Golongan Lainnya Guna Mewujudkan Stabilitas Keamanan Lokal, Regional, dan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "14999800",
+    "rincian_murni": "14999800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3287800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1212000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8331,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.05.2.01.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Pelaksanaan Tugas Forum Koordinasi Pimpinan di Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "64983962",
+    "rincian_murni": "64983962",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "14751000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2072800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "21600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "24760162"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8332,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Penyusunan Peraturan Desa dan Peraturan Kepala Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "18000000",
+    "rincian_murni": "18000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10128400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "771600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "300000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8334,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Pengelolaan Keuangan Desa dan Pendayagunaan Aset Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "18000000",
+    "rincian_murni": "18000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3866400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "273600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12960000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "900000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8335,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Penerapan dan Penegakan Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "18000050",
+    "rincian_murni": "18000050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11908450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "691600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8336,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas Kepala Desa dan Perangkat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "18000000",
+    "rincian_murni": "18000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3866400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "273600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12960000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "900000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8338,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas dan Fungsi Badan Permusyawaratan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "18000000",
+    "rincian_murni": "18000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10128400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "771600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "300000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8342,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.11",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Fasilitasi Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "30000000",
+    "rincian_murni": "30000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11458800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2221200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6720000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8348,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.17",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi Pendampingan Desa di Wilayahnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "73939050",
+    "rincian_murni": "73939050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "18751650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2522400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "42245000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "10420000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1455,
+    "id_sub_giat": 8349,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1455.1790.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.06.0000",
+    "kode_sub_giat": "7.01.06.2.01.18",
+    "kode_sub_skpd": "7.01.0.00.0.00.06.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN JONGGOL",
+    "nama_sub_giat": "Koordinasi Pelaksanaan Pembangunan Kawasan Perdesaan di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Jonggol",
+    "rincian": "92183912",
+    "rincian_murni": "92183912",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "24589350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3164400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "31960162"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "20270000"
+      }
+    ]
+  }
+]

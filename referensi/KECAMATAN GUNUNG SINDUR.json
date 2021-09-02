@@ -1,0 +1,2072 @@
+[
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "9999450",
+    "rincian_murni": "9999450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3851050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "998400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "8518150",
+    "rincian_murni": "8518150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1718150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "8565250",
+    "rincian_murni": "8565250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2565250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "8753750",
+    "rincian_murni": "8753750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1703750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "10000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "3181092326",
+    "rincian_murni": "3637216441",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "1070224442"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "95000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "80000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "36998929"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "65942955"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "3500000"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "26000"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "105000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "7500000"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "1700000000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "11400000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0002",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "total_rincian": "3000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "4987650",
+    "rincian_murni": "4987650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3937650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1050000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.02.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5000000",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.02.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "4991600",
+    "rincian_murni": "4991600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1176600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2365000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.02.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5139550",
+    "rincian_murni": "5139550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1414550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3125000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.02.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "4455500",
+    "rincian_murni": "4455500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2955500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8886,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.05.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Peningkatan Sarana dan Prasarana Disiplin Pegawai",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10005500",
+    "rincian_murni": "10005500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3005500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3700000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1300000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.06.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "1419700",
+    "rincian_murni": "5003200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "1419700"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.06.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "19999950",
+    "rincian_murni": "19999950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "19999950"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.06.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5012100",
+    "rincian_murni": "5012100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5012100"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.06.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "22000000",
+    "rincian_murni": "22000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "2000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.06.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "20000000",
+    "rincian_murni": "20000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "20000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8912,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1866",
+    "kode_giat": "7.01.01.2.07",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.07.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pengadaan Mebel",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "43259800",
+    "rincian_murni": "67259800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "43259800"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8914,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1866",
+    "kode_giat": "7.01.01.2.07",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.07.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pengadaan Aset Tetap Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "0",
+    "rincian_murni": "36675900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.06.01.0002",
+        "nama_akun": "Belanja Modal Peralatan Studio Video dan Film",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8918,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1866",
+    "kode_giat": "7.01.01.2.07",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.07.11",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pengadaan Sarana dan Prasarana Pendukung Gedung Kantor atau Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "115096750",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.05.02.0006",
+        "nama_akun": "Belanja Modal Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "51148900"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0002",
+        "nama_akun": "Belanja Modal Peralatan Studio Video dan Film",
+        "total_rincian": "12388950"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "51558900"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8919,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.08.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Jasa Surat Menyurat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "4987250",
+    "rincian_murni": "4987250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3487250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "1500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.08.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "84000000",
+    "rincian_murni": "84000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "72000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "12000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.08.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "469636824",
+    "rincian_murni": "468482909",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "276000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "61200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "96000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "36436824"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.09.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "37550000",
+    "rincian_murni": "37550000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "6050000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "25500000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0038",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8928,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.09.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pemeliharaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5970000",
+    "rincian_murni": "5970000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "3050000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "2920000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.01.2.09.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "12240000",
+    "rincian_murni": "12459000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "12240000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8291,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.02.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi/Sinergi Perencanaan dan Pelaksanaan Kegiatan Pemerintahan dengan Perangkat Daerah dan Instansi Vertikal Terkait",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "49058700",
+    "rincian_murni": "49058700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4328700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3980000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "22000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "6750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "10500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "1500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8292,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.02.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "23730250",
+    "rincian_murni": "23730250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2405250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "19825000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8294,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.02.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Percepatan Pencapaian Standar Pelayanan Minimal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "51962800",
+    "rincian_murni": "51962800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4473800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2964000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "24525000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8295,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.02.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Peningkatan Efektifitas Pelaksanaan Pelayanan kepada Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "25780250",
+    "rincian_murni": "25780250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2502250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3828000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "11450000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8299,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.427.1822",
+    "kode_giat": "7.01.02.2.04",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.02.2.04.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pelaksanaan Urusan Pemerintahan yang Dilimpahkan kepada Camat",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pelaksanaan Urusan Pemerintahan yang terkait dengan Nonperizinan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10402400",
+    "rincian_murni": "10402400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5220000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2432400"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8301,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.03.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Peningkatan Partisipasi Masyarakat dalam Forum Musyawarah Perencanaan Pembangunan di Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2965200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1534800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8303,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.03.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemberdayaan Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "58796250",
+    "rincian_murni": "58796250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4626250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5370000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "18800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 9001,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.428.1882",
+    "kode_giat": "7.01.03.2.05",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.03.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi dan Sinkronisasi Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM)",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penanganan Covid-19 di Tingkat Desa dan Kelurahan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "74999900",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "43217100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2232800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "18000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "11550000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8318,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.04.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Sinergitas dengan Kepolisian Negara Republik Indonesia, Tentara Nasional Indonesia dan Instansi Vertikal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "16300200",
+    "rincian_murni": "16300200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2900200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "9400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8319,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.04.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Harmonisasi Hubungan Dengan Tokoh Agama dan Tokoh Masyarakat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2965200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1534800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8320,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.429.1828",
+    "kode_giat": "7.01.04.2.02",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.04.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penerapan dan Penegakan Peraturan Daerah dan Peraturan Kepala Daerah",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi/Sinergi Dengan Perangkat Daerah yang Tugas dan Fungsinya di Bidang Penegakan Peraturan Perundang-Undangan dan/atau Kepolisian Negara Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "14583200",
+    "rincian_murni": "14583200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3985200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1898000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8324,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pembinaan Wawasan Kebangsaan dan Ketahanan Nasional dalam rangka Memantapkan Pengamalan Pancasila, Pelaksanaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pelestarian Bhinneka Tunggal Ika serta Pemertahanan dan Pemeliharaan Keutuhan Negara Kesatuan Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "83908500",
+    "rincian_murni": "83908500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3748500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2160000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "25000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "7000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "7500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "15500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "3750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "3250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8325,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi, Koordinasi dan Pembinaan (Bimtek, Sosialisasi, Konsultasi) Wawasan Kebangsaan dan Ketahanan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5002900",
+    "rincian_murni": "5002900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2152900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8326,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pembinaan Persatuan dan Kesatuan Bangsa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5000000",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8327,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pembinaan Kerukunan Antarsuku dan Intrasuku, Umat Beragama, Ras, dan Golongan Lainnya Guna Mewujudkan Stabilitas Keamanan Lokal, Regional, dan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "56446100",
+    "rincian_murni": "76446100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "626100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4920000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "5550000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0036",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "6600000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "18750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8328,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Penanganan Konflik Sosial sesuai Ketentuan Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8329,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pengembangan Kehidupan Demokrasi Berdasarkan Pancasila",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10000000",
+    "rincian_murni": "10000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8331,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.05.2.01.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Pelaksanaan Tugas Forum Koordinasi Pimpinan di Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "20000000",
+    "rincian_murni": "20000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8333,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Administrasi Tata Pemerintahan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "13700000",
+    "rincian_murni": "13700000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8334,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Pengelolaan Keuangan Desa dan Pendayagunaan Aset Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "5000050",
+    "rincian_murni": "5000050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "527250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "392800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2080000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8336,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas Kepala Desa dan Perangkat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "4130050",
+    "rincian_murni": "4130050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "730050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8338,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas dan Fungsi Badan Permusyawaratan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "10011350",
+    "rincian_murni": "10011350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2279350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1482000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8340,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Sinkronisasi Perencanaan Pembangunan Daerah dengan Pembangunan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "9500000",
+    "rincian_murni": "9500000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2648600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1076400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2775000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8342,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.11",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "9998950",
+    "rincian_murni": "9998950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2180150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "868800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2950000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8343,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.12",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas, Fungsi, dan Kewajiban Lembaga Kemasyarakatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "7000300",
+    "rincian_murni": "7000300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1113500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "836800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1050000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8344,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.13",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Penyusunan Perencanaan Pembangunan Partisipatif",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "15636050",
+    "rincian_murni": "48000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1440050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1296000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "900000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8347,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.16",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Fasilitasi Penyusunan Program dan Pelaksanaan Pemberdayaan Masyarakat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "12000500",
+    "rincian_murni": "12000500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2381500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1794000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3825000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8348,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.17",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi Pendampingan Desa di Wilayahnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "44940000",
+    "rincian_murni": "44940000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1878000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2132000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12880000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "28050000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1460,
+    "id_sub_giat": 8349,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1460.1795.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.11.0000",
+    "kode_sub_giat": "7.01.06.2.01.18",
+    "kode_sub_skpd": "7.01.0.00.0.00.11.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+    "nama_sub_giat": "Koordinasi Pelaksanaan Pembangunan Kawasan Perdesaan di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Gunung Sindur",
+    "rincian": "14983300",
+    "rincian_murni": "14983300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4283300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3450000"
+      }
+    ]
+  }
+]

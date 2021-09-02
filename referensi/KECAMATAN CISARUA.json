@@ -1,0 +1,3039 @@
+[
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "14999500",
+    "rincian_murni": "14999500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2273100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1886400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4720000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6120000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "5574950",
+    "rincian_murni": "5574950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "506150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "428800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1920000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2720000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3478750",
+    "rincian_murni": "3478750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "548750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "240000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "480000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2210000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3595350",
+    "rincian_murni": "3595350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "600150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "335200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "960000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3595350",
+    "rincian_murni": "3595350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "655350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "280000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "960000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "21670150",
+    "rincian_murni": "21670150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1223750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1086400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8480000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "10880000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "16082100",
+    "rincian_murni": "16082100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "682100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3840000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1360000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "4842502830",
+    "rincian_murni": "5507398137",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "1659214543"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "207252390"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "110490000"
+      },
+      {
+        "kode_akun": "5.1.01.01.04.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional PNS",
+        "total_rincian": "15120000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "67509000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "105000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "4471142"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "127062"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "238910693"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "5008000"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "2397600000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "16800000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "22808650",
+    "rincian_murni": "22808650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3748650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5760000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "8500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3643850",
+    "rincian_murni": "3643850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "523850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "960000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1360000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "4909050",
+    "rincian_murni": "4909050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1129050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "900000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2880000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "13187750",
+    "rincian_murni": "13187750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "827750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1360000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "6076100",
+    "rincian_murni": "6076100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "938500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1257600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "680000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.02.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "4791150",
+    "rincian_murni": "4791150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "713550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "657600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1020000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8876,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1862",
+    "kode_giat": "7.01.01.2.03",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.03.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Rekonsiliasi dan Penyusunan Laporan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3158500",
+    "rincian_murni": "3158500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "769700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "228800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1360000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8886,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.05.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Peningkatan Sarana dan Prasarana Disiplin Pegawai",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "1740000",
+    "rincian_murni": "1740000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1740000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8888,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1864",
+    "kode_giat": "7.01.01.2.05",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.05.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pendataan dan Pengolahan Administrasi Kepegawaian",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "31831000",
+    "rincian_murni": "31831000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7371000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "8160000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "4744500",
+    "rincian_murni": "4744500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "4744500"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "22287500",
+    "rincian_murni": "22291500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12302500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6665000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "3320000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8899,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Peralatan Rumah Tangga",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "8748000",
+    "rincian_murni": "8758000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "8418000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0005",
+        "nama_akun": "Belanja Modal Alat Dapur",
+        "total_rincian": "330000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "7020000",
+    "rincian_murni": "7020000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "3360000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0043",
+        "nama_akun": "Belanja Natura dan Pakan-Natura",
+        "total_rincian": "3660000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "7955000",
+    "rincian_murni": "7955000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7955000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "33000000",
+    "rincian_murni": "33000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "33000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "42500000",
+    "rincian_murni": "42660000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "42500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8906,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.06.10",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penatausahaan Arsip Dinamis pada SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "2499750",
+    "rincian_murni": "2499750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1098950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1400800"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8913,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1866",
+    "kode_giat": "7.01.01.2.07",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.07.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pengadaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "17824100",
+    "rincian_murni": "30370700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "5277500"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "12546600"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8919,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.08.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Jasa Surat Menyurat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "4974200",
+    "rincian_murni": "4974200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4974200"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.08.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "108149940",
+    "rincian_murni": "108149940",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "18149940"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "48000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "30000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.08.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "487636824",
+    "rincian_murni": "432162586",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "294000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "81600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "75600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "36436824"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.09.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "34000000",
+    "rincian_murni": "34000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "13000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "21000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8928,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.09.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pemeliharaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "8730000",
+    "rincian_murni": "8730000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "3050000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "2920000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0409",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Personal Computer",
+        "total_rincian": "2760000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.01.2.09.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "23140000",
+    "rincian_murni": "23099800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "23140000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8291,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.02.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi/Sinergi Perencanaan dan Pelaksanaan Kegiatan Pemerintahan dengan Perangkat Daerah dan Instansi Vertikal Terkait",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "55591200",
+    "rincian_murni": "35645550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1694000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "987200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "2400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "28500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3060000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8292,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.02.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "6396520",
+    "rincian_murni": "25887320",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1510120"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "886400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8294,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.02.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Percepatan Pencapaian Standar Pelayanan Minimal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "10190850",
+    "rincian_murni": "12996600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "343050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4747800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5100000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8295,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.02.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Peningkatan Efektifitas Pelaksanaan Pelayanan kepada Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "13760150",
+    "rincian_murni": "34455500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2097350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1662800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8299,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.427.1822",
+    "kode_giat": "7.01.02.2.04",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.02.2.04.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pelaksanaan Urusan Pemerintahan yang Dilimpahkan kepada Camat",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pelaksanaan Urusan Pemerintahan yang terkait dengan Nonperizinan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "25963750",
+    "rincian_murni": "22133550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2306150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1577600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "80000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "22000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8300,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.427.1822",
+    "kode_giat": "7.01.02.2.04",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.02.2.04.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pelaksanaan Urusan Pemerintahan yang Dilimpahkan kepada Camat",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pelaksanaan Urusan Pemerintahan yang terkait dengan Kewenangan Lain yang Dilimpahkan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "22403050",
+    "rincian_murni": "10221100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1065450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "857600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20480000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8301,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Peningkatan Partisipasi Masyarakat dalam Forum Musyawarah Perencanaan Pembangunan di Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3000000",
+    "rincian_murni": "3000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "147200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "452800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8303,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemberdayaan Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "81499250",
+    "rincian_murni": "120801500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0011",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Ternak/Bibit Ikan",
+        "total_rincian": "330000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2358850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4610400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "58600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "13600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.04.01.0001",
+        "nama_akun": "Belanja Modal Alat Pengolahan Tanah dan Tanaman",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.04.01.0002",
+        "nama_akun": "Belanja Modal Alat Pemeliharaan Tanaman/Ikan/Ternak",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8311,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.428.1825",
+    "kode_giat": "7.01.03.2.03",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.03.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemberdayaan Lembaga Kemasyarakatan Tingkat Kecamatan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Pengembangan Usaha Ekonomi Masyarakat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "43441100",
+    "rincian_murni": "16330650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "7200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "10002500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0011",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Ternak/Bibit Ikan",
+        "total_rincian": "330000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1770900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2527700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "50000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "240000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "7200000"
+      },
+      {
+        "kode_akun": "5.2.02.04.01.0001",
+        "nama_akun": "Belanja Modal Alat Pengolahan Tanah dan Tanaman",
+        "total_rincian": "2040000"
+      },
+      {
+        "kode_akun": "5.2.02.04.01.0002",
+        "nama_akun": "Belanja Modal Alat Pemeliharaan Tanaman/Ikan/Ternak",
+        "total_rincian": "2200000"
+      },
+      {
+        "kode_akun": "5.2.02.15.02.0005",
+        "nama_akun": "Belanja Modal Sepatu Lapangan",
+        "total_rincian": "480000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 9001,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.428.1882",
+    "kode_giat": "7.01.03.2.05",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi dan Sinkronisasi Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM)",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penanganan Covid-19 di Tingkat Desa dan Kelurahan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "199999173",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "29053173"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0038",
+        "nama_akun": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "total_rincian": "12846000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "141600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "8500000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "8000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8318,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.04.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Sinergitas dengan Kepolisian Negara Republik Indonesia, Tentara Nasional Indonesia dan Instansi Vertikal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "23870750",
+    "rincian_murni": "18630000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "774350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "746400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "9350000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8319,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.429.1827",
+    "kode_giat": "7.01.04.2.01",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.04.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Harmonisasi Hubungan Dengan Tokoh Agama dan Tokoh Masyarakat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "5000000",
+    "rincian_murni": "5000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "271200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "328800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8320,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.429.1828",
+    "kode_giat": "7.01.04.2.02",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.04.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penerapan dan Penegakan Peraturan Daerah dan Peraturan Kepala Daerah",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi/Sinergi Dengan Perangkat Daerah yang Tugas dan Fungsinya di Bidang Penegakan Peraturan Perundang-Undangan dan/atau Kepolisian Negara Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "8931400",
+    "rincian_murni": "8931400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1577600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "653800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5100000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8324,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.05.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pembinaan Wawasan Kebangsaan dan Ketahanan Nasional dalam rangka Memantapkan Pengamalan Pancasila, Pelaksanaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pelestarian Bhinneka Tunggal Ika serta Pemertahanan dan Pemeliharaan Keutuhan Negara Kesatuan Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "179715950",
+    "rincian_murni": "111065300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3319950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8476000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "31100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "17600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "33500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0036",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "2370000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "2250000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "6600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.10.0014",
+        "nama_akun": "Belanja Jasa Ketersediaan Layanan (Availibility Payment) Infrastruktur Fasilitas Sarana dan Prasarana Olahraga serta Kesenian",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5950000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "4800000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "48750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8325,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.05.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi, Koordinasi dan Pembinaan (Bimtek, Sosialisasi, Konsultasi) Wawasan Kebangsaan dan Ketahanan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "5280700",
+    "rincian_murni": "5280700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "601900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "678800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8326,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.05.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pembinaan Persatuan dan Kesatuan Bangsa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "9088700",
+    "rincian_murni": "9088700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "388700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "700000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8327,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.05.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pembinaan Kerukunan Antarsuku dan Intrasuku, Umat Beragama, Ras, dan Golongan Lainnya Guna Mewujudkan Stabilitas Keamanan Lokal, Regional, dan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "7011100",
+    "rincian_murni": "136230400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "372300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "638800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0036",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8328,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.05.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Penanganan Konflik Sosial sesuai Ketentuan Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "4428650",
+    "rincian_murni": "4428650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "199850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "228800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8331,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.05.2.01.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pelaksanaan Tugas Forum Koordinasi Pimpinan di Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "21054300",
+    "rincian_murni": "25454300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1554200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1900100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "17600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8333,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Administrasi Tata Pemerintahan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "22995950",
+    "rincian_murni": "25257450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "458350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "857600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "17600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4080000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8334,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Pengelolaan Keuangan Desa dan Pendayagunaan Aset Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "11194700",
+    "rincian_murni": "3044700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "305900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "288800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8335,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Penerapan dan Penegakan Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "12372700",
+    "rincian_murni": "12372700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "246300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "126400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8336,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas Kepala Desa dan Perangkat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "2999700",
+    "rincian_murni": "2999700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "263700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "736000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8338,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas dan Fungsi Badan Permusyawaratan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "3269150",
+    "rincian_murni": "3269150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "330350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "428800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "510000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8340,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Sinkronisasi Perencanaan Pembangunan Daerah dengan Pembangunan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "22327750",
+    "rincian_murni": "8930250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1483750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "544000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15880000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4420000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8342,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.11",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Penyelenggaraan Ketenteraman dan Ketertiban Umum",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "36060200",
+    "rincian_murni": "36060200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "539000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1021200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "32800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8343,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.12",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Tugas, Fungsi, dan Kewajiban Lembaga Kemasyarakatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "7410650",
+    "rincian_murni": "3875100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "90650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6120000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8344,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.13",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Penyusunan Perencanaan Pembangunan Partisipatif",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "28213600",
+    "rincian_murni": "46133600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4325600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3569000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "39000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12220000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "7310000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8347,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.16",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Fasilitasi Penyusunan Program dan Pelaksanaan Pemberdayaan Masyarakat Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "11091850",
+    "rincian_murni": "11087600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "388050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1103800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8348,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.17",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi Pendampingan Desa di Wilayahnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "44006500",
+    "rincian_murni": "43836500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1318900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1797600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15520000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "25370000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8349,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1837.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.06.2.01.18",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Koordinasi Pelaksanaan Pembangunan Kawasan Perdesaan di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Cisarua",
+    "rincian": "20011250",
+    "rincian_murni": "9988550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2111050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1540200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4760000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8304,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1838.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Peningkatan Partisipasi Masyarakat dalam Forum Musyawarah Perencanaan Pembangunan di Kelurahan",
+    "nama_sub_skpd": "Kelurahan Cisarua",
+    "rincian": "15013250",
+    "rincian_murni": "15013500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2190500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1372750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "3300000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8305,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1838.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pembangunan Sarana dan Prasarana Kelurahan",
+    "nama_sub_skpd": "Kelurahan Cisarua",
+    "rincian": "740245277",
+    "rincian_murni": "750022244",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "35962200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "7600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0011",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Ternak/Bibit Ikan",
+        "total_rincian": "66300000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "6230000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3798600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6002000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0039",
+        "nama_akun": "Belanja Persediaan untuk Dijual/Diserahkan-Persediaan untuk Dijual/Diserahkan kepada Masyarakat",
+        "total_rincian": "379382733"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15170000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0070",
+        "nama_akun": "Belanja Pakaian Pelatihan Kerja",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "2317000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "2312500"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "13200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.10.0014",
+        "nama_akun": "Belanja Jasa Ketersediaan Layanan (Availibility Payment) Infrastruktur Fasilitas Sarana dan Prasarana Olahraga serta Kesenian",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0036",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Taman",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "22600000"
+      },
+      {
+        "kode_akun": "5.2.04.01.01.0003",
+        "nama_akun": "Belanja Modal Jalan Kabupaten",
+        "total_rincian": "138970244"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8306,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1838.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Pemberdayaan Masyarakat di Kelurahan",
+    "nama_sub_skpd": "Kelurahan Cisarua",
+    "rincian": "637684436",
+    "rincian_murni": "565526223",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "33756900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "22076400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "300000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "10090600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "1512000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "145480000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0056",
+        "nama_akun": "Belanja Makanan dan Minuman pada Fasilitas Pelayanan Urusan Kesehatan",
+        "total_rincian": "16620000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0013",
+        "nama_akun": "Belanja Jasa Tenaga Pendidikan",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0014",
+        "nama_akun": "Belanja Jasa Tenaga Kesehatan",
+        "total_rincian": "112800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "189600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "36000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1474,
+    "id_sub_giat": 8307,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1474.1838.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.25.0000",
+    "kode_sub_giat": "7.01.03.2.02.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.25.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN CISARUA",
+    "nama_sub_giat": "Evaluasi Kelurahan",
+    "nama_sub_skpd": "Kelurahan Cisarua",
+    "rincian": "12680000",
+    "rincian_murni": "12680000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1627200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "492800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10560000"
+      }
+    ]
+  }
+]

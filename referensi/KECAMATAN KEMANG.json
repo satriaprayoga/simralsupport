@@ -1,0 +1,1586 @@
+[
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1461.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0000",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "KECAMATAN KEMANG",
+    "rincian": "7500000",
+    "rincian_murni": "7500000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2304550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "945450"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "13348950",
+    "rincian_murni": "13348950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4402500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "786450"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "8160000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "7849850",
+    "rincian_murni": "7849850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2652000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "947850"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4250000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.01.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "51450868",
+    "rincian_murni": "51456762",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10386000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4340600"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "11900000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1860",
+    "kode_giat": "7.01.01.2.01",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.01.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "9590800",
+    "rincian_murni": "9590800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3339600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "811200"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5440000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "5459123990",
+    "rincian_murni": "6186964305",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "2122082008"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "311062000"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "126478000"
+      },
+      {
+        "kode_akun": "5.1.01.01.04.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional PNS",
+        "total_rincian": "13130000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "64304000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "158166000"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "39393000"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "274457"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "152916525"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "5497000"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "11421000"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "2434600000"
+      },
+      {
+        "kode_akun": "5.1.01.02.04.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Kelangkaan Profesi PNS",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "16800000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0002",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "total_rincian": "3000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.02.05",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "9276850",
+    "rincian_murni": "9276850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5546250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1690600"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2040000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1861",
+    "kode_giat": "7.01.01.2.02",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.02.07",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "9715550",
+    "rincian_murni": "9715550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2602000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "483550"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6630000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.06.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "19997150",
+    "rincian_murni": "19997150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "19997150"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.06.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "20000000",
+    "rincian_murni": "20000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1865",
+    "kode_giat": "7.01.01.2.06",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.06.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "19955000",
+    "rincian_murni": "19955000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "6850000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1105000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8919,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.08.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyediaan Jasa Surat Menyurat",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "141572536",
+    "rincian_murni": "149966373",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11804950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4792700"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "45600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0045",
+        "nama_akun": "Belanja Jasa Pelayanan Kearsipan",
+        "total_rincian": "40000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "21060000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4995000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "2980100"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "6291250"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.08.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "102000000",
+    "rincian_murni": "102000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "90000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1867",
+    "kode_giat": "7.01.01.2.08",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.08.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "150372608",
+    "rincian_murni": "149987970",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "5025000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "61200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "72000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "12145608"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.09.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "70424268",
+    "rincian_murni": "70360162",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "26400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "42000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.422.1868",
+    "kode_giat": "7.01.01.2.09",
+    "kode_program": "7.01.01",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.01.2.09.09",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "24997000",
+    "rincian_murni": "24997000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "22819000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "2178000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8291,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.02.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi/Sinergi Perencanaan dan Pelaksanaan Kegiatan Pemerintahan dengan Perangkat Daerah dan Instansi Vertikal Terkait",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "79989068",
+    "rincian_murni": "79994962",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9159800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "175000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "38000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "4730000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3100000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8292,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.427.1819",
+    "kode_giat": "7.01.02.2.01",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.02.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Penyelenggaraan Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemerintahan di Tingkat Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "19999700",
+    "rincian_murni": "19999700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2924350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1875350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "7200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8294,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.02.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Fasilitasi Percepatan Pencapaian Standar Pelayanan Minimal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "19997450",
+    "rincian_murni": "19997450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6839700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2077750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4680000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8295,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.427.1820",
+    "kode_giat": "7.01.02.2.02",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.02.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan yang tidak Dilaksanakan oleh Unit Kerja Perangkat Daerah yang ada di Kecamatan",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Peningkatan Efektifitas Pelaksanaan Pelayanan kepada Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "132272322",
+    "rincian_murni": "132335897",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4629900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1465350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "19680000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "98400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8296,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.427.1821",
+    "kode_giat": "7.01.02.2.03",
+    "kode_program": "7.01.02",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.02.2.03.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Pemeliharaan Prasarana dan Sarana Pelayanan Umum",
+    "nama_program": "PROGRAM PENYELENGGARAAN PEMERINTAHAN DAN PELAYANAN PUBLIK",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi/Sinergi dengan Perangkat Daerah dan/atau Instansi Vertikal yang terkait dalam Pemeliharaan Sarana dan Prasarana Pelayanan Umum",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "4990000",
+    "rincian_murni": "4990000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1240000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2550000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8303,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.428.1823",
+    "kode_giat": "7.01.03.2.01",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.03.2.01.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Kegiatan Pemberdayaan Desa",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Peningkatan Efektifitas Kegiatan Pemberdayaan Masyarakat di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "103118868",
+    "rincian_murni": "103124762",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7840600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8744000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "48000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "13710000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 9001,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.428.1882",
+    "kode_giat": "7.01.03.2.05",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.03.2.05.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi dan Sinkronisasi Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM)",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Penanganan Covid-19 di Tingkat Desa dan Kelurahan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "174993552",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "73297552"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0037",
+        "nama_akun": "Belanja Obat-Obatan-Obat",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0038",
+        "nama_akun": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "total_rincian": "1296000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "76800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "17000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8321,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.429.1829",
+    "kode_giat": "7.01.04.2.03",
+    "kode_program": "7.01.04",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.04.2.03.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Koordinasi Upaya Penyelenggaraan Ketentraman dan Ketertiban Umum",
+    "nama_program": "PROGRAM KOORDINASI KETENTRAMAN DAN KETERTIBAN UMUM",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Sinergitas dengan Kepolisian Negara Republik Indonesia, Tentara Nasional Indonesia dan Instansi Vertikal di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "99967204",
+    "rincian_murni": "99999885",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "144400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "11775000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "68400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "13575000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8324,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.05.2.01.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Pembinaan Wawasan Kebangsaan dan Ketahanan Nasional dalam rangka Memantapkan Pengamalan Pancasila, Pelaksanaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pelestarian Bhinneka Tunggal Ika serta Pemertahanan dan Pemeliharaan Keutuhan Negara Kesatuan Republik Indonesia",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "14996650",
+    "rincian_murni": "14996650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "916650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4680000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8327,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.05.2.01.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Pembinaan Kerukunan Antarsuku dan Intrasuku, Umat Beragama, Ras, dan Golongan Lainnya Guna Mewujudkan Stabilitas Keamanan Lokal, Regional, dan Nasional",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "64999950",
+    "rincian_murni": "74999950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3191350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "373600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "34000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "1350000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "16085000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "8500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8331,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.430.1831",
+    "kode_giat": "7.01.05.2.01",
+    "kode_program": "7.01.05",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.05.2.01.08",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Penyelenggaraan Urusan Pemerintahan Umum sesuai Penugasan Kepala Daerah",
+    "nama_program": "PROGRAM PENYELENGGARAAN URUSAN PEMERINTAHAN UMUM",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Pelaksanaan Tugas Forum Koordinasi Pimpinan di Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "59921286",
+    "rincian_murni": "59993073",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "872750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "45600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8333,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.06.2.01.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Fasilitasi Administrasi Tata Pemerintahan Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "39993768",
+    "rincian_murni": "39999662",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "59500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5410000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8337,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.06.2.01.06",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Pemilihan Kepala Desa",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "9999750",
+    "rincian_murni": "9999750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2632950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2441800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3700000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1225000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8349,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1796.97.431.1832",
+    "kode_giat": "7.01.06.2.01",
+    "kode_program": "7.01.06",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.06.2.01.18",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0001",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Fasilitasi, Rekomendasi dan Koordinasi Pembinaan dan Pengawasan Pemerintahan Desa",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN PEMERINTAHAN DESA",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Koordinasi Pelaksanaan Pembangunan Kawasan Perdesaan di Wilayah Kecamatan",
+    "nama_sub_skpd": "Sekretariat Kecamatan Kemang",
+    "rincian": "32830000",
+    "rincian_murni": "32830000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1240000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6270000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "25320000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8304,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1797.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.03.2.02.01",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Peningkatan Partisipasi Masyarakat dalam Forum Musyawarah Perencanaan Pembangunan di Kelurahan",
+    "nama_sub_skpd": "Kelurahan Atang Senjaya",
+    "rincian": "9980050",
+    "rincian_murni": "9980050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1372800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2032250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5700000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "350000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "525000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8305,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1797.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.03.2.02.02",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Pembangunan Sarana dan Prasarana Kelurahan",
+    "nama_sub_skpd": "Kelurahan Atang Senjaya",
+    "rincian": "497359812",
+    "rincian_murni": "497403387",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9647340"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3194950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "390000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "550000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "80000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "13050000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0016",
+        "nama_akun": "Belanja Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
+        "total_rincian": "359400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "20400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "48000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "3300000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.2.02.04.01.0002",
+        "nama_akun": "Belanja Modal Alat Pemeliharaan Tanaman/Ikan/Ternak",
+        "total_rincian": "200000"
+      },
+      {
+        "kode_akun": "5.2.02.08.01.0056",
+        "nama_akun": "Belanja Modal Alat Laboratorium Lain",
+        "total_rincian": "450450"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8306,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1797.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.03.2.02.03",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Pemberdayaan Masyarakat di Kelurahan",
+    "nama_sub_skpd": "Kelurahan Atang Senjaya",
+    "rincian": "154995400",
+    "rincian_murni": "154995400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10520900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2049500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "360000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "24000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0013",
+        "nama_akun": "Belanja Jasa Tenaga Pendidikan",
+        "total_rincian": "36000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0014",
+        "nama_akun": "Belanja Jasa Tenaga Kesehatan",
+        "total_rincian": "14400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0017",
+        "nama_akun": "Belanja Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "total_rincian": "51600000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "9000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0118",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Mebel",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "1460000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0409",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Personal Computer",
+        "total_rincian": "1380000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "1625000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1461,
+    "id_sub_giat": 8307,
+    "kode_bidang_urusan": "7.01",
+    "kode_bl": "1461.1797.97.428.1824",
+    "kode_giat": "7.01.03.2.02",
+    "kode_program": "7.01.03",
+    "kode_skpd": "7.01.0.00.0.00.12.0000",
+    "kode_sub_giat": "7.01.03.2.02.04",
+    "kode_sub_skpd": "7.01.0.00.0.00.12.0002",
+    "nama_bidang_urusan": "KECAMATAN",
+    "nama_giat": "Kegiatan Pemberdayaan Kelurahan",
+    "nama_program": "PROGRAM PEMBERDAYAAN MASYARAKAT DESA DAN KELURAHAN",
+    "nama_skpd": "KECAMATAN KEMANG",
+    "nama_sub_giat": "Evaluasi Kelurahan",
+    "nama_sub_skpd": "Kelurahan Atang Senjaya",
+    "rincian": "213928700",
+    "rincian_murni": "126928700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "628700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0017",
+        "nama_akun": "Belanja Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "174000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "24000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "1500000"
+      }
+    ]
+  }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "id_skpd": 1367,
+        "kode_skpd": "1.01.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS PENDIDIKAN",
+        "rincian": 1784782969590,
+        "rincian_murni": 1758915106902
+    },
+    {
+        "id_skpd": 1368,
+        "kode_skpd": "1.02.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS KESEHATAN",
+        "rincian": "1963513417924",
+        "rincian_murni": "1517286867168"
+    },
+    {
+        "id_skpd": 1369,
+        "kode_skpd": "1.03.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+        "rincian": 955755333083,
+        "rincian_murni": 870976301146
+    },
+    {
+        "id_skpd": 1370,
+        "kode_skpd": "1.03.1.04.2.10.01.0000",
+        "nama_skpd": "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+        "rincian": 242898590500,
+        "rincian_murni": 233023099150
+    },
+    {
+        "id_skpd": 1371,
+        "kode_skpd": "1.05.0.00.0.00.01.0000",
+        "nama_skpd": "SATUAN POLISI PAMONG PRAJA",
+        "rincian": 41942814100,
+        "rincian_murni": 44285102000
+    },
+    {
+        "id_skpd": 1372,
+        "kode_skpd": "1.05.0.00.0.00.02.0000",
+        "nama_skpd": "BADAN PENANGGULANGAN BENCANA DAERAH",
+        "rincian": 23923116675,
+        "rincian_murni": 21460491000
+    },
+    {
+        "id_skpd": 1373,
+        "kode_skpd": "1.05.0.00.0.00.03.0000",
+        "nama_skpd": "DINAS PEMADAM KEBAKARAN",
+        "rincian": 26462406900,
+        "rincian_murni": 27948645000
+    },
+    {
+        "id_skpd": 1374,
+        "kode_skpd": "1.06.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS SOSIAL",
+        "rincian": 33209612762,
+        "rincian_murni": 35643631500
+    },
+    {
+        "id_skpd": 1375,
+        "kode_skpd": "2.07.3.32.0.00.01.0000",
+        "nama_skpd": "DINAS TENAGA KERJA",
+        "rincian": 17462304387,
+        "rincian_murni": 19474831000
+    },
+    {
+        "id_skpd": 1376,
+        "kode_skpd": "2.08.2.14.0.00.01.0000",
+        "nama_skpd": "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+        "rincian": 33158266927,
+        "rincian_murni": 24515139000
+    },
+    {
+        "id_skpd": 1377,
+        "kode_skpd": "2.09.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS KETAHANAN PANGAN",
+        "rincian": 16803732000,
+        "rincian_murni": 16276095000
+    },
+    {
+        "id_skpd": 1379,
+        "kode_skpd": "2.11.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+        "rincian": 148592222625,
+        "rincian_murni": 119410444500
+    },
+    {
+        "id_skpd": 1383,
+        "kode_skpd": "2.12.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+        "rincian": 37403401999,
+        "rincian_murni": 32911267000
+    },
+    {
+        "id_skpd": 1388,
+        "kode_skpd": "2.13.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+        "rincian": 35893546109,
+        "rincian_murni": 33886062000
+    },
+    {
+        "id_skpd": 1396,
+        "kode_skpd": "2.15.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS PERHUBUNGAN",
+        "rincian": 94848561562,
+        "rincian_murni": 97872747000
+    },
+    {
+        "id_skpd": 1400,
+        "kode_skpd": "2.16.2.20.2.21.01.0000",
+        "nama_skpd": "DINAS KOMUNIKASI DAN INFORMATIKA",
+        "rincian": 38054234153,
+        "rincian_murni": 35699980000
+    },
+    {
+        "id_skpd": 1401,
+        "kode_skpd": "2.17.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS KOPERASI, USAHA KECIL DAN MENENGAH",
+        "rincian": 19580797081,
+        "rincian_murni": 21987996000
+    },
+    {
+        "id_skpd": 1404,
+        "kode_skpd": "2.18.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+        "rincian": 28870132934,
+        "rincian_murni": 30272008000
+    },
+    {
+        "id_skpd": 1405,
+        "kode_skpd": "2.19.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS PEMUDA DAN OLAHRAGA",
+        "rincian": 140646230371,
+        "rincian_murni": 145969589000
+    },
+    {
+        "id_skpd": 1406,
+        "kode_skpd": "2.22.3.26.0.00.01.0000",
+        "nama_skpd": "DINAS KEBUDAYAAN DAN PARIWISATA",
+        "rincian": 25612533119,
+        "rincian_murni": 29357599500
+    },
+    {
+        "id_skpd": 1407,
+        "kode_skpd": "2.23.2.24.0.00.01.0000",
+        "nama_skpd": "DINAS ARSIP DAN PERPUSTAKAAN",
+        "rincian": 12641331250,
+        "rincian_murni": 14691422000
+    },
+    {
+        "id_skpd": 1408,
+        "kode_skpd": "3.25.3.27.0.00.01.0000",
+        "nama_skpd": "DINAS PERIKANAN DAN PETERNAKAN",
+        "rincian": 39005018363,
+        "rincian_murni": 42426747000
+    },
+    {
+        "id_skpd": 1409,
+        "kode_skpd": "3.27.0.00.0.00.01.0000",
+        "nama_skpd": "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+        "rincian": 59589448875,
+        "rincian_murni": 58392843000
+    },
+    {
+        "id_skpd": 1410,
+        "kode_skpd": "3.30.3.31.0.00.01.0000",
+        "nama_skpd": "DINAS PERDAGANGAN DAN PERINDUSTRIAN",
+        "rincian": 49374893719,
+        "rincian_murni": 22213238000
+    },
+    {
+        "id_skpd": 1412,
+        "kode_skpd": "4.01.0.00.0.00.01.0000",
+        "nama_skpd": "SEKRETARIAT DAERAH",
+        "rincian": 149387000983,
+        "rincian_murni": 147094523000
+    },
+    {
+        "id_skpd": 1413,
+        "kode_skpd": "4.02.0.00.0.00.01.0000",
+        "nama_skpd": "SEKRETARIAT DPRD",
+        "rincian": 124699128185,
+        "rincian_murni": 130000000000
+    },
+    {
+        "id_skpd": 1411,
+        "kode_skpd": "5.01.5.05.0.00.01.0000",
+        "nama_skpd": "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+        "rincian": 30078570562,
+        "rincian_murni": 31595683500
+    },
+    {
+        "id_skpd": 96,
+        "kode_skpd": "5.02.0.00.0.00.01.0000",
+        "nama_skpd": "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+        "rincian": 1444410768204,
+        "rincian_murni": 1414570098019
+    },
+    {
+        "id_skpd": 1414,
+        "kode_skpd": "5.02.0.00.0.00.02.0000",
+        "nama_skpd": "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+        "rincian": 171544725351,
+        "rincian_murni": 157685941614
+    },
+    {
+        "id_skpd": 1415,
+        "kode_skpd": "5.03.5.04.0.00.01.0000",
+        "nama_skpd": "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+        "rincian": 150481234972,
+        "rincian_murni": 147309450058
+    },
+    {
+        "id_skpd": 1422,
+        "kode_skpd": "6.01.0.00.0.00.01.0000",
+        "nama_skpd": "INSPEKTORAT",
+        "rincian": 31069412100,
+        "rincian_murni": 34579361000
+    },
+    {
+        "id_skpd": 1424,
+        "kode_skpd": "7.01.0.00.0.00.01.0000",
+        "nama_skpd": "KECAMATAN CIBINONG",
+        "rincian": 45856077000,
+        "rincian_murni": 44552615000
+    },
+    {
+        "id_skpd": 1425,
+        "kode_skpd": "7.01.0.00.0.00.02.0000",
+        "nama_skpd": "KECAMATAN GUNUNG PUTRI",
+        "rincian": 5200725000,
+        "rincian_murni": 5503005000
+    },
+    {
+        "id_skpd": 1452,
+        "kode_skpd": "7.01.0.00.0.00.03.0000",
+        "nama_skpd": "KECAMATAN CITEUREUP",
+        "rincian": 11306739750,
+        "rincian_murni": 11530355000
+    },
+    {
+        "id_skpd": 1453,
+        "kode_skpd": "7.01.0.00.0.00.04.0000",
+        "nama_skpd": "KECAMATAN SUKARAJA",
+        "rincian": 5350069975,
+        "rincian_murni": 5939273000
+    },
+    {
+        "id_skpd": 1454,
+        "kode_skpd": "7.01.0.00.0.00.05.0000",
+        "nama_skpd": "KECAMATAN BABAKAN MADANG",
+        "rincian": 12583461050,
+        "rincian_murni": 12961658000
+    },
+    {
+        "id_skpd": 1455,
+        "kode_skpd": "7.01.0.00.0.00.06.0000",
+        "nama_skpd": "KECAMATAN JONGGOL",
+        "rincian": 5127690294,
+        "rincian_murni": 5556306294
+    },
+    {
+        "id_skpd": 1456,
+        "kode_skpd": "7.01.0.00.0.00.07.0000",
+        "nama_skpd": "KECAMATAN CILEUNGSI",
+        "rincian": 5428613375,
+        "rincian_murni": 5919007000
+    },
+    {
+        "id_skpd": 1457,
+        "kode_skpd": "7.01.0.00.0.00.08.0000",
+        "nama_skpd": "KECAMATAN CARIU",
+        "rincian": 5120776000,
+        "rincian_murni": 5556984000
+    },
+    {
+        "id_skpd": 1458,
+        "kode_skpd": "7.01.0.00.0.00.09.0000",
+        "nama_skpd": "KECAMATAN SUKAMAKMUR",
+        "rincian": 4300973100,
+        "rincian_murni": 4668779000
+    },
+    {
+        "id_skpd": 1459,
+        "kode_skpd": "7.01.0.00.0.00.10.0000",
+        "nama_skpd": "KECAMATAN PARUNG",
+        "rincian": 4559100075,
+        "rincian_murni": 5031576000
+    },
+    {
+        "id_skpd": 1460,
+        "kode_skpd": "7.01.0.00.0.00.11.0000",
+        "nama_skpd": "KECAMATAN GUNUNG SINDUR",
+        "rincian": 4785553100,
+        "rincian_murni": 5167269000
+    },
+    {
+        "id_skpd": 1461,
+        "kode_skpd": "7.01.0.00.0.00.12.0000",
+        "nama_skpd": "KECAMATAN KEMANG",
+        "rincian": 7851508950,
+        "rincian_murni": 8335536000
+    },
+    {
+        "id_skpd": 1462,
+        "kode_skpd": "7.01.0.00.0.00.13.0000",
+        "nama_skpd": "KECAMATAN BOJONGGEDE",
+        "rincian": 8406421175,
+        "rincian_murni": 8461423000
+    },
+    {
+        "id_skpd": 1463,
+        "kode_skpd": "7.01.0.00.0.00.14.0000",
+        "nama_skpd": "KECAMATAN LEUWILIANG",
+        "rincian": 5227726611,
+        "rincian_murni": 5718457461
+    },
+    {
+        "id_skpd": 1464,
+        "kode_skpd": "7.01.0.00.0.00.15.0000",
+        "nama_skpd": "KECAMATAN CIAMPEA",
+        "rincian": 4892692750,
+        "rincian_murni": 5331660000
+    },
+    {
+        "id_skpd": 1465,
+        "kode_skpd": "7.01.0.00.0.00.16.0000",
+        "nama_skpd": "KECAMATAN CIBUNGBULANG",
+        "rincian": 5386148950,
+        "rincian_murni": 5895077000
+    },
+    {
+        "id_skpd": 1466,
+        "kode_skpd": "7.01.0.00.0.00.17.0000",
+        "nama_skpd": "KECAMATAN PAMIJAHAN",
+        "rincian": 4910245577,
+        "rincian_murni": 5392369000
+    },
+    {
+        "id_skpd": 1467,
+        "kode_skpd": "7.01.0.00.0.00.18.0000",
+        "nama_skpd": "KECAMATAN RUMPIN",
+        "rincian": 12154838154,
+        "rincian_murni": 12625591000
+    },
+    {
+        "id_skpd": 1468,
+        "kode_skpd": "7.01.0.00.0.00.19.0000",
+        "nama_skpd": "KECAMATAN JASINGA",
+        "rincian": 13063411000,
+        "rincian_murni": 13466411000
+    },
+    {
+        "id_skpd": 1469,
+        "kode_skpd": "7.01.0.00.0.00.20.0000",
+        "nama_skpd": "KECAMATAN PARUNG PANJANG",
+        "rincian": 4951551250,
+        "rincian_murni": 5172620000
+    },
+    {
+        "id_skpd": 1470,
+        "kode_skpd": "7.01.0.00.0.00.21.0000",
+        "nama_skpd": "KECAMATAN NANGGUNG",
+        "rincian": 4860605000,
+        "rincian_murni": 5207880000
+    },
+    {
+        "id_skpd": 1471,
+        "kode_skpd": "7.01.0.00.0.00.22.0000",
+        "nama_skpd": "KECAMATAN CIGUDEG",
+        "rincian": 5350388800,
+        "rincian_murni": 5797059500
+    },
+    {
+        "id_skpd": 1472,
+        "kode_skpd": "7.01.0.00.0.00.23.0000",
+        "nama_skpd": "KECAMATAN TENJO",
+        "rincian": 4311599890,
+        "rincian_murni": 4705826000
+    },
+    {
+        "id_skpd": 1473,
+        "kode_skpd": "7.01.0.00.0.00.24.0000",
+        "nama_skpd": "KECAMATAN CIAWI",
+        "rincian": 5178781050,
+        "rincian_murni": 5583276000
+    },
+    {
+        "id_skpd": 1474,
+        "kode_skpd": "7.01.0.00.0.00.25.0000",
+        "nama_skpd": "KECAMATAN CISARUA",
+        "rincian": 8171058400,
+        "rincian_murni": 8594635000
+    },
+    {
+        "id_skpd": 1475,
+        "kode_skpd": "7.01.0.00.0.00.26.0000",
+        "nama_skpd": "KECAMATAN MEGAMENDUNG",
+        "rincian": 4717091231,
+        "rincian_murni": 5064049981
+    },
+    {
+        "id_skpd": 1476,
+        "kode_skpd": "7.01.0.00.0.00.27.0000",
+        "nama_skpd": "KECAMATAN CARINGIN",
+        "rincian": 12809521022,
+        "rincian_murni": 13274390772
+    },
+    {
+        "id_skpd": 1477,
+        "kode_skpd": "7.01.0.00.0.00.28.0000",
+        "nama_skpd": "KECAMATAN CIJERUK",
+        "rincian": 4728534000,
+        "rincian_murni": 5293364000
+    },
+    {
+        "id_skpd": 1478,
+        "kode_skpd": "7.01.0.00.0.00.29.0000",
+        "nama_skpd": "KECAMATAN CIOMAS",
+        "rincian": 8006499250,
+        "rincian_murni": 8133594000
+    },
+    {
+        "id_skpd": 1479,
+        "kode_skpd": "7.01.0.00.0.00.30.0000",
+        "nama_skpd": "KECAMATAN DRAMAGA",
+        "rincian": 5027957962,
+        "rincian_murni": 5494362962
+    },
+    {
+        "id_skpd": 1480,
+        "kode_skpd": "7.01.0.00.0.00.31.0000",
+        "nama_skpd": "KECAMATAN TAMANSARI",
+        "rincian": 5765693500,
+        "rincian_murni": 6280624000
+    },
+    {
+        "id_skpd": 1481,
+        "kode_skpd": "7.01.0.00.0.00.32.0000",
+        "nama_skpd": "KECAMATAN KLAPANUNGGAL",
+        "rincian": 5566767250,
+        "rincian_murni": 6030331000
+    },
+    {
+        "id_skpd": 1482,
+        "kode_skpd": "7.01.0.00.0.00.33.0000",
+        "nama_skpd": "KECAMATAN CISEENG",
+        "rincian": 4506036900,
+        "rincian_murni": 5045256000
+    },
+    {
+        "id_skpd": 1483,
+        "kode_skpd": "7.01.0.00.0.00.34.0000",
+        "nama_skpd": "KECAMATAN RANCABUNGUR",
+        "rincian": 12207238000,
+        "rincian_murni": 12557978000
+    },
+    {
+        "id_skpd": 1484,
+        "kode_skpd": "7.01.0.00.0.00.35.0000",
+        "nama_skpd": "KECAMATAN SUKAJAYA",
+        "rincian": 4701529460,
+        "rincian_murni": 5198572000
+    },
+    {
+        "id_skpd": 1485,
+        "kode_skpd": "7.01.0.00.0.00.36.0000",
+        "nama_skpd": "KECAMATAN TANJUNGSARI",
+        "rincian": 4466554800,
+        "rincian_murni": 4937743000
+    },
+    {
+        "id_skpd": 1486,
+        "kode_skpd": "7.01.0.00.0.00.37.0000",
+        "nama_skpd": "KECAMATAN TAJURHALANG",
+        "rincian": 4329563850,
+        "rincian_murni": 4723828000
+    },
+    {
+        "id_skpd": 1487,
+        "kode_skpd": "7.01.0.00.0.00.38.0000",
+        "nama_skpd": "KECAMATAN CIGOMBONG",
+        "rincian": 4837234500,
+        "rincian_murni": 5016037000
+    },
+    {
+        "id_skpd": 1488,
+        "kode_skpd": "7.01.0.00.0.00.39.0000",
+        "nama_skpd": "KECAMATAN LEUWISADENG",
+        "rincian": 3966293500,
+        "rincian_murni": 4302356000
+    },
+    {
+        "id_skpd": 1489,
+        "kode_skpd": "7.01.0.00.0.00.40.0000",
+        "nama_skpd": "KECAMATAN TENJOLAYA",
+        "rincian": 4151564204,
+        "rincian_murni": 4489647654
+    },
+    {
+        "id_skpd": 1423,
+        "kode_skpd": "8.01.0.00.0.00.01.0000",
+        "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+        "rincian": 68110232463,
+        "rincian_murni": 63430979000
+    }
+]

@@ -1,0 +1,2720 @@
+[
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "69472350",
+    "rincian_murni": "79999950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17786550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8420800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "33100000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1290000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "14999700",
+    "rincian_murni": "19999800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1965700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5324000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3340000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "2770000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "15000100",
+    "rincian_murni": "19999850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3471100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6729000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.04",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "18333850",
+    "rincian_murni": "27484700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3383450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7960400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3390000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.05",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "18352100",
+    "rincian_murni": "27491750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6982500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3909600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2460000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.06",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "114176000",
+    "rincian_murni": "99999750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2824600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "22876400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "80000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1860",
+    "kode_giat": "2.18.01.2.01",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.01.07",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "68928368",
+    "rincian_murni": "79999462",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8541500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "22277600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1810000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "15476938457",
+    "rincian_murni": "16938233387",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "4227544877"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "486174112"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "217729575"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "206395000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "365764480"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "7105000"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "97664"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "161862576"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "10923000"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "253942173"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "9494400000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "39000000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0002",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "30803200",
+    "rincian_murni": "40000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10003200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.04",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "74215868",
+    "rincian_murni": "129999762",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9991600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "21600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.05",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "24999200",
+    "rincian_murni": "25000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9999200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "5000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.06",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "24999950",
+    "rincian_murni": "25000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7799950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.07",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "30765700",
+    "rincian_murni": "40000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9965700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1861",
+    "kode_giat": "2.18.01.2.02",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.02.08",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "24996200",
+    "rincian_murni": "25000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4196200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8877,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1862",
+    "kode_giat": "2.18.01.2.03",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.03.06",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penatausahaan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "81283486",
+    "rincian_murni": "94911923",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5234950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8888,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1864",
+    "kode_giat": "2.18.01.2.05",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.05.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pendataan dan Pengolahan Administrasi Kepegawaian",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "88110286",
+    "rincian_murni": "109999673",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2111750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "950000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8894,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1864",
+    "kode_giat": "2.18.01.2.05",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.05.09",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pendidikan dan Pelatihan Pegawai Berdasarkan Tugas dan Fungsi",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "47489100",
+    "rincian_murni": "198058500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9374700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8424400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "14190000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0007",
+        "nama_akun": "Honorarium Rohaniwan",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0029",
+        "nama_akun": "Belanja Jasa Tenaga Ahli",
+        "total_rincian": "3500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0003",
+        "nama_akun": "Belanja Bimbingan Teknis",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8896,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1864",
+    "kode_giat": "2.18.01.2.05",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.05.11",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Bimbingan Teknis Implementasi Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "0",
+    "rincian_murni": "50000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "40000000",
+    "rincian_murni": "40000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "683600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "271150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "38170250"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "73786250",
+    "rincian_murni": "142988000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1934500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4909950"
+      },
+      {
+        "kode_akun": "5.2.02.05.03.0007",
+        "nama_akun": "Belanja Modal Lemari dan Arsip Pejabat",
+        "total_rincian": "65791800"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.04",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "69999097",
+    "rincian_murni": "69999097",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "48332450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0009",
+        "nama_akun": "Belanja Bahan-Isi Tabung Pemadam Kebakaran",
+        "total_rincian": "14739047"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "6927600"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.05",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "25437500",
+    "rincian_murni": "50000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "24562500"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8902,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.06",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "50000000",
+    "rincian_murni": "50000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0062",
+        "nama_akun": "Belanja Langganan Jurnal/Surat Kabar/Majalah",
+        "total_rincian": "50000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8903,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.07",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Bahan/Material",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "60000000",
+    "rincian_murni": "79999800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "41121000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0064",
+        "nama_akun": "Belanja Paket/Pengiriman",
+        "total_rincian": "18004000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.08",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "75000000",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "61140000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "13860000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1865",
+    "kode_giat": "2.18.01.2.06",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.06.09",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "75005000",
+    "rincian_murni": "100005000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "40880000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "34125000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8919,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1867",
+    "kode_giat": "2.18.01.2.08",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.08.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Jasa Surat Menyurat",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "158875122",
+    "rincian_murni": "169999897",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "682500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9225350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6261200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "684000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "21125000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "112800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1867",
+    "kode_giat": "2.18.01.2.08",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.08.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "611842130",
+    "rincian_murni": "580000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0041",
+        "nama_akun": "Belanja Jasa Pemasangan Instalasi Telepon, Air, dan Listrik",
+        "total_rincian": "31842130"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "50000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "518000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8921,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1867",
+    "kode_giat": "2.18.01.2.08",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.08.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Jasa Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "68925000",
+    "rincian_murni": "70400000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "395000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "54750000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0409",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Personal Computer",
+        "total_rincian": "11730000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1867",
+    "kode_giat": "2.18.01.2.08",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.08.04",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "1013811176",
+    "rincian_murni": "1071459771",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3350000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "59850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2219600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "108990000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "24175000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "40050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "346800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "363600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "64776576"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1868",
+    "kode_giat": "2.18.01.2.09",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.09.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "265950400",
+    "rincian_murni": "330000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "51950400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "196000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0038",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "18000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1868",
+    "kode_giat": "2.18.01.2.09",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.09.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "25000000",
+    "rincian_murni": "25000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6221900"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "18778100"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8928,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1868",
+    "kode_giat": "2.18.01.2.09",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.09.06",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pemeliharaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "98328536",
+    "rincian_murni": "94750000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0035",
+        "nama_akun": "Belanja Jasa Tenaga Teknisi Mekanik dan Listrik",
+        "total_rincian": "68500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0117",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Kantor-Alat Kantor Lainnya",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "14030000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0123",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1637.72.422.1868",
+    "kode_giat": "2.18.01.2.09",
+    "kode_program": "2.18.01",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.01.2.09.09",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat DPMPTSP",
+    "rincian": "1919635500",
+    "rincian_murni": "75350000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "4350000"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "73000000"
+      },
+      {
+        "kode_akun": "5.2.03.01.01.0001",
+        "nama_akun": "Belanja Modal Bangunan Gedung Kantor",
+        "total_rincian": "1842285500"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6565,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1638.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Pelayanan Terpadu Perizinan dan Nonperizinan berbasis Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Pelayanan Perizinan Pemanfaatan Ruang",
+    "rincian": "1160291246",
+    "rincian_murni": "1153298906",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "4500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "74390310"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "163605700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "32440000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "789000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "54655236"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "41700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6566,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1638.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pemantauan Pemenuhan Komitmen Perizinan dan Non Perizinan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Pelayanan Perizinan Pemanfaatan Ruang",
+    "rincian": "27098500",
+    "rincian_murni": "36647500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "146000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "462500"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "26490000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6567,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1638.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Layanan Konsultasi dan Pengelolaan Pengaduan Masyarakat terhadap Pelayanan Terpadu Perizinan dan Non Perizinan",
+    "nama_sub_skpd": "Bidang Pelayanan Perizinan Pemanfaatan Ruang",
+    "rincian": "322942976",
+    "rincian_murni": "530824289",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "29731300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "68441800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "198000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "14169876"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6565,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1639.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Pelayanan Terpadu Perizinan dan Nonperizinan berbasis Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Pelayanan Perizinan Operasional",
+    "rincian": "952804074",
+    "rincian_murni": "1152558208",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "4325000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "79612700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "149789550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "72880000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "519000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "10800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "36436824"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "79960000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6566,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1639.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pemantauan Pemenuhan Komitmen Perizinan dan Non Perizinan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Pelayanan Perizinan Operasional",
+    "rincian": "32227550",
+    "rincian_murni": "44999120",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "475000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5395750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2824800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3020000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "512000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6567,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1639.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Layanan Konsultasi dan Pengelolaan Pengaduan Masyarakat terhadap Pelayanan Terpadu Perizinan dan Non Perizinan",
+    "nama_sub_skpd": "Bidang Pelayanan Perizinan Operasional",
+    "rincian": "479391212",
+    "rincian_murni": "542474554",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "41022800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "116850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "30800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "270000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "18218412"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6549,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1640.72.313.1655",
+    "kode_giat": "2.18.02.2.01",
+    "kode_program": "2.18.02",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.02.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Penetapan Pemberian Fasilitas/Insentif Dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGEMBANGAN IKLIM PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penetapan Kebijakan Daerah mengenai Pemberian Fasilitas/Insentif dan Kemudahan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Pengembangan dan Promosi",
+    "rincian": "1368621690",
+    "rincian_murni": "1426408958",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "21484150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "18009200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "7181000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "19500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "87120000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "13500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "26400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "240000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "10121340"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0001",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Kantor",
+        "total_rincian": "540000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "25000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0012",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Studi Penelitian dan Bantuan Teknik",
+        "total_rincian": "112596000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "4110000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6551,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1640.72.313.1656",
+    "kode_giat": "2.18.02.2.02",
+    "kode_program": "2.18.02",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.02.2.02.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pembuatan Peta Potensi Investasi Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGEMBANGAN IKLIM PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyusunan Rencana Umum Penanaman Modal Daerah Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Pengembangan dan Promosi",
+    "rincian": "153225800",
+    "rincian_murni": "200000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2700000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17009800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4461600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "11200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8435000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "10400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "52000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0012",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Studi Penelitian dan Bantuan Teknik",
+        "total_rincian": "42479400"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "4540000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6552,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1640.72.313.1656",
+    "kode_giat": "2.18.02.2.02",
+    "kode_program": "2.18.02",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.02.2.02.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pembuatan Peta Potensi Investasi Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGEMBANGAN IKLIM PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Peta Potensi dan Peluang Usaha Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Pengembangan dan Promosi",
+    "rincian": "228862004",
+    "rincian_murni": "257820235",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2700000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5659000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "11312200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "90000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "45000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0012",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Studi Penelitian dan Bantuan Teknik",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "56298000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "2420000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6556,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1640.72.314.1657",
+    "kode_giat": "2.18.03.2.01",
+    "kode_program": "2.18.03",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.03.2.01.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Penyelenggaraan Promosi Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PROMOSI PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pelaksanaan Kegiatan Promosi Penanaman Modal Daerah Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Pengembangan dan Promosi",
+    "rincian": "1391556824",
+    "rincian_murni": "2070912425",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "11100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6241420"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "21068600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "12480000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "215000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "500000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "393000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "123300000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "92694000"
+      },
+      {
+        "kode_akun": "5.1.02.04.02.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa\u2013Luar Negeri",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6565,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1641.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Pelayanan Terpadu Perizinan dan Nonperizinan berbasis Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Data",
+    "rincian": "480630704",
+    "rincian_murni": "499991135",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "18487900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16160000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12360000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "8400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "86400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "112200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "41100000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0404",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Komputer Jaringan",
+        "total_rincian": "168000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "11450000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6572,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1641.72.316.1659",
+    "kode_giat": "2.18.05.2.01",
+    "kode_program": "2.18.05",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.05.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengendalian Pelaksanaan Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PELAKSANAAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pemantauan Pelaksanaan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Data",
+    "rincian": "0",
+    "rincian_murni": "299999712",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6573,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1641.72.316.1659",
+    "kode_giat": "2.18.05.2.01",
+    "kode_program": "2.18.05",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.05.2.01.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengendalian Pelaksanaan Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PELAKSANAAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pembinaan Pelaksanaan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Data",
+    "rincian": "0",
+    "rincian_murni": "441643874",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6574,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1641.72.316.1659",
+    "kode_giat": "2.18.05.2.01",
+    "kode_program": "2.18.05",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.05.2.01.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengendalian Pelaksanaan Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PELAKSANAAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pengawasan Pelaksanaan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Data",
+    "rincian": "0",
+    "rincian_murni": "241648812",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0036",
+        "nama_akun": "Belanja Jasa Audit/Surveillance ISO",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6576,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.1641.72.317.1660",
+    "kode_giat": "2.18.06.2.01",
+    "kode_program": "2.18.06",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.06.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengelolaan Data dan Informasi Perizinan dan Non Perizinan yang Terintegrasi pada Tingkat Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGELOLAAN DATA DAN SISTEM INFORMASI PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Pengolahan, Penyajian dan Pemanfaatan Data dan Informasi Perizinan dan Non Perizinan Berbasis Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Data",
+    "rincian": "284996572",
+    "rincian_murni": "291650200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0002",
+        "nama_akun": "Belanja Gaji Pokok PPPK",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6247900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "27851600"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "112800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0045",
+        "nama_akun": "Belanja Jasa Pelayanan Kearsipan",
+        "total_rincian": "130000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6572,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.4155.72.316.1659",
+    "kode_giat": "2.18.05.2.01",
+    "kode_program": "2.18.05",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.05.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengendalian Pelaksanaan Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PELAKSANAAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pemantauan Pelaksanaan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Pengendalian",
+    "rincian": "308134608",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22214750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "26355700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "900000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "4050000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "48400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "3711158"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "49878000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "143725000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6573,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.4155.72.316.1659",
+    "kode_giat": "2.18.05.2.01",
+    "kode_program": "2.18.05",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.05.2.01.02",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengendalian Pelaksanaan Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PELAKSANAAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pembinaan Pelaksanaan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Pengendalian",
+    "rincian": "592674280",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "6350000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "38952000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "39628500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "56500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "48800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "3373780"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "209250000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "75000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "26810000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "45650000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "23760000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6574,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.4155.72.316.1659",
+    "kode_giat": "2.18.05.2.01",
+    "kode_program": "2.18.05",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.05.2.01.03",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pengendalian Pelaksanaan Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PELAKSANAAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pengawasan Pelaksanaan Penanaman Modal",
+    "nama_sub_skpd": "Bidang Pengendalian",
+    "rincian": "231215268",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "700000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22284800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "11181200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "156025000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1404,
+    "id_sub_giat": 6565,
+    "kode_bidang_urusan": "2.18",
+    "kode_bl": "1404.4156.72.315.1658",
+    "kode_giat": "2.18.04.2.01",
+    "kode_program": "2.18.04",
+    "kode_skpd": "2.18.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.18.04.2.01.01",
+    "kode_sub_skpd": "2.18.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG PENANAMAN MODAL",
+    "nama_giat": "Pelayanan Perizinan dan Non Perizinan secara Terpadu Satu Pintu dibidang Penanaman Modal yang menjadi Kewenangan Daerah Kabupaten/ Kota",
+    "nama_program": "PROGRAM PELAYANAN PENANAMAN MODAL",
+    "nama_skpd": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+    "nama_sub_giat": "Penyediaan Pelayanan Terpadu Perizinan dan Nonperizinan berbasis Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Penyelenggaraan Pelayanan Perizinan I",
+    "rincian": "0",
+    "rincian_murni": "0",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4693 @@
+[
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "253846518",
+    "rincian_murni": "254179034",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "58889000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "48281250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "5000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8660000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "91242000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "138634350",
+    "rincian_murni": "150000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17561450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13507900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7175000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "98640000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "36493250",
+    "rincian_murni": "50000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17480450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13012800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "37823100",
+    "rincian_murni": "50000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22893100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13530000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "76921900",
+    "rincian_murni": "50000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "14601900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "17140000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7315000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "36990000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.06",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "124465368",
+    "rincian_murni": "143000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "67677450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13043650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10845000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1860",
+    "kode_giat": "4.01.01.2.01",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.01.07",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "93463950",
+    "rincian_murni": "180000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "37137450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "39371500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16080000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "48088876145",
+    "rincian_murni": "48428579300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "13117049400"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "1583899000"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "649480000"
+      },
+      {
+        "kode_akun": "5.1.01.01.04.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional PNS",
+        "total_rincian": "181519000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "584599000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "1027278000"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "114007000"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "4014396"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "420996049"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "29931300"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "154203000"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "30149400000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "67500000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0002",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "total_rincian": "5000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "226292204",
+    "rincian_murni": "174280485",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "95779400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "43165000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "68400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "120808786",
+    "rincian_murni": "106931662",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22125250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16480000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "17280000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "128008486",
+    "rincian_murni": "126958412",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "29234950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "22650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "11200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.06",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "30040000",
+    "rincian_murni": "30000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5219700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5620300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "19200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.07",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "77521250",
+    "rincian_murni": "74551500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "50271250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "15575000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1861",
+    "kode_giat": "4.01.01.2.02",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.02.08",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "55710250",
+    "rincian_murni": "49999900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "39985250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "12125000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8886,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Peningkatan Sarana dan Prasarana Disiplin Pegawai",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "30000500",
+    "rincian_murni": "50000100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "20000900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "9999600"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8887,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengadaan Pakaian Dinas Beserta Atribut Kelengkapannya",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "0",
+    "rincian_murni": "464517500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0063",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0076",
+        "nama_akun": "Belanja Pakaian Olahraga",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8888,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pendataan dan Pengolahan Administrasi Kepegawaian",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "246874872",
+    "rincian_murni": "249165585",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "37099200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "48403600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "39600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "112800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8889,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Sistem Informasi Kepegawaian",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "0",
+    "rincian_murni": "70000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0046",
+        "nama_akun": "Belanja Jasa Konversi Aplikasi/Sistem Informasi",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8890,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Monitoring, Evaluasi, dan Penilaian Kinerja Pegawai",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "75067000",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "24942000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "29250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "20000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8894,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.09",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pendidikan dan Pelatihan Pegawai Berdasarkan Tugas dan Fungsi",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "150000000",
+    "rincian_murni": "300000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "150000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8895,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.10",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Sosialisasi Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "0",
+    "rincian_murni": "99810900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8896,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.11",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Bimbingan Teknis Implementasi Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "0",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8902,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.06",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "0",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.09",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "0",
+    "rincian_murni": "0",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.001",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Daerah",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8906,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.10",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penatausahaan Arsip Dinamis pada SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "103945000",
+    "rincian_murni": "103945000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "61575000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "7170000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "35200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8907,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.11",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Dukungan Pelaksanaan Sistem Pemerintahan Berbasis Elektronik pada SKPD",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "98000000",
+    "rincian_murni": "70000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0046",
+        "nama_akun": "Belanja Jasa Konversi Aplikasi/Sistem Informasi",
+        "total_rincian": "98000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8919,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1867",
+    "kode_giat": "4.01.01.2.08",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.08.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Jasa Surat Menyurat",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "1388906826",
+    "rincian_murni": "49571200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "428397950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "422300000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "209100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "314064000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "14169876"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8936,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1870",
+    "kode_giat": "4.01.01.2.11",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.11.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan dan Operasional Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "197517120",
+    "rincian_murni": "197517120",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.05.01.0001",
+        "nama_akun": "Belanja Gaji Pokok KDH/WKDH",
+        "total_rincian": "55419000"
+      },
+      {
+        "kode_akun": "5.1.01.05.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga KDH/WKDH",
+        "total_rincian": "9236500"
+      },
+      {
+        "kode_akun": "5.1.01.05.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan KDH/WKDH",
+        "total_rincian": "98280000"
+      },
+      {
+        "kode_akun": "5.1.01.05.04.0001",
+        "nama_akun": "Belanja Tunjangan Beras KDH/WKDH",
+        "total_rincian": "7057320"
+      },
+      {
+        "kode_akun": "5.1.01.05.05.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus KDH/WKDH",
+        "total_rincian": "16341500"
+      },
+      {
+        "kode_akun": "5.1.01.05.06.0001",
+        "nama_akun": "Belanja Pembulatan Gaji KDH/WKDH",
+        "total_rincian": "5115600"
+      },
+      {
+        "kode_akun": "5.1.01.05.07.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi KDH/WKDH",
+        "total_rincian": "5520000"
+      },
+      {
+        "kode_akun": "5.1.01.05.08.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja KDH/WKDH",
+        "total_rincian": "187200"
+      },
+      {
+        "kode_akun": "5.1.01.05.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian KDH/WKDH",
+        "total_rincian": "360000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8939,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1870",
+    "kode_giat": "4.01.01.2.11",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.11.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan dan Operasional Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Dana Penunjang Operasional Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "4075970111",
+    "rincian_murni": "4075970111",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.06.02.0001",
+        "nama_akun": "Belanja Dana Operasional KDH/WKDH",
+        "total_rincian": "4075970111"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8942,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1670.87.422.1871",
+    "kode_giat": "4.01.01.2.12",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.12.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi Kerumahtanggaan Sekretariat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Kebutuhan Rumah Tangga Sekretariat Daerah",
+    "nama_sub_skpd": "Bagian Umum",
+    "rincian": "795000000",
+    "rincian_murni": "1299012381",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "795000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7600,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1671.87.380.1773",
+    "kode_giat": "4.01.02.2.01",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.01.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Tata Pemerintahan",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penataan Administrasi Pemerintahan",
+    "nama_sub_skpd": "Bagian Administrasi Pemerintahan",
+    "rincian": "380976256",
+    "rincian_murni": "354096450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22533350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "32262500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0048",
+        "nama_akun": "Belanja Jasa Kontribusi Asosiasi",
+        "total_rincian": "55000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0001",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Kantor",
+        "total_rincian": "198021138"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "9385000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7601,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1671.87.380.1773",
+    "kode_giat": "4.01.02.2.01",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.01.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Tata Pemerintahan",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengelolaan Administrasi Kewilayahan",
+    "nama_sub_skpd": "Bagian Administrasi Pemerintahan",
+    "rincian": "198673268",
+    "rincian_murni": "200000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "18309500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6959500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "40200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "21600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "85150000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "24430000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7602,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1671.87.380.1773",
+    "kode_giat": "4.01.02.2.01",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.01.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Tata Pemerintahan",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Pelaksanaan Otonomi Daerah",
+    "nama_sub_skpd": "Bagian Administrasi Pemerintahan",
+    "rincian": "631983050",
+    "rincian_murni": "731199862",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "41912150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "33000900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0012",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Studi Penelitian dan Bantuan Teknik",
+        "total_rincian": "400000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "153870000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7606,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1672.87.380.1775",
+    "kode_giat": "4.01.02.2.03",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.03.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi dan Koordinasi Hukum",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Penyusunan Produk Hukum Daerah",
+    "nama_sub_skpd": "Bagian Perundang-undangan",
+    "rincian": "600064168",
+    "rincian_murni": "600000062",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "106151900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "63980000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "73000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "323158000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7608,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1672.87.380.1775",
+    "kode_giat": "4.01.02.2.03",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.03.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi dan Koordinasi Hukum",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pendokumentasian Produk Hukum dan Pengelolaan Informasi Hukum",
+    "nama_sub_skpd": "Bagian Perundang-undangan",
+    "rincian": "301135668",
+    "rincian_murni": "299999912",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "63626600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "155944800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0039",
+        "nama_akun": "Belanja Jasa Tenaga Informasi dan Teknologi",
+        "total_rincian": "36000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "18550000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "21490000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7607,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1673.87.380.1775",
+    "kode_giat": "4.01.02.2.03",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.03.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi dan Koordinasi Hukum",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Bantuan Hukum",
+    "nama_sub_skpd": "Bagian Kerjasama dan Bantuan Hukum",
+    "rincian": "500000000",
+    "rincian_murni": "500000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "77760600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "78379400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "38000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "135000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "25530000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "113950000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "27780000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7603,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1674.87.380.1774",
+    "kode_giat": "4.01.02.2.02",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.02.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Kebijakan Kesejahteraan Rakyat",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Pengelolaan Bina Mental Spiritual",
+    "nama_sub_skpd": "Bagian Kesejahteraan Rakyat",
+    "rincian": "28330017254",
+    "rincian_murni": "29628456127",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "38350000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "1155000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "21735000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "153056450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "656379800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "36404000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "7875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0038",
+        "nama_akun": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "total_rincian": "3150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "89125000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "1389190000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "32000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "68000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0078",
+        "nama_akun": "Belanja Pakaian Jas/Safari",
+        "total_rincian": "177000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "868950000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "334400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0007",
+        "nama_akun": "Honorarium Rohaniwan",
+        "total_rincian": "579550000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0013",
+        "nama_akun": "Belanja Jasa Tenaga Pendidikan",
+        "total_rincian": "450000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0017",
+        "nama_akun": "Belanja Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "total_rincian": "398850000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "102000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "367200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "165000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0037",
+        "nama_akun": "Belanja Jasa Juri Perlombaan/Pertandingan",
+        "total_rincian": "4500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "1100000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "56679504"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0022",
+        "nama_akun": "Belanja Sewa Electric Generating Set",
+        "total_rincian": "128000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0036",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "total_rincian": "856000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0037",
+        "nama_akun": "Belanja Sewa Kendaraan Bermotor Angkutan Barang",
+        "total_rincian": "88000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "94000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0132",
+        "nama_akun": "Belanja Sewa Peralatan Studio Audio",
+        "total_rincian": "73437500"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "364320000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "858700000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0041",
+        "nama_akun": "Belanja Sewa Mess/Wisma/Bungalow/Tempat Peristirahatan",
+        "total_rincian": "69600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.10.0014",
+        "nama_akun": "Belanja Jasa Ketersediaan Layanan (Availibility Payment) Infrastruktur Fasilitas Sarana dan Prasarana Olahraga serta Kesenian",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "9000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "162360000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "308550000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "772500000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0003",
+        "nama_akun": "Belanja Beasiswa",
+        "total_rincian": "1500000000"
+      },
+      {
+        "kode_akun": "5.1.05.05.03.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Badan dan Lembaga Nirlaba, Sukarela Bersifat Sosial Kemasyarakatan",
+        "total_rincian": "15000000000"
+      },
+      {
+        "kode_akun": "5.1.06.01.01.0001",
+        "nama_akun": "Belanja Bantuan Sosial Uang yang Direncanakan kepada Individu",
+        "total_rincian": "935000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7604,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1674.87.380.1774",
+    "kode_giat": "4.01.02.2.02",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.02.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Kebijakan Kesejahteraan Rakyat",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pelaksanaan Kebijakan, Evaluasi, dan Capaian Kinerja terkait Kesejahteraan Sosial",
+    "nama_sub_skpd": "Bagian Kesejahteraan Rakyat",
+    "rincian": "10284200418",
+    "rincian_murni": "9966651662",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "7700000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "42985950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16908200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0038",
+        "nama_akun": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "total_rincian": "10920000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "44600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "91700000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0014",
+        "nama_akun": "Belanja Jasa Tenaga Kesehatan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "88800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4376268"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "294260000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "19750000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "22200000"
+      },
+      {
+        "kode_akun": "5.1.05.05.01.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Badan dan Lembaga yang Bersifat Nirlaba, Sukarela dan Sosial yang Dibentuk Berdasarkan Peraturan Perundang-Undangan",
+        "total_rincian": "8550000000"
+      },
+      {
+        "kode_akun": "5.1.05.05.02.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Badan dan Lembaga Nirlaba, Sukarela dan Sosial yang Telah Memiliki Surat Keterangan Terdaftar",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.05.05.03.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Badan dan Lembaga Nirlaba, Sukarela Bersifat Sosial Kemasyarakatan",
+        "total_rincian": "1050000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7605,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1674.87.380.1774",
+    "kode_giat": "4.01.02.2.02",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.02.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Kebijakan Kesejahteraan Rakyat",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pelaksanaan Kebijakan, Evaluasi, dan Capaian Kinerja terkait Kesejahteraan Masyarakat",
+    "nama_sub_skpd": "Bagian Kesejahteraan Rakyat",
+    "rincian": "1517311150",
+    "rincian_murni": "1769000100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "45693350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "45992800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "5800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0038",
+        "nama_akun": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "total_rincian": "10330000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "28495000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "14250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0074",
+        "nama_akun": "Belanja Pakaian Adat Daerah",
+        "total_rincian": "50000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "46000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "7950000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "250000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "140000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.10.0014",
+        "nama_akun": "Belanja Jasa Ketersediaan Layanan (Availibility Payment) Infrastruktur Fasilitas Sarana dan Prasarana Olahraga serta Kesenian",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "7800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "25000000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "840000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7621,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1675.87.383.1777",
+    "kode_giat": "4.01.03.2.01",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.01.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Kebijakan Perekonomian",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi, Sinkronisasi, Monitoring dan Evaluasi Kebijakan Pengelolaan BUMD dan BLUD",
+    "nama_sub_skpd": "Bagian Perekonomian",
+    "rincian": "882461700",
+    "rincian_murni": "657550000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "5850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "18381700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2760000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "13400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "266000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0014",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Khusus",
+        "total_rincian": "552450000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2620000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7622,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1675.87.383.1777",
+    "kode_giat": "4.01.03.2.01",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.01.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Kebijakan Perekonomian",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengendalian dan Distribusi Perekonomian",
+    "nama_sub_skpd": "Bagian Perekonomian",
+    "rincian": "537006350",
+    "rincian_murni": "300000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "36406050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "30760300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "52000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "10800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "42000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "196500000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "60630000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "106110000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7623,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1675.87.383.1777",
+    "kode_giat": "4.01.03.2.01",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.01.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Kebijakan Perekonomian",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Perencanaan dan Pengawasan Ekonomi Mikro kecil",
+    "nama_sub_skpd": "Bagian Perekonomian",
+    "rincian": "250605900",
+    "rincian_murni": "300000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "15921500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8374400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "29110000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "7600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "147000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "19800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7632,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1675.87.383.1780",
+    "kode_giat": "4.01.03.2.04",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.04.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemantauan Kebijakan Sumber Daya Alam",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi, Sinkronisasi, dan Evaluasi Kebijakan Pertanian, Kehutanan, Kelautan, dan Perikanan",
+    "nama_sub_skpd": "Bagian Perekonomian",
+    "rincian": "557553750",
+    "rincian_murni": "198450000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "5200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17435650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "20252100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "18170000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "36000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "28770000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "379000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "29846000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "22880000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7633,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1675.87.383.1780",
+    "kode_giat": "4.01.03.2.04",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.04.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemantauan Kebijakan Sumber Daya Alam",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi, Sinkronisasi, dan Evaluasi Kebijakan Pertambangan dan Lingkungan Hidup",
+    "nama_sub_skpd": "Bagian Perekonomian",
+    "rincian": "34932500",
+    "rincian_murni": "197000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "950000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11757500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "7425000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7634,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1675.87.383.1780",
+    "kode_giat": "4.01.03.2.04",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.04.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemantauan Kebijakan Sumber Daya Alam",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi, Sinkronisasi, dan Evaluasi Kebijakan Energi dan Air",
+    "nama_sub_skpd": "Bagian Perekonomian",
+    "rincian": "38323600",
+    "rincian_murni": "197000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "950000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11903600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4470000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "14400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7626,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1676.87.383.1778",
+    "kode_giat": "4.01.03.2.02",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.02.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0008",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Administrasi Pembangunan",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Penyusunan Program Pembangunan",
+    "nama_sub_skpd": "Bagian Administrasi Pembangunan",
+    "rincian": "863730796",
+    "rincian_murni": "1196081096",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "39007500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "37292650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "51960000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "404100000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0016",
+        "nama_akun": "Belanja Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
+        "total_rincian": "127840646"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0030",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Kerja Lainnya",
+        "total_rincian": "115080000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0014",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Khusus",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "84600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7627,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1676.87.383.1778",
+    "kode_giat": "4.01.03.2.02",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.02.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0008",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Administrasi Pembangunan",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengendalian dan Evaluasi Program Pembangunan",
+    "nama_sub_skpd": "Bagian Administrasi Pembangunan",
+    "rincian": "354858500",
+    "rincian_murni": "200000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "86150150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10278350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9680000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "190200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "57050000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7628,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1676.87.383.1778",
+    "kode_giat": "4.01.03.2.02",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.02.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0008",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Administrasi Pembangunan",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengelolaan Evaluasi dan Pelaporan Pelaksanaan Pembangunan",
+    "nama_sub_skpd": "Bagian Administrasi Pembangunan",
+    "rincian": "818377286",
+    "rincian_murni": "1323580173",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2625000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22653450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "114783850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "86700000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "292600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0046",
+        "nama_akun": "Belanja Jasa Konversi Aplikasi/Sistem Informasi",
+        "total_rincian": "193111450"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0030",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Kerja Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "11445000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "30410000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7609,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.2103.87.380.1776",
+    "kode_giat": "4.01.02.2.04",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.04.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0009",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi Kerjasama Daerah",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Kerja Sama Dalam Negeri",
+    "nama_sub_skpd": "Bagian Sumber Daya Alam",
+    "rincian": "50634450",
+    "rincian_murni": "149999750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17956700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "17642750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "1710000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12450000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7610,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.2103.87.380.1776",
+    "kode_giat": "4.01.02.2.04",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.04.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0009",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi Kerjasama Daerah",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Kerja Sama Luar Negeri",
+    "nama_sub_skpd": "Bagian Sumber Daya Alam",
+    "rincian": "39211900",
+    "rincian_murni": "120999950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12131150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8430750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "900000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16875000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7611,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.2103.87.380.1776",
+    "kode_giat": "4.01.02.2.04",
+    "kode_program": "4.01.02",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.02.2.04.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0009",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi Kerjasama Daerah",
+    "nama_program": "PROGRAM PEMERINTAHAN DAN KESEJAHTERAAN RAKYAT",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Evaluasi Pelaksanaan Kerja Sama",
+    "nama_sub_skpd": "Bagian Sumber Daya Alam",
+    "rincian": "125502600",
+    "rincian_murni": "149999700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12556100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "25597500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "75174000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "8100000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7629,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1678.87.383.1779",
+    "kode_giat": "4.01.03.2.03",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.03.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0010",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pengelolaan Pengadaan Barang dan Jasa",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengelolaan Pengadaan Barang dan Jasa",
+    "nama_sub_skpd": "Bagian Pengadaan Barang dan Jasa",
+    "rincian": "3276342588",
+    "rincian_murni": "3277277048",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1682175000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "158292300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "50750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "162000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0039",
+        "nama_akun": "Belanja Jasa Tenaga Informasi dan Teknologi",
+        "total_rincian": "372000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "32388288"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "739312000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "79425000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7630,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1678.87.383.1779",
+    "kode_giat": "4.01.03.2.03",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.03.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0010",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pengelolaan Pengadaan Barang dan Jasa",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengelolaan Layanan Pengadaan secara Elektronik",
+    "nama_sub_skpd": "Bagian Pengadaan Barang dan Jasa",
+    "rincian": "1103637508",
+    "rincian_murni": "872968870",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "170945050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "110616850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "22000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0039",
+        "nama_akun": "Belanja Jasa Tenaga Informasi dan Teknologi",
+        "total_rincian": "172800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "54000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "12145608"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0030",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Kerja Lainnya",
+        "total_rincian": "295920000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "100000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "47950000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "29285000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "65175000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 7631,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1678.87.383.1779",
+    "kode_giat": "4.01.03.2.03",
+    "kode_program": "4.01.03",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.03.2.03.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0010",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pengelolaan Pengadaan Barang dan Jasa",
+    "nama_program": "PROGRAM PEREKONOMIAN DAN PEMBANGUNAN",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pembinaan dan Advokasi Pengadaan Barang dan Jasa",
+    "nama_sub_skpd": "Bagian Pengadaan Barang dan Jasa",
+    "rincian": "2180242514",
+    "rincian_murni": "2007125717",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "10500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "176464100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "80593750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "12867000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "5492500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "40000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "169200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "81600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "168000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0039",
+        "nama_akun": "Belanja Jasa Tenaga Informasi dan Teknologi",
+        "total_rincian": "216000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "46558164"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "75000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "600000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "345467000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "92500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8943,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1679.87.422.1872",
+    "kode_giat": "4.01.01.2.13",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.13.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0011",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penataan Organisasi",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengelolaan Kelembagaan dan Analisis Jabatan",
+    "nama_sub_skpd": "Bagian Organisasi",
+    "rincian": "157792550",
+    "rincian_murni": "259183400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "53568950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "33873600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "40000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "21600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "8750000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8944,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1679.87.422.1872",
+    "kode_giat": "4.01.01.2.13",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.13.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0011",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penataan Organisasi",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Pelayanan Publik dan Tata Laksana",
+    "nama_sub_skpd": "Bagian Organisasi",
+    "rincian": "46760000",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "22920000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "19040000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8946,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1679.87.422.1872",
+    "kode_giat": "4.01.01.2.13",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.13.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0011",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penataan Organisasi",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Monitoring, Evaluasi dan Pengendalian Kualitas Pelayanan Publik dan Tata Laksana",
+    "nama_sub_skpd": "Bagian Organisasi",
+    "rincian": "78049150",
+    "rincian_murni": "150000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "19289400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "21304750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "31455000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8947,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1679.87.422.1872",
+    "kode_giat": "4.01.01.2.13",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.13.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0011",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penataan Organisasi",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Kinerja Pemerintah Daerah",
+    "nama_sub_skpd": "Bagian Organisasi",
+    "rincian": "151469000",
+    "rincian_murni": "200000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8640450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "34773550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "27000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0046",
+        "nama_akun": "Belanja Jasa Konversi Aplikasi/Sistem Informasi",
+        "total_rincian": "70000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3055000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8945,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1680.87.422.1872",
+    "kode_giat": "4.01.01.2.13",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.13.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0012",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penataan Organisasi",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Peningkatan Kinerja dan Reformasi Birokrasi",
+    "nama_sub_skpd": "Bagian Perencanaan Keuangan",
+    "rincian": "227799650",
+    "rincian_murni": "300000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "18759850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "155729800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "27200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6110000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8872,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1862",
+    "kode_giat": "4.01.01.2.03",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.03.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyusunan Perencanaan Kebutuhan Barang Milik Daerah SKPD",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "37709150",
+    "rincian_murni": "50038150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "29504250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7329900"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8876,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1862",
+    "kode_giat": "4.01.01.2.03",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.03.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Rekonsiliasi dan Penyusunan Laporan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "37386000",
+    "rincian_murni": "50069550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "28992000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7519000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8877,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1862",
+    "kode_giat": "4.01.01.2.03",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.03.06",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penatausahaan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "100508150",
+    "rincian_murni": "250567762",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12208150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "87500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0016",
+        "nama_akun": "Belanja Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.08.01.0005",
+        "nama_akun": "Belanja Modal Alat Laboratorium Batuan/Geologi",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8887,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1864",
+    "kode_giat": "4.01.01.2.05",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.05.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengadaan Pakaian Dinas Beserta Atribut Kelengkapannya",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "0",
+    "rincian_murni": "0",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0063",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0075",
+        "nama_akun": "Belanja Pakaian Batik Tradisional",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0076",
+        "nama_akun": "Belanja Pakaian Olahraga",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "183680000",
+    "rincian_murni": "118880000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2025000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "181655000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "6444930420",
+    "rincian_murni": "1237074034",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "36650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "140000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0023",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Lainnya",
+        "total_rincian": "7507500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "191705550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "656938400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "453591000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0016",
+        "nama_akun": "Belanja Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "62869300"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "682000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "770143000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0004",
+        "nama_akun": "Belanja Modal Alat Pendingin",
+        "total_rincian": "184427750"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0005",
+        "nama_akun": "Belanja Modal Alat Dapur",
+        "total_rincian": "15000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0006",
+        "nama_akun": "Belanja Modal Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "1150549700"
+      },
+      {
+        "kode_akun": "5.2.02.05.03.0001",
+        "nama_akun": "Belanja Modal Meja Kerja Pejabat",
+        "total_rincian": "80000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.03.0002",
+        "nama_akun": "Belanja Modal Meja Rapat Pejabat",
+        "total_rincian": "200000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.03.0004",
+        "nama_akun": "Belanja Modal Kursi Rapat Pejabat",
+        "total_rincian": "183700000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "445000000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0002",
+        "nama_akun": "Belanja Modal Peralatan Studio Video dan Film",
+        "total_rincian": "39195000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0003",
+        "nama_akun": "Belanja Modal Peralatan Studio Gambar",
+        "total_rincian": "190450000"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "346721100"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "291150400"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0003",
+        "nama_akun": "Belanja Modal Peralatan Personal Computer",
+        "total_rincian": "57430650"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0004",
+        "nama_akun": "Belanja Modal Peralatan Jaringan",
+        "total_rincian": "43124884"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0005",
+        "nama_akun": "Belanja Modal Peralatan Komputer Lainnya",
+        "total_rincian": "69927650"
+      },
+      {
+        "kode_akun": "5.2.05.05.01.0001",
+        "nama_akun": "Belanja Modal Tanaman",
+        "total_rincian": "90000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "2694970000",
+    "rincian_murni": "1736960500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "616620000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "899600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "581250000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "597500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "189328400",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1175000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "188153400"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.08",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "1600000000",
+    "rincian_murni": "1600000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "1600000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1865",
+    "kode_giat": "4.01.01.2.06",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.06.09",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "5035494000",
+    "rincian_murni": "3340300000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "3829974000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1205520000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8909,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1866",
+    "kode_giat": "4.01.01.2.07",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.07.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengadaan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "490829000",
+    "rincian_murni": "824954000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3125000"
+      },
+      {
+        "kode_akun": "5.2.02.02.01.0001",
+        "nama_akun": "Belanja Modal Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "487704000"
+      },
+      {
+        "kode_akun": "5.2.02.02.01.0004",
+        "nama_akun": "Belanja Modal Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8913,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1866",
+    "kode_giat": "4.01.01.2.07",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.07.06",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pengadaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "0",
+    "rincian_murni": "2889472850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0006",
+        "nama_akun": "Belanja Modal Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.03.0001",
+        "nama_akun": "Belanja Modal Meja Kerja Pejabat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.02.0001",
+        "nama_akun": "Belanja Modal Alat Komunikasi Telephone",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1867",
+    "kode_giat": "4.01.01.2.08",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.08.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "3862242680",
+    "rincian_murni": "7958334823",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0035",
+        "nama_akun": "Belanja Jasa Tenaga Teknisi Mekanik dan Listrik",
+        "total_rincian": "246000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0039",
+        "nama_akun": "Belanja Jasa Tenaga Informasi dan Teknologi",
+        "total_rincian": "72000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0041",
+        "nama_akun": "Belanja Jasa Pemasangan Instalasi Telepon, Air, dan Listrik",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "324000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "960000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "1500000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "740000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "20242680"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8921,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1867",
+    "kode_giat": "4.01.01.2.08",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.08.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Jasa Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "713231102",
+    "rincian_murni": "125000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "12475000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0009",
+        "nama_akun": "Belanja Bahan-Isi Tabung Pemadam Kebakaran",
+        "total_rincian": "22516102"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "201600000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0123",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "143340000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0137",
+        "nama_akun": "Belanja Pemeliharaan Alat Studio, Komunikasi, dan Pemancar-Alat Studio-Alat Studio Lainnya",
+        "total_rincian": "225000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "87600000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0409",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Personal Computer",
+        "total_rincian": "20700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1867",
+    "kode_giat": "4.01.01.2.08",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.08.04",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "3893513010",
+    "rincian_murni": "5306702524",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10938600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "14182250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0058",
+        "nama_akun": "Belanja Makanan dan Minuman Aktivitas Lapangan",
+        "total_rincian": "71800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "762000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "1346400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "883200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "554880000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "250112160"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1868",
+    "kode_giat": "4.01.01.2.09",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.09.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "440274000",
+    "rincian_murni": "157594800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "112674000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "327600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1868",
+    "kode_giat": "4.01.01.2.09",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.09.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "595555700",
+    "rincian_murni": "1318373800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "60055700"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "406500000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0038",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "54000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "75000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8927,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1868",
+    "kode_giat": "4.01.01.2.09",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.09.05",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pemeliharaan Mebel",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "99370000",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0118",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Mebel",
+        "total_rincian": "98220000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8928,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1868",
+    "kode_giat": "4.01.01.2.09",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.09.06",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pemeliharaan Peralatan dan Mesin Lainnya",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "0",
+    "rincian_murni": "1537026670",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0009",
+        "nama_akun": "Belanja Bahan-Isi Tabung Pemadam Kebakaran",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0123",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0409",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Personal Computer",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1868",
+    "kode_giat": "4.01.01.2.09",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.09.09",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "7738937479",
+    "rincian_murni": "1883820000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "76960000"
+      },
+      {
+        "kode_akun": "5.1.02.03.01.0035",
+        "nama_akun": "Belanja Pemeliharaan Tanah-Lapangan-Lapangan Lainnya",
+        "total_rincian": "300000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "2609972812"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0008",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Tempat Ibadah",
+        "total_rincian": "100306947"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0009",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "2124228813"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0032",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Fasilitas Umum",
+        "total_rincian": "288176181"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0033",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Parkir",
+        "total_rincian": "1056360770"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0038",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Tinggal-Rumah Negara Golongan I",
+        "total_rincian": "1182931956"
+      },
+      {
+        "kode_akun": "5.2.03.01.02.0003",
+        "nama_akun": "Belanja Modal Rumah Negara Golongan III",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.03.04.01.0004",
+        "nama_akun": "Belanja Modal Pagar",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8937,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1870",
+    "kode_giat": "4.01.01.2.11",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.11.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan dan Operasional Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Pakaian Dinas dan Atribut Kelengkapan Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "222600000",
+    "rincian_murni": "100000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0059",
+        "nama_akun": "Belanja Pakaian Dinas KDH dan WKDH",
+        "total_rincian": "46200000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0061",
+        "nama_akun": "Belanja Pakaian Sipil Harian (PSH)",
+        "total_rincian": "59850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0062",
+        "nama_akun": "Belanja Pakaian Sipil Lengkap (PSL)",
+        "total_rincian": "116550000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8938,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1870",
+    "kode_giat": "4.01.01.2.11",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.11.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Administrasi Keuangan dan Operasional Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pelaksanaan Medical Check Up Kepala Daerah dan Wakil Kepala Daerah",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "192000000",
+    "rincian_murni": "192000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0073",
+        "nama_akun": "Belanja Medical Check Up",
+        "total_rincian": "192000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8940,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1871",
+    "kode_giat": "4.01.01.2.12",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.12.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi Kerumahtanggaan Sekretariat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Kebutuhan Rumah Tangga Kepala Daerah",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "636194150",
+    "rincian_murni": "512473550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "18720000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "67394100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0043",
+        "nama_akun": "Belanja Natura dan Pakan-Natura",
+        "total_rincian": "407780050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0044",
+        "nama_akun": "Belanja Natura dan Pakan-Pakan",
+        "total_rincian": "113500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0062",
+        "nama_akun": "Belanja Langganan Jurnal/Surat Kabar/Majalah",
+        "total_rincian": "28800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8941,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1871",
+    "kode_giat": "4.01.01.2.12",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.12.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Fasilitasi Kerumahtanggaan Sekretariat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Penyediaan Kebutuhan Rumah Tangga Wakil Kepala Daerah",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "362300300",
+    "rincian_murni": "498073200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "9360000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "47604100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0043",
+        "nama_akun": "Belanja Natura dan Pakan-Natura",
+        "total_rincian": "258586200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0044",
+        "nama_akun": "Belanja Natura dan Pakan-Pakan",
+        "total_rincian": "20950000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0062",
+        "nama_akun": "Belanja Langganan Jurnal/Surat Kabar/Majalah",
+        "total_rincian": "25800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8948,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1873",
+    "kode_giat": "4.01.01.2.14",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.14.01",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Protokol dan Komunikasi Pimpinan",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Keprotokolan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "1603646352",
+    "rincian_murni": "1322723748",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "53348150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "297319000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "24500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0016",
+        "nama_akun": "Belanja Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
+        "total_rincian": "329500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "264000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0033",
+        "nama_akun": "Belanja Jasa Tenaga Supir",
+        "total_rincian": "225000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "36774202"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "373205000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8949,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1873",
+    "kode_giat": "4.01.01.2.14",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.14.02",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Protokol dan Komunikasi Pimpinan",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Fasilitasi Komunikasi Pimpinan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "483536640",
+    "rincian_murni": "295092485",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "112403300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "52300000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "174912000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "10121340"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "133800000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1412,
+    "id_sub_giat": 8950,
+    "kode_bidang_urusan": "4.01",
+    "kode_bl": "1412.1681.87.422.1873",
+    "kode_giat": "4.01.01.2.14",
+    "kode_program": "4.01.01",
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "4.01.01.2.14.03",
+    "kode_sub_skpd": "4.01.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "SEKRETARIAT DAERAH",
+    "nama_giat": "Pelaksanaan Protokol dan Komunikasi Pimpinan",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "SEKRETARIAT DAERAH",
+    "nama_sub_giat": "Pendokumentasian Tugas Pimpinan",
+    "nama_sub_skpd": "Bagian Protokol dan Komunikasi Pimpinan",
+    "rincian": "558923940",
+    "rincian_murni": "184380485",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "96602600"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "157200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "210000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "10121340"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "85000000"
+      }
+    ]
+  }
+]

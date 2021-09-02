@@ -10,7 +10,8 @@ class SipdConnection:
         self.timeout = timeout
 
     def initConnection(self):
-        response = requests.get(
+        self.session=requests.Session()
+        response = self.session.get(
             SIPD_URL, timeout=self.timeout)
         headers = response.headers  # get headers part -> Dictionary
         setCookie = headers['Set-Cookie']  # get set-cookie header part -> String
@@ -34,7 +35,7 @@ class SipdConnection:
        if not hasattr(self,'cookie'):
            print('connection has not been established')
            return False
-       response=requests.post(SIPD_URL+'login',data=payload)
+       response=self.session.post(SIPD_URL+'login',data=payload)
        #print(response.status_code)
        #print(response.headers)
        #print(response.cookies.get_dict())
@@ -48,7 +49,7 @@ class SipdConnection:
         if not hasattr(self,'cookie'):
            print('connection has not been established')
            return
-        response=requests.get(SIPD_URL+'data/skpd/all',cookies={'siap_session':self.cookie['siap_session']})
+        response=self.session.get(SIPD_URL+'data/skpd/all',cookies={'siap_session':self.cookie['siap_session']})
         if(saveToFile==True):
            json_obj=json.dumps(response.json(),indent=4,sort_keys='idSkpd')
            with open(filename,"w") as outfile:
@@ -59,14 +60,14 @@ class SipdConnection:
         if not hasattr(self,'cookie'):
            print('connection has not been established')
            return
-        response=requests.get(SIPD_URL+'dpa-bl/tampil-unit/daerah/main/budget/2021/11/0',cookies={'siap_session':self.cookie['siap_session']})
+        response=self.session.get(SIPD_URL+'dpa-bl/tampil-unit/daerah/main/budget/2021/11/0',cookies={'siap_session':self.cookie['siap_session']})
         return response.json()['data']
 
     def getDpaBelanja(self,idSkpd,saveToFile=False,filename='dpa.json'):
         if not hasattr(self,'cookie'):
            print('connection has not been established')
            return
-        response=requests.get(SIPD_URL+"dpa-bl-rinci/tampil-giat/daerah/main/budget/2021/11/{}".format(idSkpd),cookies={'siap_session':self.cookie['siap_session']})
+        response=self.session.get(SIPD_URL+"dpa-bl-rinci/tampil-giat/daerah/main/budget/2021/11/{}".format(idSkpd),cookies={'siap_session':self.cookie['siap_session']},timeout=self.timeout)
         data=response.json()['data']
         if(saveToFile==True):
            json_obj=json.dumps(data,indent=4,sort_keys='data')
@@ -80,7 +81,18 @@ class SipdConnection:
            return
         params="{}.{}.{}.{}.{}.{}.{}".format(idSkpd,idSkpd,idSubSkpd,idBidangUrusan,idProgram,idGiat,idSubGiat)
         rkaUrl=SIPD_URL+'rak-belanja/tampil-rincian/daerah/main/budget/2021/11/{}'.format(idSkpd)
-        response=requests.get(rkaUrl,cookies={'siap_session':self.cookie['siap_session']},params={'kodesbl': params})
+        print("download rincian rka: {}?kodesbl={}".format(rkaUrl,params))
+        response=self.session.get(rkaUrl,cookies={'siap_session':self.cookie['siap_session']},params={'kodesbl': params},timeout=self.timeout)
+        rdata=response.json()
+        return rdata['data']
+
+    def getRkaBelanjaKodeBl(self,idSkpd,kodebl,idSubGiat):
+        if not hasattr(self,'cookie'):
+           print('connection has not been established')
+           return
+        params="{}.{}.{}".format(idSkpd,kodebl,idSubGiat)
+        rkaUrl=SIPD_URL+'rak-belanja/tampil-rincian/daerah/main/budget/2021/11/{}'.format(idSkpd)
+        response=self.session.get(rkaUrl,cookies={'siap_session':self.cookie['siap_session']},params={'kodesbl': params},timeout=self.timeout)
         rdata=response.json()
         return rdata['data']
 

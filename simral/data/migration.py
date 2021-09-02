@@ -1,12 +1,15 @@
-import sqlite3
-from sqlite3 import Error
+import mysql.connector
+from mysql.connector import cursor
+from mysql.connector.errors import Error
 
 import logging
 
-
 CREATE_DB='CREATE DATABASE IF NOT EXISTS '
-DEFAULT_DB_NAME='sipd_ref.db'
+DEFAULT_DB_NAME='keuangan_db'
 
+MYSQL_HOST='localhost'
+MYSQL_USER='root'
+MYSQL_PASSWORD='asdqwe123'
 
 SKPD_CREATE_QUERY= """
     CREATE TABLE IF NOT EXISTS skpd(
@@ -16,27 +19,31 @@ SKPD_CREATE_QUERY= """
     )
 """
 INSERT_SKPD_QUERY="""
-    INSERT INTO skpd VALUES (?,?,?)
+    INSERT INTO skpd (idSkpd,namaSkpd,kodeSkpd)
+    VALUES (%s,%s,%s)
 """
 DPA_BELANJA_CREATE_QUERY="""
     CREATE TABLE IF NOT EXISTS dpa_belanja(
-        id_dpa INTEGER PRIMARY KEY,
-        id_unit INTEGER,
-        id_skpd INTEGER,
+        id_dpa INT AUTO_INCREMENT,
+        id_unit INT,
+        id_skpd INT NOT NULL,
         kode_skpd VARCHAR(100),
         nama_skpd VARCHAR(1000),
         rincian_murni FLOAT,
-        rincian FLOAT
+        rincian FLOAT,
+        FOREIGN KEY(id_skpd) REFERENCES skpd(idSkpd),
+        PRIMARY KEY(id_dpa)
 
     )
 """
 INSERT_DPA_SKPD_QUERY="""
-    INSERT INTO dpa_belanja VALUES(NULL,?,?,?,?,?,?)
+    INSERT INTO dpa_belanja(id_unit,id_skpd,kode_skpd,nama_skpd,rincian_murni,rincian)
+    VALUES(%s,%s,%s,%s,%s,%s)
 """
 
 DPA_BELANJA_RINCI_CREATE_QUERY="""
     CREATE TABLE IF NOT EXISTS dpa_belanja_rinci(
-        id_dpa_rinci INT PRIMARY KEY,
+        id_dpa_rinci INT AUTO_INCREMENT,
         id_dpa INT,
         id_unit INT,
         id_skpd INT NOT NULL,
@@ -59,12 +66,38 @@ DPA_BELANJA_RINCI_CREATE_QUERY="""
         kode_sub_giat VARCHAR(100),
         nama_sub_giat VARCHAR(1000),
         rincian FLOAT,
-        rincian_murni FLOAT
+        rincian_murni FLOAT,
+        PRIMARY KEY(id_dpa_rinci),
+        FOREIGN KEY(id_dpa) REFERENCES dpa_belanja(id_dpa)
     )
 """
 
 INSERT_DPA_BELANJA_RINCI_QUERY="""
-    INSERT INTO dpa_belanja_rinci VALUES(NULL,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+    INSERT INTO dpa_belanja_rinci(
+        id_dpa,
+        id_unit,
+        id_skpd,
+        kode_skpd,
+        nama_skpd,
+        id_sub_skpd,
+        kode_sub_skpd,
+        nama_sub_skpd,
+        id_urusan,
+        id_bidang_urusan,
+        kode_bidang_urusan,
+        nama_bidang_urusan,
+        id_program,
+        kode_program,
+        nama_program,
+        id_giat,
+        kode_giat,
+        nama_giat,
+        id_sub_giat,
+        kode_sub_giat,
+        nama_sub_giat,
+        rincian,
+        rincian_murni)
+    VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
 """
 
 BIDANG_URUSAN_CREATE_QUERY="""
@@ -76,72 +109,92 @@ BIDANG_URUSAN_CREATE_QUERY="""
     )
 """
 
+CREATE_ANGKAS__QUERY="""
+    CREATE TABLE IF NOT EXISTS rka_belanja(
+        id_rka INT AUTO_INCREMENT,
+        id_dpa_rinci INT,
+        id_sub_giat INT,
+        kode_sub_giat VARCHAR(100),
+        nama_sub_giat VARCHAR(1000),
+        kode_akun VARCHAR(100),
+        nama_akun VARCHAR(100),
+        kelompok_akun VARCHAR(10),
+        jenis_akun VARCHAR(25),
+        objek_akun VARCHAR(25),
+        rinci_objek_akun VARCHAR(50),
+        total_rincian FLOAT,
+        PRIMARY KEY(id_rka),
+        FOREIGN KEY(id_dpa_rinci) REFERENCES dpa_belanja_rinci(id_dpa_rinci)
+    )
+"""
+
+AKUN_LRA_QUERY="""
+     CREATE TABLE IF NOT EXISTS akun_lra(
+        id_akun INT AUTO_INCREMENT PRIMARY KEY,
+        kode_akun VARCHAR(1000),
+        nama_akun VARCHAR(100)
+    )
+"""
+
+INSERT_LRA_QUERY="""
+    INSERT INTO akun_lra VALUES(%s,%s)
+"""
+
 class Migration:
 
     def __init__(self):
         try:
-            logging.info("Memulai koneksi ke SQLite Database: {}".format(DEFAULT_DB_NAME))
-            connection=sqlite3.connect(DEFAULT_DB_NAME)
-            logging.info("Tersambung dengan SQLite Database: {}!".format(DEFAULT_DB_NAME))
+            logging.info("Memulai koneksi ke MySQL Server: {}@{}".format(MYSQL_USER,MYSQL_HOST))
+            connection=mysql.connector.connect(
+            host=MYSQL_HOST,
+            username=MYSQL_USER,
+            password=MYSQL_PASSWORD,
+            database=DEFAULT_DB_NAME
+        )
+            logging.info("Tersambung dengan MySQL Server: {}@{}!".format(MYSQL_USER,MYSQL_HOST))
             self.connection=connection
-        except Error as err:
+        except mysql.connector.Error as err:
             logging.error(err)
+            logging.info("Gagal Tersambung dengan MySQL Server @ {}".format(MYSQL_HOST))
             self.connection=None
 
     def close(self):
-        logging.info("Menutup koneksi SQLite")
-        self.connection.close()
-          
+        if(self.connection.is_connected()):
+            logging.info("Menutup koneksi MySQL")
+            self.connection.close()
 
     def createTableSkpd(self):
         try:
+            self.connection.autocommit=False
             cursor=self.connection.cursor()
             cursor.execute(SKPD_CREATE_QUERY)
             self.connection.commit()
         except Error as err:
-            logging.error(err)
-            self.connection.rollback()
-
-    def findAllSkpd(self):
-        try:
-            cursor=self.connection.cursor()
-            cursor.execute("SELECT * FROM skpd")
-            return cursor.fetchall()
-        except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
     def findSingleSkpd(self,idSkpd):
         try:
             cursor=self.connection.cursor()
-            cursor.execute("SELECT * FROM skpd where idSkpd=:idSkpd",{"idSkpd":idSkpd})
+            cursor.execute("SELECT  FROM skpd where idSkpd=%s",(idSkpd,))
             return cursor.fetchone()
         except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
     def findDpaForSkpd(self,idSkpd):
         try:
             cursor=self.connection.cursor()
-            cursor.execute("SELECT id_dpa,id_unit,id_skpd,kode_skpd,nama_skpd FROM dpa_belanja WHERE id_skpd=:id_skpd",{"id_skpd":idSkpd})
+            cursor.execute("SELECT id_dpa,id_unit,id_skpd,kode_skpd,nama_skpd FROM dpa_belanja WHERE id_skpd=%s",(idSkpd,))
             
             return cursor.fetchone() # return None for empty result
         except Error as err:
-            logging.error(err)
-            self.connection.rollback()
-
-    def findAllDpa(self):
-        try:
-            cursor=self.connection.cursor()
-            cursor.execute("SELECT * FROM dpa_belanja")
-            
-            return cursor.fetchall() # return None for empty result
-        except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
     
     def populateSkpdTable(self,jsonData):
         try:
+            self.connection.autocommit=False
             records=[]
             for item in jsonData:
                 id=item['idSkpd']
@@ -150,50 +203,53 @@ class Migration:
                 if(item['kodeSkpd'].endswith('.00')):
                     kode=kode+'00'
                 records.append((id,namaSkpd,kode))
-            print(records)
             cursor=self.connection.cursor()
             cursor.executemany(INSERT_SKPD_QUERY,records)
             self.connection.commit()
         except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
     def createTableDpa(self):
         try:
+            self.connection.autocommit=False
             cursor=self.connection.cursor()
             cursor.execute(DPA_BELANJA_CREATE_QUERY)
             self.connection.commit()
         except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
     def createTableDpaRinci(self):
          try:
+            self.connection.autocommit=False
             cursor=self.connection.cursor()
             cursor.execute(DPA_BELANJA_RINCI_CREATE_QUERY)
             self.connection.commit()
          except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
 
     def createTableBidangUrusan(self):
          try:
+            self.connection.autocommit=False
             cursor=self.connection.cursor()
             cursor.execute(BIDANG_URUSAN_CREATE_QUERY)
             self.connection.commit()
          except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
         
 
     def populateDpa(self,jsonData):
         try:
+            self.connection.autocommit=False
             records=[]
             for item in jsonData:
                 kode=item['kode_skpd']
-                if(kode.endswith('.00')):
+                if(item['kode_skpd'].endswith('.00')):
                     kode=kode+'00'
                 records.append((
                     item['id_unit'],
@@ -207,13 +263,14 @@ class Migration:
             cursor.executemany(INSERT_DPA_SKPD_QUERY,records)
             self.connection.commit()
         except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
     def populateDpaRinci(self,jsonData,idSkpd):
         try:
+            self.connection.autocommit=False
             records=[]
-            dpaSkpd=self.findDpaForSkpd(idSkpd) #SELECT id_dpa,id_unit,id_skpd,kode_skpd,nama_skpd FROM dpa_belanja WHERE id_skpd=?
+            dpaSkpd=self.findDpaForSkpd(idSkpd) #SELECT id_dpa,id_unit,id_skpd,kode_skpd,nama_skpd FROM dpa_belanja WHERE id_skpd=%s
             for item in jsonData:
                 records.append((
                     dpaSkpd[0],
@@ -245,14 +302,46 @@ class Migration:
             self.connection.commit()
             return records
         except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
 
-    def findDpaRinci(self,idSkpd):
+    def createAkunTable(self):
+        try:
+            self.connection.autocommit=False
+            cursor=self.connection.cursor()
+            cursor.execute(AKUN_LRA_QUERY)
+            self.connection.commit()
+        except Error as err:
+            logging.error("Terjadi kesalahan: {}".format(err))
+            self.connection.rollback()
+
+    def findAkun(self,id_akun):
         try:
             cursor=self.connection.cursor()
-            cursor.execute("SELECT * FROM dpa_belanja_rinci WHERE id_skpd=:id_skpd",{"id_skpd":idSkpd})
-            return cursor.fetchall()
+            cursor.execute("SELECT id_akun, kode_akun, nama_akun, level FROM akun_lra where kode_akun=%s",(id_akun,))
+            return cursor.fetchone()
         except Error as err:
-            logging.error(err)
+            logging.error("Terjadi kesalahan: {}".format(err))
             self.connection.rollback()
+    
+    def createRkaTable(self):
+        try:
+            self.connection.autocommit=False
+            cursor=self.connection.cursor()
+            cursor.execute(CREATE_ANGKAS__QUERY)
+            self.connection.commit()
+        except Error as err:
+            logging.error("Terjadi kesalahan: {}".format(err))
+            self.connection.rollback()
+
+    def findDpaRinci(self):
+        try:
+            cursor=self.connection.cursor()
+            cursor.execute("SELECT id_skpd,id_sub_skpd,id_bidang_urusan,id_program,id_giat,id_sub_giat,kode_sub_giat,nama_sub_giat,id_dpa_rinci FROM keuangan_db.dpa_belanja_rinci ")
+            return cursor.fetchone()
+        except Error as err:
+            logging.error("Terjadi kesalahan: {}".format(err))
+            self.connection.rollback()
+    
+    def populateRka(self,id_skpd,id_sub_skpd,id_bidang_urusan,id_program,id_giat,id_sub_giat):
+        pass

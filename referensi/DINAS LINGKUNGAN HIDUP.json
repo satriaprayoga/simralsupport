@@ -1,0 +1,3803 @@
+[
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "148971100",
+    "rincian_murni": "213971100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9175200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "19245900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0035",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Suvenir/Cendera Mata",
+        "total_rincian": "57000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "60700000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "27623850",
+    "rincian_murni": "25494250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8272700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6751150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "27860600",
+    "rincian_murni": "25731000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8510500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6750100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.04",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "41576000",
+    "rincian_murni": "41176000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8046650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7305350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "624000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "25600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "50936100",
+    "rincian_murni": "41746300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8811600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16324500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "25200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.06",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "138723100",
+    "rincian_murni": "121323100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9873700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "109149400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "18000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1860",
+    "kode_giat": "2.11.01.2.01",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.01.07",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "113884036",
+    "rincian_murni": "119755824",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8581500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4654000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "39600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "56400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "22053036596",
+    "rincian_murni": "27294080920",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "7931625000"
+      },
+      {
+        "kode_akun": "5.1.01.01.01.0002",
+        "nama_akun": "Belanja Gaji Pokok PPPK",
+        "total_rincian": "65688900"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "928200000"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "312000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.04.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional PNS",
+        "total_rincian": "29400000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "411600000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "595000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "15145000"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "2577696"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "764400000"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "61600000"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "10860800000"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "48000000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0001",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Menghasilkan Pendapatan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "139305654",
+    "rincian_murni": "192704585",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "39832850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "86400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0002",
+        "nama_akun": "Belanja Modal Mesin Hitung/Mesin Jumlah",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.04",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "11382000",
+    "rincian_murni": "11382000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9782000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "7940500",
+    "rincian_murni": "7940500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2490500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1260000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3390000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.06",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "11133900",
+    "rincian_murni": "11133900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3133900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.07",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "18583000",
+    "rincian_murni": "48057900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "16568000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "315000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "900000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1861",
+    "kode_giat": "2.11.01.2.02",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.02.08",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "5083950",
+    "rincian_murni": "5083950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1823500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1110450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1350000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8876,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1862",
+    "kode_giat": "2.11.01.2.03",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.03.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Rekonsiliasi dan Penyusunan Laporan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "17298000",
+    "rincian_murni": "15580250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9453800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "7844200"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8879,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1863",
+    "kode_giat": "2.11.01.2.04",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.04.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Pendapatan Daerah Kewenangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Perencanaan Pengelolaan Retribusi Daerah",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "76121900",
+    "rincian_murni": "178830200",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "16159400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "58162500"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0012",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Studi Penelitian dan Bantuan Teknik",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8880,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1863",
+    "kode_giat": "2.11.01.2.04",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.04.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Pendapatan Daerah Kewenangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Analisa dan Pengembangan Retribusi Daerah, serta Penyusunan Kebijakan Retribusi Daerah",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "7587700",
+    "rincian_murni": "65127700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3137700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8883,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1863",
+    "kode_giat": "2.11.01.2.04",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.04.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Pendapatan Daerah Kewenangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengolahan Data Retribusi Daerah",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "36297118",
+    "rincian_murni": "36233012",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7872850"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "26400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8885,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1863",
+    "kode_giat": "2.11.01.2.04",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.04.07",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Pendapatan Daerah Kewenangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pelaporan Pengelolaan Retribusi Daerah",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "56250550",
+    "rincian_murni": "56250550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6390550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1800000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "47460000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8888,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1864",
+    "kode_giat": "2.11.01.2.05",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.05.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pendataan dan Pengolahan Administrasi Kepegawaian",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "1316546988",
+    "rincian_murni": "1189314586",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "1233552000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "82994988"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8896,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1864",
+    "kode_giat": "2.11.01.2.05",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.05.11",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Bimbingan Teknis Implementasi Peraturan Perundang-Undangan",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "30000000",
+    "rincian_murni": "30000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "30000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "78350188",
+    "rincian_murni": "78350188",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1175000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "77175188"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "428063378",
+    "rincian_murni": "319576450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "58443000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "199702950"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "166067428"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.04",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "39932422",
+    "rincian_murni": "39932422",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0009",
+        "nama_akun": "Belanja Bahan-Isi Tabung Pemadam Kebakaran",
+        "total_rincian": "15282422"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "24650000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "187449650",
+    "rincian_murni": "172449850",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1350000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "186099650"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8902,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.06",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "54650000",
+    "rincian_murni": "54650000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0062",
+        "nama_akun": "Belanja Langganan Jurnal/Surat Kabar/Majalah",
+        "total_rincian": "54650000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.08",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "220600000",
+    "rincian_murni": "235475000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "197500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "23100000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1865",
+    "kode_giat": "2.11.01.2.06",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.06.09",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "334775000",
+    "rincian_murni": "195410000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "242375000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0005",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Luar Kota",
+        "total_rincian": "92400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1866",
+    "kode_giat": "2.11.01.2.07",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.07.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengadaan Mebel",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "173416350",
+    "rincian_murni": "174830500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2025000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "171391350"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8918,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1866",
+    "kode_giat": "2.11.01.2.07",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.07.11",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengadaan Sarana dan Prasarana Pendukung Gedung Kantor atau Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "372196000",
+    "rincian_murni": "287772700",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3100000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0002",
+        "nama_akun": "Belanja Modal Mesin Hitung/Mesin Jumlah",
+        "total_rincian": "887700"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "17571000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "15705900"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0004",
+        "nama_akun": "Belanja Modal Alat Pendingin",
+        "total_rincian": "55384000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "13648950"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0002",
+        "nama_akun": "Belanja Modal Peralatan Studio Video dan Film",
+        "total_rincian": "9568900"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "112548450"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "90560800"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0005",
+        "nama_akun": "Belanja Modal Peralatan Komputer Lainnya",
+        "total_rincian": "53220300"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1867",
+    "kode_giat": "2.11.01.2.08",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.08.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "641842130",
+    "rincian_murni": "611842130",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0041",
+        "nama_akun": "Belanja Jasa Pemasangan Instalasi Telepon, Air, dan Listrik",
+        "total_rincian": "31842130"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "100000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "360000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "120000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1867",
+    "kode_giat": "2.11.01.2.08",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.08.04",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "1567528884",
+    "rincian_murni": "1474049535",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "428400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "1011600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "127528884"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8924,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1868",
+    "kode_giat": "2.11.01.2.09",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.09.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak, dan Perizinan Kendaraan Dinas Operasional atau Lapangan",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "546325000",
+    "rincian_murni": "552450000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2225000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0067",
+        "nama_akun": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "total_rincian": "216100000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "238000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0038",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "90000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8931,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1868",
+    "kode_giat": "2.11.01.2.09",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.09.09",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "234750000",
+    "rincian_murni": "152250000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2250000"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "232500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 8933,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1609.65.422.1868",
+    "kode_giat": "2.11.01.2.09",
+    "kode_program": "2.11.01",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.01.2.09.11",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0001",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pemeliharaan/Rehabilitasi Sarana dan Prasarana Pendukung Gedung Kantor atau Bangunan Lainnya",
+    "nama_sub_skpd": "Sekretariat DLH",
+    "rincian": "150140000",
+    "rincian_murni": "150140000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2350000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0121",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Pendingin",
+        "total_rincian": "43920000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0123",
+        "nama_akun": "Belanja Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "20300000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0405",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Komputer Unit-Personal Computer",
+        "total_rincian": "51830000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0409",
+        "nama_akun": "Belanja Pemeliharaan Komputer-Peralatan Komputer-Peralatan Personal Computer",
+        "total_rincian": "31740000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5911,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1610.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengurangan Sampah dengan melakukan Pembatasan, Pendauran Ulang dan Pemanfaatan Kembali",
+    "nama_sub_skpd": "Bidang Pengelolaan Sampah",
+    "rincian": "1477469648",
+    "rincian_murni": "1499732627",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "7800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "140789250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "7823800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9948400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13616250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "31250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "49195000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "19200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "48400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "278400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "442800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "22266948"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "75000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Konsultansi Manajemen",
+        "total_rincian": "45000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "15000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0492",
+        "nama_akun": "Belanja Pemeliharaan Rambu-Rambu-Rambu-Rambu Lalu Lintas Darat-Rambu Bersuar",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "32980000"
+      },
+      {
+        "kode_akun": "5.1.05.05.03.0002",
+        "nama_akun": "Belanja Hibah Barang kepada Badan dan Lembaga Nirlaba, Sukarela Bersifat Sosial Kemasyarakatan",
+        "total_rincian": "25000000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0001",
+        "nama_akun": "Belanja Modal Peralatan Studio Audio",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0002",
+        "nama_akun": "Belanja Modal Peralatan Studio Video dan Film",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.04.03.03.0003",
+        "nama_akun": "Belanja Modal Bangunan Penampung Sampah",
+        "total_rincian": "189000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1610.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Pengelolaan Sampah",
+    "rincian": "8536719511",
+    "rincian_murni": "8834239441",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "16150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "3920840000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "10521600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0014",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Besar",
+        "total_rincian": "359118400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9452150"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "6530000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "17670000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "241200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "96000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "529200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "63000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "54655236"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0007",
+        "nama_akun": "Belanja Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa untuk Konstruksi Pondasi serta Struktur Bangunan",
+        "total_rincian": "90000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0017",
+        "nama_akun": "Belanja Jasa Konsultansi Perencanaan Penataan Ruang-Pengembangan Pemanfaatan Ruang",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0019",
+        "nama_akun": "Belanja Jasa Konsultansi Pengawasan Rekayasa-Jasa Pengawas Pekerjaan Konstruksi Bangunan Gedung",
+        "total_rincian": "50000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0012",
+        "nama_akun": "Belanja Pemeliharaan Alat Besar-Alat Besar Darat-Alat Besar Darat Lainnya",
+        "total_rincian": "1030000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "54230000"
+      },
+      {
+        "kode_akun": "5.2.01.01.01.0007",
+        "nama_akun": "Belanja Modal Tanah Persil Lainnya",
+        "total_rincian": "974952125"
+      },
+      {
+        "kode_akun": "5.2.03.01.01.0001",
+        "nama_akun": "Belanja Modal Bangunan Gedung Kantor",
+        "total_rincian": "1009200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5914,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1610.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.05",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Penyediaan Sarana dan Prasarana Pengelolaan Persampahan",
+    "nama_sub_skpd": "Bidang Pengelolaan Sampah",
+    "rincian": "45527925130",
+    "rincian_murni": "8646230766",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "13575000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "1822542250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "304121600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0023",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Lainnya",
+        "total_rincian": "10012500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "31985900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "33960200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "227000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "59500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "821850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "336000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "1082000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "5325825000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "20242680"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0117",
+        "nama_akun": "Belanja Sewa Alat Kantor Lainnya",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "21000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "439000000"
+      },
+      {
+        "kode_akun": "5.2.02.01.01.0003",
+        "nama_akun": "Belanja Modal Excavator",
+        "total_rincian": "9302550000"
+      },
+      {
+        "kode_akun": "5.2.02.01.01.0009",
+        "nama_akun": "Belanja Modal Loader",
+        "total_rincian": "1101100000"
+      },
+      {
+        "kode_akun": "5.2.02.01.03.0013",
+        "nama_akun": "Belanja Modal Peralatan Selam",
+        "total_rincian": "13200000"
+      },
+      {
+        "kode_akun": "5.2.02.02.01.0005",
+        "nama_akun": "Belanja Modal Kendaraan Bermotor Beroda Tiga",
+        "total_rincian": "201100000"
+      },
+      {
+        "kode_akun": "5.2.02.02.01.0006",
+        "nama_akun": "Belanja Modal Kendaraan Bermotor Khusus",
+        "total_rincian": "22209200000"
+      },
+      {
+        "kode_akun": "5.2.02.02.04.0003",
+        "nama_akun": "Belanja Modal Alat Angkutan Apung Tak Bermotor Khusus",
+        "total_rincian": "141950000"
+      },
+      {
+        "kode_akun": "5.2.02.03.01.0006",
+        "nama_akun": "Belanja Modal Perkakas Bengkel Kayu",
+        "total_rincian": "24700000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "250800000"
+      },
+      {
+        "kode_akun": "5.2.02.17.01.0022",
+        "nama_akun": "Belanja Modal Heat Generating Equipment",
+        "total_rincian": "407480000"
+      },
+      {
+        "kode_akun": "5.2.03.04.01.0004",
+        "nama_akun": "Belanja Modal Pagar",
+        "total_rincian": "1302730000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5915,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1610.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.06",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyusunan Kebijakan Kerjasama Pengelolaan Persampahan",
+    "nama_sub_skpd": "Bidang Pengelolaan Sampah",
+    "rincian": "12400000",
+    "rincian_murni": "12400000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5916,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1610.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.07",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyediaan Sarana dan Prasarana Pengelolaan Persampahan di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Pengelolaan Sampah",
+    "rincian": "231899950",
+    "rincian_murni": "251900000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1900000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6896350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2053600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0007",
+        "nama_akun": "Belanja Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa untuk Konstruksi Pondasi serta Struktur Bangunan",
+        "total_rincian": "165000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "24050000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5920,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1610.65.284.1575",
+    "kode_giat": "2.11.11.2.03",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.03.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pembinaan dan Pengawasan Pengelolaan Sampah yang Diselenggarakan oleh Pihak Swasta",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Monitoring dan Evaluasi Pemenuhan Target dan Standar Pelayanan Pengelolaan Sampah",
+    "nama_sub_skpd": "Bidang Pengelolaan Sampah",
+    "rincian": "42000000",
+    "rincian_murni": "42000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "12000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "30000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5833,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1611.65.275.1559",
+    "kode_giat": "2.11.02.2.01",
+    "kode_program": "2.11.02",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.02.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Rencana Perlindungan dan Pengelolaan Lingkungan Hidup (RPPLH) Kabupaten/Kota",
+    "nama_program": "PROGRAM PERENCANAAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengendalian Pelaksanaan RPPLH Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Tata Lingkungan",
+    "rincian": "610975462",
+    "rincian_murni": "1999999804",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9181600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "36695450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2080000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "207600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "255600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "18218412"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0032",
+        "nama_akun": "Belanja Jasa Konsultansi Lainnya-Jasa Konsultansi Lingkungan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "81600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5834,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1611.65.275.1560",
+    "kode_giat": "2.11.02.2.02",
+    "kode_program": "2.11.02",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.02.2.02.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Kabupaten/Kota",
+    "nama_program": "PROGRAM PERENCANAAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pembuatan dan Pelaksanaan KLHS Rencana Tata Ruang",
+    "nama_sub_skpd": "Bidang Tata Lingkungan",
+    "rincian": "0",
+    "rincian_murni": "413259323",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5835,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1611.65.275.1560",
+    "kode_giat": "2.11.02.2.02",
+    "kode_program": "2.11.02",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.02.2.02.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Kabupaten/Kota",
+    "nama_program": "PROGRAM PERENCANAAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pembuatan dan Pelaksanaan KLHS RPJPD/RPJMD",
+    "nama_sub_skpd": "Bidang Tata Lingkungan",
+    "rincian": "356517422",
+    "rincian_murni": "292340673",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9995350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "28945000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4080000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "185400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5849,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1611.65.276.1561",
+    "kode_giat": "2.11.03.2.01",
+    "kode_program": "2.11.03",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.03.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pencegahan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PENCEMARAN DAN/ATAU KERUSAKAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi, Sinkronisasi dan Pelaksanaan Pengendalian Emisi Gas Rumah Kaca, Mitigasi dan Adaptasi Perubahan Iklim",
+    "nama_sub_skpd": "Bidang Tata Lingkungan",
+    "rincian": "529615040",
+    "rincian_murni": "609356508",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3975000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "153530000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9588700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0039",
+        "nama_akun": "Belanja Persediaan untuk Dijual/Diserahkan-Persediaan untuk Dijual/Diserahkan kepada Masyarakat",
+        "total_rincian": "130850000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "135600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "10121340"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "67150000"
+      },
+      {
+        "kode_akun": "5.2.02.01.03.0006",
+        "nama_akun": "Belanja Modal Mesin Bor",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5869,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1611.65.277.1564",
+    "kode_giat": "2.11.04.2.01",
+    "kode_program": "2.11.04",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.04.2.01.04",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Keanekaragaman Hayati Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGELOLAAN KEANEKARAGAMAN HAYATI (KEHATI)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengelolaan Ruang Terbuka Hijau (RTH)",
+    "nama_sub_skpd": "Bidang Tata Lingkungan",
+    "rincian": "838033350",
+    "rincian_murni": "1242008000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3975000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9938350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "18000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0007",
+        "nama_akun": "Belanja Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa untuk Konstruksi Pondasi serta Struktur Bangunan",
+        "total_rincian": "550000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0013",
+        "nama_akun": "Belanja Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa Lainnya",
+        "total_rincian": "250000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6120000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5848,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.276.1561",
+    "kode_giat": "2.11.03.2.01",
+    "kode_program": "2.11.03",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.03.2.01.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pencegahan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PENCEMARAN DAN/ATAU KERUSAKAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi, Sinkronisasi, dan Pelaksanaan Pencegahan Pencemaran Lingkungan Hidup Dilaksanakan terhadap Media Tanah, Air, Udara, dan Laut",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "901453940",
+    "rincian_murni": "901454908",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3252600"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0015",
+        "nama_akun": "Belanja Jasa Tenaga Laboratorium",
+        "total_rincian": "746850000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "135600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "10121340"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "1830000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5851,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.276.1562",
+    "kode_giat": "2.11.03.2.02",
+    "kode_program": "2.11.03",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.03.2.02.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penanggulangan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PENCEMARAN DAN/ATAU KERUSAKAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pemberian Informasi Peringatan Pencemaran dan/atau Kerusakan Lingkungan Hidup pada Masyarakat",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "875043900",
+    "rincian_murni": "875043900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1450000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1077750"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0032",
+        "nama_akun": "Belanja Jasa Konsultansi Lainnya-Jasa Konsultansi Lingkungan",
+        "total_rincian": "872516150"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5853,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.276.1562",
+    "kode_giat": "2.11.03.2.02",
+    "kode_program": "2.11.03",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.03.2.02.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penanggulangan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PENCEMARAN DAN/ATAU KERUSAKAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penghentian Pencemaran dan/atau Kerusakan Lingkungan Hidup",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "751328000",
+    "rincian_murni": "888614800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "4550000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "14988000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "19500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0039",
+        "nama_akun": "Belanja Persediaan untuk Dijual/Diserahkan-Persediaan untuk Dijual/Diserahkan kepada Masyarakat",
+        "total_rincian": "425000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "16750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "20400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0015",
+        "nama_akun": "Belanja Jasa Tenaga Laboratorium",
+        "total_rincian": "78000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "37500000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "134640000"
+      },
+      {
+        "kode_akun": "5.1.05.05.03.0002",
+        "nama_akun": "Belanja Hibah Barang kepada Badan dan Lembaga Nirlaba, Sukarela Bersifat Sosial Kemasyarakatan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0002",
+        "nama_akun": "Belanja Modal Personal Computer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0005",
+        "nama_akun": "Belanja Modal Peralatan Komputer Lainnya",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5875,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.278.1565",
+    "kode_giat": "2.11.05.2.01",
+    "kode_program": "2.11.05",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.05.2.01.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyimpanan Sementara Limbah B3",
+    "nama_program": "PROGRAM PENGENDALIAN BAHAN BERBAHAYA DAN BERACUN (B3) DAN LIMBAH BAHAN BERBAHAYA DAN BERACUN (LIMBAH B3)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Fasilitasi Pemenuhan Komitmen Izin Penyimpanan Sementara Limbah B3 Dilaksanakan melalui Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "209046572",
+    "rincian_murni": "216146896",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9958000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10681500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "10010000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "6200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "105600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "58500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5876,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.278.1565",
+    "kode_giat": "2.11.05.2.01",
+    "kode_program": "2.11.05",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.05.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyimpanan Sementara Limbah B3",
+    "nama_program": "PROGRAM PENGENDALIAN BAHAN BERBAHAYA DAN BERACUN (B3) DAN LIMBAH BAHAN BERBAHAYA DAN BERACUN (LIMBAH B3)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Verifikasi Lapangan untuk Memastikan Pemenuhan Persyaratan Administrasi dan Teknis Penyimpanan Sementara Limbah B3",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "96755000",
+    "rincian_murni": "119450000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "96755000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5877,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.278.1566",
+    "kode_giat": "2.11.05.2.02",
+    "kode_program": "2.11.05",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.05.2.02.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengumpulan Limbah B3 dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN BAHAN BERBAHAYA DAN BERACUN (B3) DAN LIMBAH BAHAN BERBAHAYA DAN BERACUN (LIMBAH B3)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Fasilitasi Pemenuhan Komitmen Izin Pengumpulan Limbah B3 Dilaksanakan melalui Sistem Pelayanan Perizinan Berusaha Terintegrasi secara Elektronik",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "10540000",
+    "rincian_murni": "20000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7120000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "3420000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5878,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.278.1566",
+    "kode_giat": "2.11.05.2.02",
+    "kode_program": "2.11.05",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.05.2.02.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengumpulan Limbah B3 dalam 1 (satu) Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN BAHAN BERBAHAYA DAN BERACUN (B3) DAN LIMBAH BAHAN BERBAHAYA DAN BERACUN (LIMBAH B3)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pengelolaan Limbah B3 dengan Pemerintah Provinsi dalam Rangka Pengangkutan, Pemanfaatan, Pengolahan, dan/atau Penimbunan",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "27000000",
+    "rincian_murni": "24934000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "27000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5894,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.281.1570",
+    "kode_giat": "2.11.08.2.01",
+    "kode_program": "2.11.08",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.08.2.01.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelenggaraan Pendidikan, Pelatihan, dan Penyuluhan Lingkungan Hidup untuk Lembaga Kemasyarakatan Tingkat Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN PENDIDIKAN, PELATIHAN DAN PENYULUHAN LINGKUNGAN HIDUP UNTUK MASYARAKAT",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Peningkatan Kapasitas dan Kompetensi Sumber Daya Manusia Bidang Lingkungan Hidup untuk Lembaga Kemasyarakatan",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "727749212",
+    "rincian_murni": "951810254",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "7290000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9775800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "32830000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "58000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "17000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0070",
+        "nama_akun": "Belanja Pakaian Pelatihan Kerja",
+        "total_rincian": "12750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "25500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "255600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "90000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "18218412"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.08.0017",
+        "nama_akun": "Belanja Jasa Konsultansi Perencanaan Penataan Ruang-Pengembangan Pemanfaatan Ruang",
+        "total_rincian": "70000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "100785000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5895,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.281.1570",
+    "kode_giat": "2.11.08.2.01",
+    "kode_program": "2.11.08",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.08.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelenggaraan Pendidikan, Pelatihan, dan Penyuluhan Lingkungan Hidup untuk Lembaga Kemasyarakatan Tingkat Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN PENDIDIKAN, PELATIHAN DAN PENYULUHAN LINGKUNGAN HIDUP UNTUK MASYARAKAT",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pendampingan Gerakan Peduli Lingkungan Hidup",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "421200000",
+    "rincian_murni": "298200000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "421200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5896,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.281.1570",
+    "kode_giat": "2.11.08.2.01",
+    "kode_program": "2.11.08",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.08.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelenggaraan Pendidikan, Pelatihan, dan Penyuluhan Lingkungan Hidup untuk Lembaga Kemasyarakatan Tingkat Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENINGKATAN PENDIDIKAN, PELATIHAN DAN PENYULUHAN LINGKUNGAN HIDUP UNTUK MASYARAKAT",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penyelenggaraan Penyuluhan dan Kampanye Lingkungan Hidup",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "186000000",
+    "rincian_murni": "210000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0047",
+        "nama_akun": "Belanja Jasa Penyelenggaraan Acara",
+        "total_rincian": "180000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5898,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.282.1571",
+    "kode_giat": "2.11.09.2.01",
+    "kode_program": "2.11.09",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.09.2.01.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pemberian Penghargaan Lingkungan Hidup Tingkat Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGHARGAAN LINGKUNGAN HIDUP UNTUK MASYARAKAT",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penilaian Kinerja Masyarakat/Lembaga Masyarakat/Dunia Usaha/Dunia Pendidikan/ Filantropi dalam Perlindungan dan Pengelolaan Lingkungan Hidup",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "543500000",
+    "rincian_murni": "490000000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "99000000"
+      },
+      {
+        "kode_akun": "5.1.02.05.01.0001",
+        "nama_akun": "Belanja Hadiah yang Bersifat Perlombaan",
+        "total_rincian": "444500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5902,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1612.65.283.1572",
+    "kode_giat": "2.11.10.2.01",
+    "kode_program": "2.11.10",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.10.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelesaian Pengaduan Masyarakat di Bidang Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH) Kabupaten/Kota",
+    "nama_program": "PROGRAM PENANGANAN PENGADUAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Penerapan Sanksi Administrasi, Penyelesaian Sengketa, dan/atau Penyidikan Lingkungan Hidup di Luar Pengadilan atau melalui Pengadilan",
+    "nama_sub_skpd": "Bidang Pengendalian Pencemaran dan Kemitraan",
+    "rincian": "0",
+    "rincian_murni": "0",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0008",
+        "nama_akun": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.001",
+        "nama_akun": "Belanja Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.005",
+        "nama_akun": "Belanja Alat Kebersihan dan Bahan Pembersih",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.03.001",
+        "nama_akun": "Belanja Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.05.004",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.002",
+        "nama_akun": "Belanja Jasa Pengadaan Barang dan Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.080",
+        "nama_akun": "Belanja Jasa Petugas Penunjang Kegiatan Kantor/Lapangan melalui Perjanjian/Perikatan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.03.002",
+        "nama_akun": "Belanja Sewa Gedung/Kantor/Tempat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.001",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Daerah",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5855,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1613.65.276.1563",
+    "kode_giat": "2.11.03.2.03",
+    "kode_program": "2.11.03",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.03.2.03.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pemulihan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PENCEMARAN DAN/ATAU KERUSAKAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pembersihan Unsur Pencemar",
+    "nama_sub_skpd": "Bidang Penataan Hukum dan Pemulihan Lingkungan",
+    "rincian": "306999608",
+    "rincian_murni": "306999920",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5614200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1479800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0015",
+        "nama_akun": "Belanja Jasa Tenaga Laboratorium",
+        "total_rincian": "58000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "162000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "12145608"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "60610000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5885,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1613.65.279.1567",
+    "kode_giat": "2.11.06.2.01",
+    "kode_program": "2.11.06",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.06.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pembinaan dan Pengawasan Terhadap Usaha dan/atau Kegiatan yang Izin Lingkungan dan Izin PPLH diterbitkan oleh Pemerintah Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN TERHADAP IZIN LINGKUNGAN DAN IZIN PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP (PPLH)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengawasan Usaha dan/atau Kegiatan yang Izin Lingkungan Hidup, Izin PPLH yang Diterbitkan oleh Pemerintah Daerah Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Penataan Hukum dan Pemulihan Lingkungan",
+    "rincian": "293214308",
+    "rincian_murni": "315599669",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3141250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "772450"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0015",
+        "nama_akun": "Belanja Jasa Tenaga Laboratorium",
+        "total_rincian": "48000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "165600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "12145608"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "63555000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5886,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1613.65.279.1567",
+    "kode_giat": "2.11.06.2.01",
+    "kode_program": "2.11.06",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.06.2.01.04",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pembinaan dan Pengawasan Terhadap Usaha dan/atau Kegiatan yang Izin Lingkungan dan Izin PPLH diterbitkan oleh Pemerintah Daerah Kabupaten/Kota",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGAWASAN TERHADAP IZIN LINGKUNGAN DAN IZIN PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP (PPLH)",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Pengawasan dan Penerapan Sanksi Upaya dan Rencana PPLH",
+    "nama_sub_skpd": "Bidang Penataan Hukum dan Pemulihan Lingkungan",
+    "rincian": "39889000",
+    "rincian_murni": "49999000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2049300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "819700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "35020000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5901,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1613.65.283.1572",
+    "kode_giat": "2.11.10.2.01",
+    "kode_program": "2.11.10",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.10.2.01.01",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelesaian Pengaduan Masyarakat di Bidang Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH) Kabupaten/Kota",
+    "nama_program": "PROGRAM PENANGANAN PENGADUAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengelolaan Pengaduan Masyarakat terhadap PPLH Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Penataan Hukum dan Pemulihan Lingkungan",
+    "rincian": "285718072",
+    "rincian_murni": "299999596",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6655300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1155700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0015",
+        "nama_akun": "Belanja Jasa Tenaga Laboratorium",
+        "total_rincian": "86800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "43860000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5902,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.1613.65.283.1572",
+    "kode_giat": "2.11.10.2.01",
+    "kode_program": "2.11.10",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.10.2.01.02",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Penyelesaian Pengaduan Masyarakat di Bidang Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH) Kabupaten/Kota",
+    "nama_program": "PROGRAM PENANGANAN PENGADUAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Koordinasi dan Sinkronisasi Penerapan Sanksi Administrasi, Penyelesaian Sengketa, dan/atau Penyidikan Lingkungan Hidup di Luar Pengadilan atau melalui Pengadilan",
+    "nama_sub_skpd": "Bidang Penataan Hukum dan Pemulihan Lingkungan",
+    "rincian": "33147650",
+    "rincian_murni": "49999862",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2397050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "670600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "8400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "4000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "17680000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4122.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah I Cibinong",
+    "rincian": "20320947834",
+    "rincian_murni": "20141851951",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "3100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "4045905000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "1283442500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8958250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1581600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "515895000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "325200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "13274550000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "26315484"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "822000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4123.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0007",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah II Jonggol",
+    "rincian": "7156427666",
+    "rincian_murni": "7156447439",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "1624130000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "476099300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9233550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2953600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "164810000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "288000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "4277910000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "24291216"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "275000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4124.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0008",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah III Ciawi",
+    "rincian": "7404041370",
+    "rincian_murni": "7575924613",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "1351102500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "569533100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8733350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "9878400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "199350000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "367200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0035",
+        "nama_akun": "Belanja Jasa Tenaga Teknisi Mekanik dan Listrik",
+        "total_rincian": "44850000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "4599030000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "26000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "30364020"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0001",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "198000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4125.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0009",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah IV Ciampea",
+    "rincian": "6494271752",
+    "rincian_murni": "6494420113",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "1168194500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "420348350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5999550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2889600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "162850000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "369600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "4051050000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "28339752"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0001",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Kantor",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "211000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4126.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0010",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah V Parung",
+    "rincian": "4670175412",
+    "rincian_murni": "4670199310",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "997980000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "124708800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5718200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "118750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "244800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0033",
+        "nama_akun": "Belanja Jasa Tenaga Supir",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "3018000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "18218412"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0037",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Angkutan Barang",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "128000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0043",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Alat Angkutan Darat Bermotor Lainnya",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4127.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0011",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah VI Leuwiliang",
+    "rincian": "3470446962",
+    "rincian_murni": "3443172293",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "477830000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "263415600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6071550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "516400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "103270000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "212400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0033",
+        "nama_akun": "Belanja Jasa Tenaga Supir",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "2194725000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "14000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "18218412"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0001",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Kantor",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0012",
+        "nama_akun": "Belanja Pemeliharaan Alat Besar-Alat Besar Darat-Alat Besar Darat Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "120000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5912,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4128.65.284.1573",
+    "kode_giat": "2.11.11.2.01",
+    "kode_program": "2.11.11",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.11.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0012",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pengelolaan Sampah",
+    "nama_program": "PROGRAM PENGELOLAAN PERSAMPAHAN",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Penanganan Sampah dengan melakukan Pemilahan, Pengumpulan, Pengangkutan, Pengolahan, dan Pemrosesan Akhir Sampah di TPA/TPST/SPA Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Pengelolaan Sampah Wilayah VII Jasinga",
+    "rincian": "4626415016",
+    "rincian_murni": "4625416139",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "896670000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0013",
+        "nama_akun": "Belanja Suku Cadang-Suku Cadang Alat Angkutan",
+        "total_rincian": "268288000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5629800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "906000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "116400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "295200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0051",
+        "nama_akun": "Belanja Jasa Pengolahan Sampah",
+        "total_rincian": "2814030000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "28000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "24291216"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0040",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "total_rincian": "177000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1379,
+    "id_sub_giat": 5850,
+    "kode_bidang_urusan": "2.11",
+    "kode_bl": "1379.4129.65.276.1561",
+    "kode_giat": "2.11.03.2.01",
+    "kode_program": "2.11.03",
+    "kode_skpd": "2.11.0.00.0.00.01.0000",
+    "kode_sub_giat": "2.11.03.2.01.03",
+    "kode_sub_skpd": "2.11.0.00.0.00.01.0013",
+    "nama_bidang_urusan": "URUSAN PEMERINTAHAN BIDANG LINGKUNGAN HIDUP",
+    "nama_giat": "Pencegahan Pencemaran dan/atau Kerusakan Lingkungan Hidup Kabupaten/Kota",
+    "nama_program": "PROGRAM PENGENDALIAN PENCEMARAN DAN/ATAU KERUSAKAN LINGKUNGAN HIDUP",
+    "nama_skpd": "DINAS LINGKUNGAN HIDUP",
+    "nama_sub_giat": "Pengelolaan Laboratorium Lingkungan Hidup Kabupaten/Kota",
+    "nama_sub_skpd": "UPT Laboratorium Lingkungan",
+    "rincian": "1211194194",
+    "rincian_murni": "1211196293",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "10175000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0002",
+        "nama_akun": "Belanja Bahan-Bahan Kimia",
+        "total_rincian": "197528500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "9625550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0054",
+        "nama_akun": "Belanja Penambah Daya Tahan Tubuh",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "218400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0036",
+        "nama_akun": "Belanja Jasa Audit/Surveillance ISO",
+        "total_rincian": "35000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0041",
+        "nama_akun": "Belanja Jasa Pemasangan Instalasi Telepon, Air, dan Listrik",
+        "total_rincian": "15977000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "16194144"
+      },
+      {
+        "kode_akun": "5.1.02.02.09.0014",
+        "nama_akun": "Belanja Jasa Konsultansi Berorientasi Layanan-Jasa Khusus",
+        "total_rincian": "170000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.10.0006",
+        "nama_akun": "Belanja Jasa Ketersediaan Layanan (Availibility Payment) Infrastruktur Sistem Pengelolaan Air Limbah Setempat",
+        "total_rincian": "6440000"
+      },
+      {
+        "kode_akun": "5.1.02.02.12.0001",
+        "nama_akun": "Belanja Kursus Singkat/Pelatihan",
+        "total_rincian": "40000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0250",
+        "nama_akun": "Belanja Pemeliharaan Alat Laboratorium-Unit Alat Laboratorium-Alat Laboratorium Kimia",
+        "total_rincian": "74000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "16320000"
+      },
+      {
+        "kode_akun": "5.2.02.08.02.0005",
+        "nama_akun": "Belanja Modal Laboratory Safety Equipment",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.08.07.0001",
+        "nama_akun": "Belanja Modal Alat Laboratorium Kualitas Air dan Tanah",
+        "total_rincian": "165000000"
+      },
+      {
+        "kode_akun": "5.2.02.08.07.0005",
+        "nama_akun": "Belanja Modal Alat Laboratorium Penunjang",
+        "total_rincian": "121519000"
+      },
+      {
+        "kode_akun": "5.2.02.08.09.0002",
+        "nama_akun": "Belanja Modal Alat Laboratorium Standar dan Kalibrator",
+        "total_rincian": "115015000"
+      }
+    ]
+  }
+]

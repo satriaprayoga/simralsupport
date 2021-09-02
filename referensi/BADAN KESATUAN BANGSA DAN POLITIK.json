@@ -1,0 +1,2768 @@
+[
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8857,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Dokumen Perencanaan Perangkat Daerah",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "101903886",
+    "rincian_murni": "69815512",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6220350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "10500000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "7800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "4335000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "9000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8858,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.02",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen RKA-SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "17147100",
+    "rincian_murni": "17147100",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2997100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "7950000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8859,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Dokumen Perubahan RKA-SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "14937500",
+    "rincian_murni": "14937500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1987500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "7950000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8860,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan DPA-SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "15472800",
+    "rincian_murni": "15472800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2297800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3350000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5625000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8861,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Perubahan DPA-SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "19940400",
+    "rincian_murni": "19940400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2465400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "8250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3600000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5625000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8862,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.06",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "47588768",
+    "rincian_murni": "15564500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3214500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6850000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8863,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1860",
+    "kode_giat": "8.01.01.2.01",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.01.07",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Evaluasi Kinerja Perangkat Daerah",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "145570068",
+    "rincian_murni": "145570262",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "10247600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13478200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4060000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "75000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "10760000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8864,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Gaji dan Tunjangan ASN",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "5894294823",
+    "rincian_murni": "7559586677",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.01.01.0001",
+        "nama_akun": "Belanja Gaji Pokok PNS",
+        "total_rincian": "1643841680"
+      },
+      {
+        "kode_akun": "5.1.01.01.02.0001",
+        "nama_akun": "Belanja Tunjangan Keluarga PNS",
+        "total_rincian": "162500000"
+      },
+      {
+        "kode_akun": "5.1.01.01.03.0001",
+        "nama_akun": "Belanja Tunjangan Jabatan PNS",
+        "total_rincian": "159445000"
+      },
+      {
+        "kode_akun": "5.1.01.01.05.0001",
+        "nama_akun": "Belanja Tunjangan Fungsional Umum PNS",
+        "total_rincian": "31070000"
+      },
+      {
+        "kode_akun": "5.1.01.01.06.0001",
+        "nama_akun": "Belanja Tunjangan Beras PNS",
+        "total_rincian": "84500000"
+      },
+      {
+        "kode_akun": "5.1.01.01.07.0001",
+        "nama_akun": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "total_rincian": "7499999"
+      },
+      {
+        "kode_akun": "5.1.01.01.08.0001",
+        "nama_akun": "Belanja Pembulatan Gaji PNS",
+        "total_rincian": "5806704"
+      },
+      {
+        "kode_akun": "5.1.01.01.09.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan PNS",
+        "total_rincian": "73840000"
+      },
+      {
+        "kode_akun": "5.1.01.01.10.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "total_rincian": "3900000"
+      },
+      {
+        "kode_akun": "5.1.01.01.11.0001",
+        "nama_akun": "Belanja Iuran Jaminan Kematian PNS",
+        "total_rincian": "11899940"
+      },
+      {
+        "kode_akun": "5.1.01.02.01.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Beban Kerja PNS",
+        "total_rincian": "3690241500"
+      },
+      {
+        "kode_akun": "5.1.01.02.03.0001",
+        "nama_akun": "Tambahan Penghasilan berdasarkan Kondisi Kerja PNS",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.01.03.07.0001",
+        "nama_akun": "Belanja Honorarium Penanggungjawaban Pengelola Keuangan",
+        "total_rincian": "13750000"
+      },
+      {
+        "kode_akun": "5.1.01.03.08.0002",
+        "nama_akun": "Belanja Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8866,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Penatausahaan dan Pengujian/Verifikasi Keuangan SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "84280386",
+    "rincian_murni": "93009824",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "17566850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5465000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "52800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8867,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Akuntansi SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "40687450",
+    "rincian_murni": "89943950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6829450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "25708000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8868,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Akhir Tahun SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "14602650",
+    "rincian_murni": "22797400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7702650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3300000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3600000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8869,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.06",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pengelolaan dan Penyiapan Bahan Tanggapan Pemeriksaan",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "15273800",
+    "rincian_murni": "20832650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8173800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3100000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8870,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.07",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Penyusunan Laporan Keuangan Bulanan/Triwulanan/Semesteran SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "36624968",
+    "rincian_murni": "13313250",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4350700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3050000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8871,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1861",
+    "kode_giat": "8.01.01.2.02",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.02.08",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Keuangan Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Pelaporan dan Analisis Prognosis Realisasi Anggaran",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "14977500",
+    "rincian_murni": "19520650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7977500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3800000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8872,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1862",
+    "kode_giat": "8.01.01.2.03",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.03.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Perencanaan Kebutuhan Barang Milik Daerah SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "5008300",
+    "rincian_murni": "5008300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2158300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8876,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1862",
+    "kode_giat": "8.01.01.2.03",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.03.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Rekonsiliasi dan Penyusunan Laporan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "5010400",
+    "rincian_murni": "5010400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1810400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8877,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1862",
+    "kode_giat": "8.01.01.2.03",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.03.06",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Barang Milik Daerah pada Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penatausahaan Barang Milik Daerah pada SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "30980318",
+    "rincian_murni": "30916212",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1156050"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "22800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8886,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1864",
+    "kode_giat": "8.01.01.2.05",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.05.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Peningkatan Sarana dan Prasarana Disiplin Pegawai",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "54435950",
+    "rincian_murni": "5715950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6848750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "600000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "15750000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "27000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "4237200"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8887,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1864",
+    "kode_giat": "8.01.01.2.05",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.05.02",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pengadaan Pakaian Dinas Beserta Atribut Kelengkapannya",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "96983350",
+    "rincian_murni": "90623350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "843350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0063",
+        "nama_akun": "Belanja Pakaian Dinas Harian (PDH)",
+        "total_rincian": "48840000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0064",
+        "nama_akun": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "total_rincian": "11250000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0073",
+        "nama_akun": "Belanja Pakaian KORPRI",
+        "total_rincian": "13950000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0076",
+        "nama_akun": "Belanja Pakaian Olahraga",
+        "total_rincian": "20700000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8888,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1864",
+    "kode_giat": "8.01.01.2.05",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.05.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pendataan dan Pengolahan Administrasi Kepegawaian",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "38469168",
+    "rincian_murni": "38405062",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2524900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1920000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8889,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1864",
+    "kode_giat": "8.01.01.2.05",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.05.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Koordinasi dan Pelaksanaan Sistem Informasi Kepegawaian",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "3048300",
+    "rincian_murni": "5248300",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "723300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1125000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8890,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1864",
+    "kode_giat": "8.01.01.2.05",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.05.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Kepegawaian Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Monitoring, Evaluasi, dan Penilaian Kinerja Pegawai",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "5082550",
+    "rincian_murni": "5082550",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1882550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1200000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8897,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "12466350",
+    "rincian_murni": "12466350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "171850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "425000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0031",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Listrik",
+        "total_rincian": "11869500"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8898,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.02",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Peralatan dan Perlengkapan Kantor",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "273984454",
+    "rincian_murni": "113558950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "8400000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "138300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "495000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "5000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0004",
+        "nama_akun": "Belanja Modal Alat Penyimpan Perlengkapan Kantor",
+        "total_rincian": "27472500"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "86800000"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0004",
+        "nama_akun": "Belanja Modal Peralatan Cetak",
+        "total_rincian": "18867800"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0006",
+        "nama_akun": "Belanja Modal Alat Studio Lainnya",
+        "total_rincian": "24777900"
+      },
+      {
+        "kode_akun": "5.2.02.06.02.0011",
+        "nama_akun": "Belanja Modal Alat Komunikasi Lainnya",
+        "total_rincian": "17760800"
+      },
+      {
+        "kode_akun": "5.2.02.10.01.0003",
+        "nama_akun": "Belanja Modal Komputer Unit Lainnya",
+        "total_rincian": "80571600"
+      },
+      {
+        "kode_akun": "5.2.02.10.02.0005",
+        "nama_akun": "Belanja Modal Peralatan Komputer Lainnya",
+        "total_rincian": "2550554"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8899,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Peralatan Rumah Tangga",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "61985700",
+    "rincian_murni": "36024800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1960200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13979000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "32171500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "2500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0123",
+        "nama_akun": "Belanja Sewa Alat Rumah Tangga Lainnya (Home Use)",
+        "total_rincian": "10500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8900,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Bahan Logistik Kantor",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "8251900",
+    "rincian_murni": "8251900",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0004",
+        "nama_akun": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "total_rincian": "751900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0010",
+        "nama_akun": "Belanja Bahan-Isi Tabung Gas",
+        "total_rincian": "5000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8901,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Barang Cetakan dan Penggandaan",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "56218200",
+    "rincian_murni": "76735800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "351800"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "54716400"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8902,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.06",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "3553500",
+    "rincian_murni": "3553500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "258500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "175000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0062",
+        "nama_akun": "Belanja Langganan Jurnal/Surat Kabar/Majalah",
+        "total_rincian": "3120000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8904,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.08",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Fasilitasi Kunjungan Tamu",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "90466000",
+    "rincian_murni": "120466000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "466000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0053",
+        "nama_akun": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "total_rincian": "60000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8905,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.09",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "270375000",
+    "rincian_murni": "333500000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "108375000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "162000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8906,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1865",
+    "kode_giat": "8.01.01.2.06",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.06.10",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Administrasi Umum Perangkat Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penatausahaan Arsip Dinamis pada SKPD",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "59348386",
+    "rincian_murni": "59220173",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7699850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "45600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8912,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1866",
+    "kode_giat": "8.01.01.2.07",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.07.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pengadaan Mebel",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "118605060",
+    "rincian_murni": "76920650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "118605060"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8917,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1866",
+    "kode_giat": "8.01.01.2.07",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.07.10",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pengadaan Sarana dan Prasarana Gedung Kantor atau Bangunan Lainnya",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "709854272",
+    "rincian_murni": 0,
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "6875000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0001",
+        "nama_akun": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "total_rincian": "19446000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "150000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0028",
+        "nama_akun": "Belanja Jasa Tenaga Pelayanan Umum",
+        "total_rincian": "26400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0001",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "total_rincian": "476266312"
+      },
+      {
+        "kode_akun": "5.1.02.03.03.0036",
+        "nama_akun": "Belanja Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Taman",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.2.02.04.01.0002",
+        "nama_akun": "Belanja Modal Alat Pemeliharaan Tanaman/Ikan/Ternak",
+        "total_rincian": "10000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "8000000"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0001",
+        "nama_akun": "Belanja Modal Mebel",
+        "total_rincian": "105391960"
+      },
+      {
+        "kode_akun": "5.2.02.05.02.0005",
+        "nama_akun": "Belanja Modal Alat Dapur",
+        "total_rincian": "17325000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8920,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1867",
+    "kode_giat": "8.01.01.2.08",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.08.02",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "225180000",
+    "rincian_murni": "225180000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.02.01.0059",
+        "nama_akun": "Belanja Tagihan Telepon",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0060",
+        "nama_akun": "Belanja Tagihan Air",
+        "total_rincian": "99180000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0061",
+        "nama_akun": "Belanja Tagihan Listrik",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0063",
+        "nama_akun": "Belanja Kawat/Faksimili/Internet/TV Berlangganan",
+        "total_rincian": "6000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8922,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1867",
+    "kode_giat": "8.01.01.2.08",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.08.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Jasa Pelayanan Umum Kantor",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "385094420",
+    "rincian_murni": "384132824",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0030",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perabot Kantor",
+        "total_rincian": "16330400"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0030",
+        "nama_akun": "Belanja Jasa Tenaga Kebersihan",
+        "total_rincian": "142800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0031",
+        "nama_akun": "Belanja Jasa Tenaga Keamanan",
+        "total_rincian": "195600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "30364020"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8923,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4266.101.422.1868",
+    "kode_giat": "8.01.01.2.09",
+    "kode_program": "8.01.01",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.01.2.09.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0002",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
+    "nama_program": "PROGRAM PENUNJANG URUSAN PEMERINTAHAN DAERAH KABUPATEN/KOTA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan",
+    "nama_sub_skpd": "Sekrtariat Badan Kesatuan Bangsa dan Politik",
+    "rincian": "48812600",
+    "rincian_murni": "48812600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1812600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.03.02.0035",
+        "nama_akun": "Belanja Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "total_rincian": "45000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8446,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4267.101.409.1833",
+    "kode_giat": "8.01.02.2.01",
+    "kode_program": "8.01.02",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.02.2.01.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ideologi Pancasila dan Karakter Kebangsaan",
+    "nama_program": "PROGRAM PENGUATAN IDEOLOGI PANCASILA DAN KARAKTER KEBANGSAAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Program Kerja di Bidang Ideologi Wawasan Kebangsaan, Bela Negara, Karakter Bangsa, Pembauran Kebangsaan, Bineka Tunggal Ika dan Sejarah Kebangsaan",
+    "nama_sub_skpd": "Bidang Ideologi, Wawasan Kebangsaan dan Karakter Bangsa",
+    "rincian": "93982904",
+    "rincian_murni": "61830424",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4160100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "950000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "82800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "6072804"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8447,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4267.101.409.1833",
+    "kode_giat": "8.01.02.2.01",
+    "kode_program": "8.01.02",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.02.2.01.02",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ideologi Pancasila dan Karakter Kebangsaan",
+    "nama_program": "PROGRAM PENGUATAN IDEOLOGI PANCASILA DAN KARAKTER KEBANGSAAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Perumusan Kebijakan Teknis di Bidang Ideologi Wawasan Kebangsaan, Bela Negara, Karakter Bangsa, Pembauran Kebangsaan, Bineka Tunggal Ika dan Sejarah Kebangsaan",
+    "nama_sub_skpd": "Bidang Ideologi, Wawasan Kebangsaan dan Karakter Bangsa",
+    "rincian": "517635636",
+    "rincian_murni": "503550762",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "123587100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "29810000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "2330000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "95000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "162000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "17400000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "23460000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8448,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4267.101.409.1833",
+    "kode_giat": "8.01.02.2.01",
+    "kode_program": "8.01.02",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.02.2.01.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ideologi Pancasila dan Karakter Kebangsaan",
+    "nama_program": "PROGRAM PENGUATAN IDEOLOGI PANCASILA DAN KARAKTER KEBANGSAAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Kebijakan di Bidang Ideologi Wawasan Kebangsaan, Bela Negara, Karakter Bangsa, Pembauran Kebangsaan, Bineka Tunggal Ika dan Sejarah Kebangsaan",
+    "nama_sub_skpd": "Bidang Ideologi, Wawasan Kebangsaan dan Karakter Bangsa",
+    "rincian": "766384000",
+    "rincian_murni": "1326626450",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "24879500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "55372000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0027",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Benda Pos",
+        "total_rincian": "720000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "582500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "58040000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "59200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0004",
+        "nama_akun": "Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "total_rincian": "32400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "129000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0118",
+        "nama_akun": "Belanja Sewa Mebel",
+        "total_rincian": "37500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.04.0355",
+        "nama_akun": "Belanja Sewa Peralatan Umum",
+        "total_rincian": "90000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "220000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "16040000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "40000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8449,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4267.101.409.1833",
+    "kode_giat": "8.01.02.2.01",
+    "kode_program": "8.01.02",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.02.2.01.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ideologi Pancasila dan Karakter Kebangsaan",
+    "nama_program": "PROGRAM PENGUATAN IDEOLOGI PANCASILA DAN KARAKTER KEBANGSAAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Koordinasi di Bidang Ideologi Wawasan Kebangsaan, Bela Negara, Karakter Bangsa, Pembauran Kebangsaan, Bineka Tunggal Ika dan Sejarah Kebangsaan",
+    "nama_sub_skpd": "Bidang Ideologi, Wawasan Kebangsaan dan Karakter Bangsa",
+    "rincian": "37067350",
+    "rincian_murni": "59909500",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "7205350"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "4662000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "16000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8450,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4267.101.409.1833",
+    "kode_giat": "8.01.02.2.01",
+    "kode_program": "8.01.02",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.02.2.01.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0003",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ideologi Pancasila dan Karakter Kebangsaan",
+    "nama_program": "PROGRAM PENGUATAN IDEOLOGI PANCASILA DAN KARAKTER KEBANGSAAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Monitoring Evaluasi dan Pelaporan di Bidang Ideologi Wawasan Kebangsaan, Bela Negara, Karakter Bangsa, Pembauran Kebangsaan, Bineka Tunggal Ika dan Sejarah Kebangsaan",
+    "nama_sub_skpd": "Bidang Ideologi, Wawasan Kebangsaan dan Karakter Bangsa",
+    "rincian": "28979900",
+    "rincian_murni": "35252050",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1649900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1650000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2560000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "23120000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8456,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4268.101.410.1834",
+    "kode_giat": "8.01.03.2.01",
+    "kode_program": "8.01.03",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.03.2.01.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik",
+    "nama_program": "PROGRAM PENINGKATAN PERAN PARTAI POLITIK DAN LEMBAGA PENDIDIKAN MELALUI PENDIDIKAN POLITIK DAN PENGEMBANGAN ETIKA SERTA BUDAYA POLITIK",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Program Kerja di Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik di Daerah",
+    "nama_sub_skpd": "Bidang Politik Dalam Negeri",
+    "rincian": "128571084",
+    "rincian_murni": "94394336",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3713850"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "114760162"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8458,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4268.101.410.1834",
+    "kode_giat": "8.01.03.2.01",
+    "kode_program": "8.01.03",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.03.2.01.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik",
+    "nama_program": "PROGRAM PENINGKATAN PERAN PARTAI POLITIK DAN LEMBAGA PENDIDIKAN MELALUI PENDIDIKAN POLITIK DAN PENGEMBANGAN ETIKA SERTA BUDAYA POLITIK",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Kebijakan Di Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik Di Daerah",
+    "nama_sub_skpd": "Bidang Politik Dalam Negeri",
+    "rincian": "306750350",
+    "rincian_murni": "565658350",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2475000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "12256600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16229000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "174750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1040000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "43200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "180000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "11375000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "40000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8459,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4268.101.410.1834",
+    "kode_giat": "8.01.03.2.01",
+    "kode_program": "8.01.03",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.03.2.01.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik",
+    "nama_program": "PROGRAM PENINGKATAN PERAN PARTAI POLITIK DAN LEMBAGA PENDIDIKAN MELALUI PENDIDIKAN POLITIK DAN PENGEMBANGAN ETIKA SERTA BUDAYA POLITIK",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Koordinasi Di Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik di Daerah",
+    "nama_sub_skpd": "Bidang Politik Dalam Negeri",
+    "rincian": "54447045400",
+    "rincian_murni": "46949765400",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "6880900"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "5803000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "233000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "9760000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "17040000"
+      },
+      {
+        "kode_akun": "5.1.05.01.01.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Pemerintah Pusat",
+        "total_rincian": "50894369000"
+      },
+      {
+        "kode_akun": "5.1.05.07.01.0001",
+        "nama_akun": "Belanja Hibah berupa Bantuan Keuangan kepada Partai Politik",
+        "total_rincian": "3512959500"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8460,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4268.101.410.1834",
+    "kode_giat": "8.01.03.2.01",
+    "kode_program": "8.01.03",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.03.2.01.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0004",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik",
+    "nama_program": "PROGRAM PENINGKATAN PERAN PARTAI POLITIK DAN LEMBAGA PENDIDIKAN MELALUI PENDIDIKAN POLITIK DAN PENGEMBANGAN ETIKA SERTA BUDAYA POLITIK",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Monitoring, Evaluasi dan Pelaporan di Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik di Daerah",
+    "nama_sub_skpd": "Bidang Politik Dalam Negeri",
+    "rincian": "28863650",
+    "rincian_murni": "38068650",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1658650"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3750000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "3840000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0001",
+        "nama_akun": "Belanja Perjalanan Dinas Biasa",
+        "total_rincian": "7215000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "12400000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8468,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4269.101.411.1835",
+    "kode_giat": "8.01.04.2.01",
+    "kode_program": "8.01.04",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.04.2.01.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pemberdayaan dan Pengawasan Organisasi Kemasyarakatan",
+    "nama_program": "PROGRAM PEMBERDAYAAN DAN PENGAWASAN ORGANISASI KEMASYARAKATAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Kebijakan dibidang Pendaftaran Ormas, Pemberdayaan Ormas, Evaluasi dan Mediasi Sengketa Ormas, Pengawasan Ormas dan Ormas Asing di Daerah",
+    "nama_sub_skpd": "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan",
+    "rincian": "113101600",
+    "rincian_murni": "197522950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4850700"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16239400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "116500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "640000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "10400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0029",
+        "nama_akun": "Belanja Jasa Tenaga Ahli",
+        "total_rincian": "3200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "4500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "2005000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "10000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8469,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4269.101.411.1835",
+    "kode_giat": "8.01.04.2.01",
+    "kode_program": "8.01.04",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.04.2.01.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pemberdayaan dan Pengawasan Organisasi Kemasyarakatan",
+    "nama_program": "PROGRAM PEMBERDAYAAN DAN PENGAWASAN ORGANISASI KEMASYARAKATAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Koordinasi dibidang Pendaftaran Ormas, Pemberdayaan Ormas, Evaluasi dan Mediasi Sengketa Ormas, Pengawasan Ormas dan Ormas Asing di Daerah",
+    "nama_sub_skpd": "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan",
+    "rincian": "1420105600",
+    "rincian_murni": "2420105600",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3651100"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3501500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "233000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "6240000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "6480000"
+      },
+      {
+        "kode_akun": "5.1.05.05.01.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Badan dan Lembaga yang Bersifat Nirlaba, Sukarela dan Sosial yang Dibentuk Berdasarkan Peraturan Perundang-Undangan",
+        "total_rincian": "1250000000"
+      },
+      {
+        "kode_akun": "5.1.05.05.02.0001",
+        "nama_akun": "Belanja Hibah Uang kepada Badan dan Lembaga Nirlaba, Sukarela dan Sosial yang Telah Memiliki Surat Keterangan Terdaftar",
+        "total_rincian": "150000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8470,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4269.101.411.1835",
+    "kode_giat": "8.01.04.2.01",
+    "kode_program": "8.01.04",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.04.2.01.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pemberdayaan dan Pengawasan Organisasi Kemasyarakatan",
+    "nama_program": "PROGRAM PEMBERDAYAAN DAN PENGAWASAN ORGANISASI KEMASYARAKATAN",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Monitoring Evaluasi dan Pelaporan Dibidang Pendaftaran Ormas, Pemberdayaan Ormas, Evaluasi dan Mediasi Sengketa Ormas, Pengawasan Ormas dan Ormas Asing di Daerah",
+    "nama_sub_skpd": "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan",
+    "rincian": "93976086",
+    "rincian_murni": "99627873",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "2247550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "2560000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "23120000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8476,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4269.101.412.1836",
+    "kode_giat": "8.01.05.2.01",
+    "kode_program": "8.01.05",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.05.2.01.01",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ketahanan Ekonomi, Sosial dan Budaya",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGEMBANGAN KETAHANAN EKONOMI, SOSIAL, DAN BUDAYA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Program Kerja di Bidang Ketahanan Ekonomi, Sosial, Budaya dan Fasilitasi Pencegahan Penyalagunaan Narkotika, Fasilitasi Kerukunan Umat Beragama dan Penghayat Kepercayaan di Daerah",
+    "nama_sub_skpd": "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan",
+    "rincian": "69168786",
+    "rincian_murni": "69040573",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "4170250"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "950000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "4048536"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8478,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4269.101.412.1836",
+    "kode_giat": "8.01.05.2.01",
+    "kode_program": "8.01.05",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.05.2.01.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ketahanan Ekonomi, Sosial dan Budaya",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGEMBANGAN KETAHANAN EKONOMI, SOSIAL, DAN BUDAYA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Kebijakan di Bidang Ketahanan Ekonomi, Sosial, Budaya dan Fasilitasi Pencegahan Penyalagunaan Narkotika, Fasilitasi Kerukunan Umat Beragama dan Penghayat Kepercayaan di Daerah",
+    "nama_sub_skpd": "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan",
+    "rincian": "117759900",
+    "rincian_murni": "197522950",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "1150000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "5135000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "16583400"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "116500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "640000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "10400000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0029",
+        "nama_akun": "Belanja Jasa Tenaga Ahli",
+        "total_rincian": "3200000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0055",
+        "nama_akun": "Belanja Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "total_rincian": "4500000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "60000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "4035000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "12000000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8479,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4269.101.412.1836",
+    "kode_giat": "8.01.05.2.01",
+    "kode_program": "8.01.05",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.05.2.01.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0005",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ketahanan Ekonomi, Sosial dan Budaya",
+    "nama_program": "PROGRAM PEMBINAAN DAN PENGEMBANGAN KETAHANAN EKONOMI, SOSIAL, DAN BUDAYA",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Koordinasi di Bidang Ketahanan Ekonomi, Sosial, Budaya dan Fasilitasi Pencegahan Penyalagunaan Narkotika, Fasilitasi Kerukunan Umat Beragama dan Penghayat Kepercayaan di Daerah",
+    "nama_sub_skpd": "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan",
+    "rincian": "98967518",
+    "rincian_murni": "98903412",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "15242000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "3701750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "349500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "28000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "30000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "2024268"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "19650000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8488,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4270.101.413.1837",
+    "kode_giat": "8.01.06.2.01",
+    "kode_program": "8.01.06",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.06.2.01.02",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pelaksanaan Pemantapan Kewaspadaan Nasional dan Penanganan Konflik Sosial",
+    "nama_program": "PROGRAM PENINGKATAN KEWASPADAAN NASIONAL DAN PENINGKATAN KUALITAS DAN FASILITASI PENANGANAN KONFLIK SOSIAL",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Penyusunan Bahan Perumusan Kebijakan di Bidang Kewaspadaan Dini, Kerjasama Intelijen, Pemantauan Orang Asing, Tenaga Kerja Asing dan Lembaga Asing, Kewaspadaan Perbatasan Antar Negara, Fasilitasi Kelembagaan Bidang Kewaspadaan, serta Penanganan Konflik di Daerah",
+    "nama_sub_skpd": "Bidang Kewaspadaan Nasional dan Penanganan Konflik",
+    "rincian": "126729622",
+    "rincian_murni": "62552874",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "3832550"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "2000000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0026",
+        "nama_akun": "Belanja Jasa Tenaga Administrasi",
+        "total_rincian": "112800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0027",
+        "nama_akun": "Belanja Jasa Tenaga Operator Komputer",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.02.02.0005",
+        "nama_akun": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "total_rincian": "8097072"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8489,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4270.101.413.1837",
+    "kode_giat": "8.01.06.2.01",
+    "kode_program": "8.01.06",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.06.2.01.03",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pelaksanaan Pemantapan Kewaspadaan Nasional dan Penanganan Konflik Sosial",
+    "nama_program": "PROGRAM PENINGKATAN KEWASPADAAN NASIONAL DAN PENINGKATAN KUALITAS DAN FASILITASI PENANGANAN KONFLIK SOSIAL",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Kebijakan di Bidang Kewaspadaan Dini, Kerjasama Intelijen, Pemantauan Orang Asing, Tenaga Kerja Asing dan Lembaga Asing, Kewaspadaan Perbatasan Antar Negara, Fasilitasi Kelembagaan Bidang Kewaspadaan, serta Penanganan Konflik di Daerah",
+    "nama_sub_skpd": "Bidang Kewaspadaan Nasional dan Penanganan Konflik",
+    "rincian": "233615250",
+    "rincian_murni": "589449150",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.01.03.07.0002",
+        "nama_akun": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "total_rincian": "2300000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0012",
+        "nama_akun": "Belanja Bahan-Bahan Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "38081750"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "13139000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0032",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Perlengkapan Dinas",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "349500"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "4360000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "29600000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "120000000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "5785000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "20000000"
+      },
+      {
+        "kode_akun": "5.2.02.02.01.0004",
+        "nama_akun": "Belanja Modal Kendaraan Bermotor Beroda Dua",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.05.01.0005",
+        "nama_akun": "Belanja Modal Alat Kantor Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.01.0006",
+        "nama_akun": "Belanja Modal Alat Studio Lainnya",
+        "total_rincian": "0"
+      },
+      {
+        "kode_akun": "5.2.02.06.02.0011",
+        "nama_akun": "Belanja Modal Alat Komunikasi Lainnya",
+        "total_rincian": "0"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8490,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4270.101.413.1837",
+    "kode_giat": "8.01.06.2.01",
+    "kode_program": "8.01.06",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.06.2.01.04",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pelaksanaan Pemantapan Kewaspadaan Nasional dan Penanganan Konflik Sosial",
+    "nama_program": "PROGRAM PENINGKATAN KEWASPADAAN NASIONAL DAN PENINGKATAN KUALITAS DAN FASILITASI PENANGANAN KONFLIK SOSIAL",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Koordinasi di Bidang Kewaspadaan Dini, Kerjasama Intelijen, Pemantauan Orang Asing, Tenaga Kerja Asing dan Lembaga Asing, Kewaspadaan Perbatasan Antar Negara, Fasilitasi Kelembagaan Bidang Kewaspadaan, serta Penanganan Konflik di Daerah",
+    "nama_sub_skpd": "Bidang Kewaspadaan Nasional dan Penanganan Konflik",
+    "rincian": "311454750",
+    "rincian_murni": "111454750",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "11911300"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "19074450"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "699000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "42800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.01.0003",
+        "nama_akun": "Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "total_rincian": "25800000"
+      },
+      {
+        "kode_akun": "5.1.02.02.05.0009",
+        "nama_akun": "Belanja Sewa Bangunan Gedung Tempat Pertemuan",
+        "total_rincian": "115500000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "76170000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0004",
+        "nama_akun": "Belanja Perjalanan Dinas Paket Meeting Dalam Kota",
+        "total_rincian": "19500000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8491,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4270.101.413.1837",
+    "kode_giat": "8.01.06.2.01",
+    "kode_program": "8.01.06",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.06.2.01.05",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pelaksanaan Pemantapan Kewaspadaan Nasional dan Penanganan Konflik Sosial",
+    "nama_program": "PROGRAM PENINGKATAN KEWASPADAAN NASIONAL DAN PENINGKATAN KUALITAS DAN FASILITASI PENANGANAN KONFLIK SOSIAL",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Monitoring, Evaluasi dan Pelaporan di Bidang Kewaspadaan Dini, Kerjasama Intelijen, Pemantauan Orang Asing, Tenaga Kerja Asing dan Lembaga Asing, Kewaspadaan Perbatasan Antar Negara, Fasilitasi Kelembagaan Bidang Kewaspadaan, serta Penanganan Konflik di Daerah",
+    "nama_sub_skpd": "Bidang Kewaspadaan Nasional dan Penanganan Konflik",
+    "rincian": "26099800",
+    "rincian_murni": "29999800",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "1221600"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "1458200"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "1280000"
+      },
+      {
+        "kode_akun": "5.1.02.04.01.0003",
+        "nama_akun": "Belanja Perjalanan Dinas Dalam Kota",
+        "total_rincian": "22140000"
+      }
+    ]
+  },
+  {
+    "id_skpd": 1423,
+    "id_sub_giat": 8492,
+    "kode_bidang_urusan": "8.01",
+    "kode_bl": "1423.4270.101.413.1837",
+    "kode_giat": "8.01.06.2.01",
+    "kode_program": "8.01.06",
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "kode_sub_giat": "8.01.06.2.01.06",
+    "kode_sub_skpd": "8.01.0.00.0.00.01.0006",
+    "nama_bidang_urusan": "KESATUAN BANGSA DAN POLITIK",
+    "nama_giat": "Perumusan Kebijakan Teknis dan Pelaksanaan Pemantapan Kewaspadaan Nasional dan Penanganan Konflik Sosial",
+    "nama_program": "PROGRAM PENINGKATAN KEWASPADAAN NASIONAL DAN PENINGKATAN KUALITAS DAN FASILITASI PENANGANAN KONFLIK SOSIAL",
+    "nama_skpd": "BADAN KESATUAN BANGSA DAN POLITIK",
+    "nama_sub_giat": "Pelaksanaan Forum Koordinasi Pimpinan Daerah Kabupaten/Kota",
+    "nama_sub_skpd": "Bidang Kewaspadaan Nasional dan Penanganan Konflik",
+    "rincian": "117457000",
+    "rincian_murni": "117457000",
+    "rincian_objek": [
+      {
+        "kode_akun": "5.1.02.01.01.0024",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat Tulis Kantor",
+        "total_rincian": "8540000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0026",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor- Bahan Cetak",
+        "total_rincian": "15218000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0036",
+        "nama_akun": "Belanja Alat/Bahan untuk Kegiatan Kantor-Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "total_rincian": "699000"
+      },
+      {
+        "kode_akun": "5.1.02.01.01.0052",
+        "nama_akun": "Belanja Makanan dan Minuman Rapat",
+        "total_rincian": "93000000"
+      }
+    ]
+  }
+]
