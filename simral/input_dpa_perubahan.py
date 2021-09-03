@@ -47,7 +47,7 @@ def pilih_skpd(driver, periode, skpd, sub_skpd):
         
         soup=BeautifulSoup(driver.page_source,"html.parser")
         table=soup.find('table', class_='table table-striped table-bordered table-condensed table-hover')
-        print(table.prettify())
+        
         links=table.find_all('a')
         link_sub_kegiatans=[]
         for l in links:

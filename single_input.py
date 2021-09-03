@@ -43,6 +43,12 @@ def pilihSkpd(jsonData):
         return -1
     return skpd
 
+def loadDpa(skpd):
+    f=open(f'referensi/{skpd}.json','r')
+    jsonData=json.load(f)
+    f.close()
+    return jsonData
+
 """ driver = webdriver.Chrome(r'./chromedriver.exe')
 simral_login.connect_to_simral(driver)
 simral_login.find_captcha(driver)
@@ -57,6 +63,8 @@ if not captcha.isdigit():
 
 skpdList=loadDataSkpd()
 skpd=pilihSkpd(skpdList)
+dpa=loadDpa(skpd['nama_skpd'])
+
 driver = webdriver.Chrome(r'./chromedriver.exe')
 simral_login.connect_to_simral(driver)
 simral_login.find_captcha(driver)
@@ -69,6 +77,5 @@ if not captcha.isdigit():
     exit(-1)
 
 simral_login.login(driver, USERNAME, PASSWORD, CFG, captcha)
-
 logging.info(f'Import DPA [{skpd["kode_skpd"]}] {skpd["nama_skpd"]}')
 driver.quit()

@@ -31,7 +31,7 @@ install dengan mengetik perintah berikut di command prompt:<br/>
 **3. selenium** <br/>
 install dengan mengetik perintah berikut di command prompt:<br/>
 
-`pip selenium` <br/>
+`pip install selenium scrapy pillow` <br/>
 
 **4. web driver** <br/>
 Web driver yang digunakan pada script ini adalah chromium web driver yang dapat di unduh di (https://sites.google.com/a/chromium.org/chromedriver/downloads)
