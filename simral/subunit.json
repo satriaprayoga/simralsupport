@@ -1,0 +1,2998 @@
+[
+	{
+		"id_skpd" : 1367,
+		"kode_skpd" : "1.01.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENDIDIKAN",
+		"kode_sub_skpd" : "1.01.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Disdik"
+	},
+	{
+		"id_skpd" : 1367,
+		"kode_skpd" : "1.01.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENDIDIKAN",
+		"kode_sub_skpd" : "1.01.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pembinaan PAUD dan Dikmas"
+	},
+	{
+		"id_skpd" : 1367,
+		"kode_skpd" : "1.01.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENDIDIKAN",
+		"kode_sub_skpd" : "1.01.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pembinaan SD"
+	},
+	{
+		"id_skpd" : 1367,
+		"kode_skpd" : "1.01.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENDIDIKAN",
+		"kode_sub_skpd" : "1.01.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Sarana dan Prasarana"
+	},
+	{
+		"id_skpd" : 1367,
+		"kode_skpd" : "1.01.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENDIDIKAN",
+		"kode_sub_skpd" : "1.01.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Pembinaan SMP"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DINKES"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pencegahan dan Pengendalian Penyakit"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Sumber Daya Kesehatan"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pelayanan Kesehatan"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Kesehatan Masyarakat"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "RSUD Cibinong"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "RSUD Ciawi"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "RSUD Leuwiliang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "RSUD Cileungsi"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "BLUD Puskesmas Jasinga"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "BLUD Puskesmas Cibungbulang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "BLUD Puskesmas Leuwiliang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0013",
+		"nama_sub_skpd" : "BLUD Puskesmas Nanggung"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0014",
+		"nama_sub_skpd" : "BLUD Puskesmas Ciampea"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0015",
+		"nama_sub_skpd" : "BLUD Puskesmas Ciawi"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0016",
+		"nama_sub_skpd" : "BLUD Puskesmas Cigombong"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0017",
+		"nama_sub_skpd" : "BLUD Puskesmas Cijeruk"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0018",
+		"nama_sub_skpd" : "BLUD Puskesmas Bojonggede"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0019",
+		"nama_sub_skpd" : "BLUD Puskesmas Parung"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0020",
+		"nama_sub_skpd" : "BLUD Puskesmas Sirnagalih"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0021",
+		"nama_sub_skpd" : "BLUD Puskesmas Tajurhalang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0022",
+		"nama_sub_skpd" : "BLUD Puskesmas Cigudeg"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0023",
+		"nama_sub_skpd" : "BLUD Puskesmas Cimandala"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0024",
+		"nama_sub_skpd" : "BLUD Puskesmas Cirimekar"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0025",
+		"nama_sub_skpd" : "BLUD Puskesmas Citeureup"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0026",
+		"nama_sub_skpd" : "BLUD Puskesmas Jonggol"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0027",
+		"nama_sub_skpd" : "BLUD Puskesmas Sentul"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0028",
+		"nama_sub_skpd" : "BLUD Puskesmas Tanjungsari"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0029",
+		"nama_sub_skpd" : "BLUD Puskesmas Bantarjaya"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0030",
+		"nama_sub_skpd" : "BLUD Puskesmas Tenjo"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0031",
+		"nama_sub_skpd" : "BLUD Puskesmas Sukajaya"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0032",
+		"nama_sub_skpd" : "BLUD Puskesmas Parung Panjang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0033",
+		"nama_sub_skpd" : "BLUD Puskesmas Tenjolaya"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0034",
+		"nama_sub_skpd" : "BLUD Puskesmas Rumpin"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0035",
+		"nama_sub_skpd" : "BLUD Puskesmas Pamijahan"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0036",
+		"nama_sub_skpd" : "BLUD Puskesmas Leuwisadeng"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0037",
+		"nama_sub_skpd" : "BLUD Puskesmas Dramaga"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0038",
+		"nama_sub_skpd" : "BLUD Puskesmas Ciomas"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0039",
+		"nama_sub_skpd" : "BLUD Puskesmas Caringin"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0040",
+		"nama_sub_skpd" : "BLUD Puskesmas Cisarua"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0041",
+		"nama_sub_skpd" : "BLUD Puskesmas Megamendung"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0042",
+		"nama_sub_skpd" : "BLUD Puskesmas Gunung Sindur"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0043",
+		"nama_sub_skpd" : "BLUD Puskesmas Ciseeng"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0044",
+		"nama_sub_skpd" : "BLUD Puskesmas Kemang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0045",
+		"nama_sub_skpd" : "BLUD Puskesmas Gunung Putri"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0046",
+		"nama_sub_skpd" : "BLUD Puskesmas Cileungsi"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0047",
+		"nama_sub_skpd" : "BLUD Puskesmas Sukamakmur"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0048",
+		"nama_sub_skpd" : "BLUD Puskesmas Cariu"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0049",
+		"nama_sub_skpd" : "BLUD Puskesmas Klapanunggal"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0050",
+		"nama_sub_skpd" : "UPT Labkesda"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0051",
+		"nama_sub_skpd" : "UPT Kesehatan Kerja"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0052",
+		"nama_sub_skpd" : "UPT Puskesmas Bagoang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0053",
+		"nama_sub_skpd" : "UPT Puskesmas Curug"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0054",
+		"nama_sub_skpd" : "UPT Puskesmas Lebak Wangi"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0055",
+		"nama_sub_skpd" : "UPT Puskesmas Bunar"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0056",
+		"nama_sub_skpd" : "UPT Puskesmas Kiara Pandak"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0057",
+		"nama_sub_skpd" : "UPT Puskesmas Dago"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0058",
+		"nama_sub_skpd" : "UPT Puskesmas Pasar Rebo"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0059",
+		"nama_sub_skpd" : "UPT  Puskesmas Curug Bitung"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0060",
+		"nama_sub_skpd" : "UPT  Puskesmas Puraseda"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0061",
+		"nama_sub_skpd" : "UPT Puskesmas Sadeng Pasar"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0062",
+		"nama_sub_skpd" : "UPT Puskesmas Gobang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0063",
+		"nama_sub_skpd" : "UPT Puskesmas Cicangkal"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0064",
+		"nama_sub_skpd" : "UPT  Puskesmas Cijujung"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0065",
+		"nama_sub_skpd" : "UPT Puskesmas Situ Udik"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0066",
+		"nama_sub_skpd" : "UPT Puskesmas Ciasmara"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0067",
+		"nama_sub_skpd" : "UPT Puskesmas Cibening"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0068",
+		"nama_sub_skpd" : "UPT Puskesmas Ciampea Udik"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0069",
+		"nama_sub_skpd" : "UPT Puskesmas Pasir"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0070",
+		"nama_sub_skpd" : "UPT Puskesmas Cihideung Udik"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0071",
+		"nama_sub_skpd" : "UPT Puskesmas Laladon"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0072",
+		"nama_sub_skpd" : "UPT Puskesmas Ciapus"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0073",
+		"nama_sub_skpd" : "UPT Puskesmas Kota batu"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0074",
+		"nama_sub_skpd" : "UPT Puskesmas Tamansari"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0075",
+		"nama_sub_skpd" : "UPT Puskesmas Sukaresmi"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0076",
+		"nama_sub_skpd" : "UPT Puskesmas Kampung Manggis"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0077",
+		"nama_sub_skpd" : "UPT Puskesmas Purwasari"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0078",
+		"nama_sub_skpd" : "UPT Puskesmas Cangkurawok"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0079",
+		"nama_sub_skpd" : "UPT Puskesmas Cibulan"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0080",
+		"nama_sub_skpd" : "UPT Puskesmas Sukamanah"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0081",
+		"nama_sub_skpd" : "UPT Puskesmas Banjarsari"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0082",
+		"nama_sub_skpd" : "UPT Puskesmas Citapen"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0083",
+		"nama_sub_skpd" : "UPT Puskesmas Ciderum"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0084",
+		"nama_sub_skpd" : "UPT Puskesmas Cinagara"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0085",
+		"nama_sub_skpd" : "UPT Puskesmas Ciburayut"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0086",
+		"nama_sub_skpd" : "UPT Puskesmas Sukaharja"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0087",
+		"nama_sub_skpd" : "UPT Puskesmas Jampang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0088",
+		"nama_sub_skpd" : "UPT Puskesmas Rancabungur"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0089",
+		"nama_sub_skpd" : "UPT Puskesmas Cogreg"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0090",
+		"nama_sub_skpd" : "UPT Puskemas Cibeuteung Udik"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0091",
+		"nama_sub_skpd" : "UPT Puskesmas Suliwer"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0092",
+		"nama_sub_skpd" : "UPT Puskesmas Kemuning"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0093",
+		"nama_sub_skpd" : "UPT Puskesmas Ragajaya"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0094",
+		"nama_sub_skpd" : "UPT Puskesmas Cibinong"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0095",
+		"nama_sub_skpd" : "UPT Puskesmas Pabuaran Indah"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0096",
+		"nama_sub_skpd" : "UPT Puskesmas Karadenan"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0097",
+		"nama_sub_skpd" : "UPT Puskesmas Sukaraja"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0098",
+		"nama_sub_skpd" : "UPT Puskesmas Cilebut"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0099",
+		"nama_sub_skpd" : "UPT Puskesmas Leuwinutug"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0100",
+		"nama_sub_skpd" : "UPT Puskemas Tajur"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0101",
+		"nama_sub_skpd" : "UPT Puskesmas Babakan Madang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0102",
+		"nama_sub_skpd" : "UPT  Puskesmas Cijayanti"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0103",
+		"nama_sub_skpd" : "UPT Puskesmas Bojong Nangka"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0104",
+		"nama_sub_skpd" : "UPT Puskesmas Ciangsana"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0105",
+		"nama_sub_skpd" : "UPT  Puskesmas Karanggan"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0106",
+		"nama_sub_skpd" : "UPT Puskesmas Pasir Angin"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0107",
+		"nama_sub_skpd" : "UPT Puskesmas Gandoang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0108",
+		"nama_sub_skpd" : "UPT Puskesmas Bojong"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0109",
+		"nama_sub_skpd" : "UPT Puskesmas Sukanegara"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0110",
+		"nama_sub_skpd" : "UPT Puskesmas Balekambang"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0111",
+		"nama_sub_skpd" : "UPT Puskesmas Sukadamai"
+	},
+	{
+		"id_skpd" : 1368,
+		"kode_skpd" : "1.02.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KESEHATAN",
+		"kode_sub_skpd" : "1.02.0.00.0.00.01.0112",
+		"nama_sub_skpd" : "UPT Puskesmas Karya Mekar"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DPUPR"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pembangunan Jalan dan Jembatan"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pemeliharaan Jalan dan Jembatan"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Irigasi dan Sumberdaya Air"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Penyehatan Lingkungan"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "Bidang Jasa Konstruksi"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "Bidang Penaataan Ruang"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. I"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. II"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. III"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. IV"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. V"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0013",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. VI"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0014",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. VII"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0015",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. VIII"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0016",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. IX"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0017",
+		"nama_sub_skpd" : "UPT Infrastruktur Jalan dan Jembatan Kelas A Wil. X"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0018",
+		"nama_sub_skpd" : "UPT Infrastruktur Irigasi Kelas A Wilayah I"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0019",
+		"nama_sub_skpd" : "UPT Infrastruktur Irigasi Kelas A Wilayah II"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0020",
+		"nama_sub_skpd" : "UPT Infrastruktur Irigasi Kelas A Wilayah III"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0021",
+		"nama_sub_skpd" : "UPT Infrastruktur Irigasi Kelas A Wilayah IV"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0022",
+		"nama_sub_skpd" : "UPT Infrastruktur Irigasi Kelas A Wilayah V"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0023",
+		"nama_sub_skpd" : "UPT Peralatan dan Perbengkelan Kelas A"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0024",
+		"nama_sub_skpd" : "UPT Laboratorium Bahan Konstruksi Kelas A"
+	},
+	{
+		"id_skpd" : 1369,
+		"kode_skpd" : "1.03.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG",
+		"kode_sub_skpd" : "1.03.0.00.0.00.01.0025",
+		"nama_sub_skpd" : "UPT Sistem Pengelolaan Air Limbah Domestik Kelas A"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0001",
+		"nama_sub_skpd" : "Sekretariat DPKPP"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0004",
+		"nama_sub_skpd" : "Bidang Prasarana, Sarana dan Utilitas Umum"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0005",
+		"nama_sub_skpd" : "Bidang Penataan Bangunan"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0002",
+		"nama_sub_skpd" : "Bidang Perumahan"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0003",
+		"nama_sub_skpd" : "Bidang Kawasan Permukiman"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0007",
+		"nama_sub_skpd" : "UPT I Cibinong"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0008",
+		"nama_sub_skpd" : "UPT II Wilayah Ciawi"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0009",
+		"nama_sub_skpd" : "UPT III Wilayah Leuwiliang"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0010",
+		"nama_sub_skpd" : "UPT Rusunawa"
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : null,
+		"nama_sub_skpd" : null
+	},
+	{
+		"id_skpd" : 1370,
+		"kode_skpd" : "1.03.1.04.2.10.01.0000",
+		"nama_skpd" : "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+		"kode_sub_skpd" : "1.03.1.04.2.10.01.0006",
+		"nama_sub_skpd" : "Bidang Pertanahan"
+	},
+	{
+		"id_skpd" : 1371,
+		"kode_skpd" : "1.05.0.00.0.00.01.0000",
+		"nama_skpd" : "SATUAN POLISI PAMONG PRAJA",
+		"kode_sub_skpd" : "1.05.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Sat Pol PP"
+	},
+	{
+		"id_skpd" : 1371,
+		"kode_skpd" : "1.05.0.00.0.00.01.0000",
+		"nama_skpd" : "SATUAN POLISI PAMONG PRAJA",
+		"kode_sub_skpd" : "1.05.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Penegakan Perundang-undangan Daerah"
+	},
+	{
+		"id_skpd" : 1371,
+		"kode_skpd" : "1.05.0.00.0.00.01.0000",
+		"nama_skpd" : "SATUAN POLISI PAMONG PRAJA",
+		"kode_sub_skpd" : "1.05.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Ketertiban Umum"
+	},
+	{
+		"id_skpd" : 1371,
+		"kode_skpd" : "1.05.0.00.0.00.01.0000",
+		"nama_skpd" : "SATUAN POLISI PAMONG PRAJA",
+		"kode_sub_skpd" : "1.05.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Perlindungan Masyarakat"
+	},
+	{
+		"id_skpd" : 1371,
+		"kode_skpd" : "1.05.0.00.0.00.01.0000",
+		"nama_skpd" : "SATUAN POLISI PAMONG PRAJA",
+		"kode_sub_skpd" : "1.05.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Pembinaan"
+	},
+	{
+		"id_skpd" : 1372,
+		"kode_skpd" : "1.05.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENANGGULANGAN BENCANA DAERAH",
+		"kode_sub_skpd" : "1.05.0.00.0.00.02.0001",
+		"nama_sub_skpd" : "Sekretariat BPBD"
+	},
+	{
+		"id_skpd" : 1372,
+		"kode_skpd" : "1.05.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENANGGULANGAN BENCANA DAERAH",
+		"kode_sub_skpd" : "1.05.0.00.0.00.02.0002",
+		"nama_sub_skpd" : "Bidang Pencegahan dan Kesiapsiagaan"
+	},
+	{
+		"id_skpd" : 1372,
+		"kode_skpd" : "1.05.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENANGGULANGAN BENCANA DAERAH",
+		"kode_sub_skpd" : "1.05.0.00.0.00.02.0003",
+		"nama_sub_skpd" : "Bidang Kedaruratan dan Logistik"
+	},
+	{
+		"id_skpd" : 1372,
+		"kode_skpd" : "1.05.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENANGGULANGAN BENCANA DAERAH",
+		"kode_sub_skpd" : "1.05.0.00.0.00.02.0004",
+		"nama_sub_skpd" : "Bidang Rehabilitasi dan Rekonstruksi"
+	},
+	{
+		"id_skpd" : 1373,
+		"kode_skpd" : "1.05.0.00.0.00.03.0000",
+		"nama_skpd" : "DINAS PEMADAM KEBAKARAN",
+		"kode_sub_skpd" : "1.05.0.00.0.00.03.0001",
+		"nama_sub_skpd" : "Sekretariat Disdamkar"
+	},
+	{
+		"id_skpd" : 1373,
+		"kode_skpd" : "1.05.0.00.0.00.03.0000",
+		"nama_skpd" : "DINAS PEMADAM KEBAKARAN",
+		"kode_sub_skpd" : "1.05.0.00.0.00.03.0002",
+		"nama_sub_skpd" : "Bidang Pencegahan dan Kesiapsiagaan Bahaya Kebakaran"
+	},
+	{
+		"id_skpd" : 1373,
+		"kode_skpd" : "1.05.0.00.0.00.03.0000",
+		"nama_skpd" : "DINAS PEMADAM KEBAKARAN",
+		"kode_sub_skpd" : "1.05.0.00.0.00.03.0003",
+		"nama_sub_skpd" : "Bidang Penanggulangan Pemadam Kebakaran"
+	},
+	{
+		"id_skpd" : 1373,
+		"kode_skpd" : "1.05.0.00.0.00.03.0000",
+		"nama_skpd" : "DINAS PEMADAM KEBAKARAN",
+		"kode_sub_skpd" : "1.05.0.00.0.00.03.0004",
+		"nama_sub_skpd" : "Bidang Datinfo dan Pengawasan Proteksi Bahaya Kebakaran"
+	},
+	{
+		"id_skpd" : 1374,
+		"kode_skpd" : "1.06.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS SOSIAL",
+		"kode_sub_skpd" : "1.06.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Dinsos"
+	},
+	{
+		"id_skpd" : 1374,
+		"kode_skpd" : "1.06.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS SOSIAL",
+		"kode_sub_skpd" : "1.06.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Perlindungan dan Jaminan Sosial"
+	},
+	{
+		"id_skpd" : 1374,
+		"kode_skpd" : "1.06.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS SOSIAL",
+		"kode_sub_skpd" : "1.06.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Rehabilitasi Sosial"
+	},
+	{
+		"id_skpd" : 1374,
+		"kode_skpd" : "1.06.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS SOSIAL",
+		"kode_sub_skpd" : "1.06.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pemberdayaan Sosial"
+	},
+	{
+		"id_skpd" : 1374,
+		"kode_skpd" : "1.06.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS SOSIAL",
+		"kode_sub_skpd" : "1.06.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "UPT BKS Dinsos"
+	},
+	{
+		"id_skpd" : 1375,
+		"kode_skpd" : "2.07.3.32.0.00.01.0000",
+		"nama_skpd" : "DINAS TENAGA KERJA",
+		"kode_sub_skpd" : "2.07.3.32.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Disnaker"
+	},
+	{
+		"id_skpd" : 1375,
+		"kode_skpd" : "2.07.3.32.0.00.01.0000",
+		"nama_skpd" : "DINAS TENAGA KERJA",
+		"kode_sub_skpd" : "2.07.3.32.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pelatihan dan Produktivitas"
+	},
+	{
+		"id_skpd" : 1375,
+		"kode_skpd" : "2.07.3.32.0.00.01.0000",
+		"nama_skpd" : "DINAS TENAGA KERJA",
+		"kode_sub_skpd" : "2.07.3.32.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Penempatan dan Perluasan Kerja"
+	},
+	{
+		"id_skpd" : 1375,
+		"kode_skpd" : "2.07.3.32.0.00.01.0000",
+		"nama_skpd" : "DINAS TENAGA KERJA",
+		"kode_sub_skpd" : "2.07.3.32.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Hubungan Industrial dan Syarat Kerja"
+	},
+	{
+		"id_skpd" : 1375,
+		"kode_skpd" : "2.07.3.32.0.00.01.0000",
+		"nama_skpd" : "DINAS TENAGA KERJA",
+		"kode_sub_skpd" : "2.07.3.32.0.00.01.0005",
+		"nama_sub_skpd" : "UPT Balai Latihan Kerja (BLK)"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DP3AP2KB"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pemberdayaan Perempuan"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Kesejahteraan dan Perlindungan Anak"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0006",
+		"nama_sub_skpd" : "UPT PPA I Ciawi"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0007",
+		"nama_sub_skpd" : "UPT PPA II Jonggol"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0008",
+		"nama_sub_skpd" : "UPT PPA III Ciseeng"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0009",
+		"nama_sub_skpd" : "UPT PPA IV Tamansari"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0010",
+		"nama_sub_skpd" : "UPT PPA V Leuwisadeng"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pengendalian Penduduk Penyuluhan dan Pergerakan"
+	},
+	{
+		"id_skpd" : 1376,
+		"kode_skpd" : "2.08.2.14.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK, PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA",
+		"kode_sub_skpd" : "2.08.2.14.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang KB, Ketahanan dan Kesejahteraan Keluarga"
+	},
+	{
+		"id_skpd" : 1377,
+		"kode_skpd" : "2.09.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KETAHANAN PANGAN",
+		"kode_sub_skpd" : "2.09.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DKP"
+	},
+	{
+		"id_skpd" : 1377,
+		"kode_skpd" : "2.09.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KETAHANAN PANGAN",
+		"kode_sub_skpd" : "2.09.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Konsumsi dan Penganekaragaman Pangan"
+	},
+	{
+		"id_skpd" : 1377,
+		"kode_skpd" : "2.09.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KETAHANAN PANGAN",
+		"kode_sub_skpd" : "2.09.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Keamanan Pangan"
+	},
+	{
+		"id_skpd" : 1377,
+		"kode_skpd" : "2.09.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KETAHANAN PANGAN",
+		"kode_sub_skpd" : "2.09.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Ketersediaan dan Kerawanan Pangan"
+	},
+	{
+		"id_skpd" : 1377,
+		"kode_skpd" : "2.09.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KETAHANAN PANGAN",
+		"kode_sub_skpd" : "2.09.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Distribusi dan Cadangan Pangan"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DLH"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pengelolaan Sampah"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Tata Lingkungan"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pengendalian Pencemaran dan Kemitraan"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Penataan Hukum dan Pemulihan Lingkungan"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah I Cibinong"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah II Jonggol"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah III Ciawi"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah IV Ciampea"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah V Parung"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah VI Leuwiliang"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "UPT Pengelolaan Sampah Wilayah VII Jasinga"
+	},
+	{
+		"id_skpd" : 1379,
+		"kode_skpd" : "2.11.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS LINGKUNGAN HIDUP",
+		"kode_sub_skpd" : "2.11.0.00.0.00.01.0013",
+		"nama_sub_skpd" : "UPT Laboratorium Lingkungan"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Disduk"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pelayanan Pendaftaran Penduduk"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pelayanan Pencatatan Sipil"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pengelolaan Informasi Administrasi Kependudukan"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Pemanfaatan Data dan Inovasi Pelayanan"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencatatan Sipil Wilayah I"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencacatan Sipil Wilayah II"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencatatan Sipil Wilayah III"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencatatan Sipil Wilayah IV"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencatatan Sipil Wilayah V"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencatatan Sipil Wilayah VI"
+	},
+	{
+		"id_skpd" : 1383,
+		"kode_skpd" : "2.12.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+		"kode_sub_skpd" : "2.12.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "UPT Kependudukan dan Pencatatan Sipil Wilayah VII"
+	},
+	{
+		"id_skpd" : 1388,
+		"kode_skpd" : "2.13.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+		"kode_sub_skpd" : "2.13.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DPMD"
+	},
+	{
+		"id_skpd" : 1388,
+		"kode_skpd" : "2.13.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+		"kode_sub_skpd" : "2.13.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pembangunan Ekonomi dan Pendapatan Desa"
+	},
+	{
+		"id_skpd" : 1388,
+		"kode_skpd" : "2.13.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+		"kode_sub_skpd" : "2.13.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pemberdayaan Masyarakat Desa"
+	},
+	{
+		"id_skpd" : 1388,
+		"kode_skpd" : "2.13.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+		"kode_sub_skpd" : "2.13.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pemerintahan Desa"
+	},
+	{
+		"id_skpd" : 1388,
+		"kode_skpd" : "2.13.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+		"kode_sub_skpd" : "2.13.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Sarana Prasarana dan Kewilayahan"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Dishub"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Lalu Lintas"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Keselamatan"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pengawasan"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Angkutan"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "UPT Perhubungan Wilayah I"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "UPT Perhubungan Wilayah II"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "UPT Perhubungan Wilayah III"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "UPT Perhubungan Wilayah IV"
+	},
+	{
+		"id_skpd" : 1396,
+		"kode_skpd" : "2.15.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PERHUBUNGAN",
+		"kode_sub_skpd" : "2.15.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "UPT Perhubungan Wilayah V"
+	},
+	{
+		"id_skpd" : 1400,
+		"kode_skpd" : "2.16.2.20.2.21.01.0000",
+		"nama_skpd" : "DINAS KOMUNIKASI DAN INFORMATIKA",
+		"kode_sub_skpd" : "2.16.2.20.2.21.01.0001",
+		"nama_sub_skpd" : "Sekretariat Diskominfo"
+	},
+	{
+		"id_skpd" : 1400,
+		"kode_skpd" : "2.16.2.20.2.21.01.0000",
+		"nama_skpd" : "DINAS KOMUNIKASI DAN INFORMATIKA",
+		"kode_sub_skpd" : "2.16.2.20.2.21.01.0002",
+		"nama_sub_skpd" : "Bidang Pengelolaan Informasi dan Komunikasi Publik"
+	},
+	{
+		"id_skpd" : 1400,
+		"kode_skpd" : "2.16.2.20.2.21.01.0000",
+		"nama_skpd" : "DINAS KOMUNIKASI DAN INFORMATIKA",
+		"kode_sub_skpd" : "2.16.2.20.2.21.01.0003",
+		"nama_sub_skpd" : "Bidang Aplikasi Informatika"
+	},
+	{
+		"id_skpd" : 1400,
+		"kode_skpd" : "2.16.2.20.2.21.01.0000",
+		"nama_skpd" : "DINAS KOMUNIKASI DAN INFORMATIKA",
+		"kode_sub_skpd" : "2.16.2.20.2.21.01.0004",
+		"nama_sub_skpd" : "Bidang Infrastruktur dan Teknologi"
+	},
+	{
+		"id_skpd" : 1400,
+		"kode_skpd" : "2.16.2.20.2.21.01.0000",
+		"nama_skpd" : "DINAS KOMUNIKASI DAN INFORMATIKA",
+		"kode_sub_skpd" : "2.16.2.20.2.21.01.0005",
+		"nama_sub_skpd" : "UPT. Radio dan Televisi Siaran Pemerintah Daerah"
+	},
+	{
+		"id_skpd" : 1401,
+		"kode_skpd" : "2.17.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KOPERASI, USAHA KECIL DAN MENENGAH",
+		"kode_sub_skpd" : "2.17.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Diskop, UKM"
+	},
+	{
+		"id_skpd" : 1401,
+		"kode_skpd" : "2.17.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KOPERASI, USAHA KECIL DAN MENENGAH",
+		"kode_sub_skpd" : "2.17.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pengawasan dan Pemeriksaan Koperasi"
+	},
+	{
+		"id_skpd" : 1401,
+		"kode_skpd" : "2.17.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KOPERASI, USAHA KECIL DAN MENENGAH",
+		"kode_sub_skpd" : "2.17.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Kelembagaan dan Pemberdayaan Koperasi"
+	},
+	{
+		"id_skpd" : 1401,
+		"kode_skpd" : "2.17.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS KOPERASI, USAHA KECIL DAN MENENGAH",
+		"kode_sub_skpd" : "2.17.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pemberdayaan Usaha Mikro"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DPMPTSP"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pelayanan Perizinan Pemanfaatan Ruang"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pelayanan Perizinan Operasional"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pengembangan dan Promosi"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Data"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "Bidang Pengendalian"
+	},
+	{
+		"id_skpd" : 1404,
+		"kode_skpd" : "2.18.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU",
+		"kode_sub_skpd" : "2.18.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "Bidang Penyelenggaraan Pelayanan Perizinan I"
+	},
+	{
+		"id_skpd" : 1405,
+		"kode_skpd" : "2.19.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMUDA DAN OLAHRAGA",
+		"kode_sub_skpd" : "2.19.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Dispora"
+	},
+	{
+		"id_skpd" : 1405,
+		"kode_skpd" : "2.19.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMUDA DAN OLAHRAGA",
+		"kode_sub_skpd" : "2.19.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Layanan Kepemudaan"
+	},
+	{
+		"id_skpd" : 1405,
+		"kode_skpd" : "2.19.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMUDA DAN OLAHRAGA",
+		"kode_sub_skpd" : "2.19.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pembudayaan Olahraga"
+	},
+	{
+		"id_skpd" : 1405,
+		"kode_skpd" : "2.19.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMUDA DAN OLAHRAGA",
+		"kode_sub_skpd" : "2.19.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Peningkatan Prestasi Olahraga"
+	},
+	{
+		"id_skpd" : 1405,
+		"kode_skpd" : "2.19.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMUDA DAN OLAHRAGA",
+		"kode_sub_skpd" : "2.19.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "UPT Pendidikan dan Pelatihan, Olahraga Pelajar dan Mahasiswa"
+	},
+	{
+		"id_skpd" : 1405,
+		"kode_skpd" : "2.19.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS PEMUDA DAN OLAHRAGA",
+		"kode_sub_skpd" : "2.19.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "UPT Pengelola Sarana dan Prasarana Olahraga"
+	},
+	{
+		"id_skpd" : 1406,
+		"kode_skpd" : "2.22.3.26.0.00.01.0000",
+		"nama_skpd" : "DINAS KEBUDAYAAN DAN PARIWISATA",
+		"kode_sub_skpd" : "2.22.3.26.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Disbudpar"
+	},
+	{
+		"id_skpd" : 1406,
+		"kode_skpd" : "2.22.3.26.0.00.01.0000",
+		"nama_skpd" : "DINAS KEBUDAYAAN DAN PARIWISATA",
+		"kode_sub_skpd" : "2.22.3.26.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Kebudayaan"
+	},
+	{
+		"id_skpd" : 1406,
+		"kode_skpd" : "2.22.3.26.0.00.01.0000",
+		"nama_skpd" : "DINAS KEBUDAYAAN DAN PARIWISATA",
+		"kode_sub_skpd" : "2.22.3.26.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Pemasaran Pariwisata"
+	},
+	{
+		"id_skpd" : 1406,
+		"kode_skpd" : "2.22.3.26.0.00.01.0000",
+		"nama_skpd" : "DINAS KEBUDAYAAN DAN PARIWISATA",
+		"kode_sub_skpd" : "2.22.3.26.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Destinasi"
+	},
+	{
+		"id_skpd" : 1406,
+		"kode_skpd" : "2.22.3.26.0.00.01.0000",
+		"nama_skpd" : "DINAS KEBUDAYAAN DAN PARIWISATA",
+		"kode_sub_skpd" : "2.22.3.26.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Kemitraan, SDM dan Ekonomi Kreatif"
+	},
+	{
+		"id_skpd" : 1407,
+		"kode_skpd" : "2.23.2.24.0.00.01.0000",
+		"nama_skpd" : "DINAS ARSIP DAN PERPUSTAKAAN",
+		"kode_sub_skpd" : "2.23.2.24.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Perpustakaan"
+	},
+	{
+		"id_skpd" : 1407,
+		"kode_skpd" : "2.23.2.24.0.00.01.0000",
+		"nama_skpd" : "DINAS ARSIP DAN PERPUSTAKAAN",
+		"kode_sub_skpd" : "2.23.2.24.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DAP"
+	},
+	{
+		"id_skpd" : 1407,
+		"kode_skpd" : "2.23.2.24.0.00.01.0000",
+		"nama_skpd" : "DINAS ARSIP DAN PERPUSTAKAAN",
+		"kode_sub_skpd" : "2.23.2.24.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pembinaan Kearsipan"
+	},
+	{
+		"id_skpd" : 1407,
+		"kode_skpd" : "2.23.2.24.0.00.01.0000",
+		"nama_skpd" : "DINAS ARSIP DAN PERPUSTAKAAN",
+		"kode_sub_skpd" : "2.23.2.24.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Pengelolaan Kearsipan dan Sistem Informasi Kearsipan"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Diskanak"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Produksi Perikanan"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Penguatan Daya Saing Produk Perikanan"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0014",
+		"nama_sub_skpd" : "UPT Sarana Usaha Perikanan Kelas A"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0015",
+		"nama_sub_skpd" : "UPT Balai Benih Ikan Kelas A Cibitung"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0016",
+		"nama_sub_skpd" : "UPT Balai Benih Ikan Kelas A Cijeruk"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Peternakan"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Kesehatan Hewan dan Kesehatan Masyarakat Veteriner"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0006",
+		"nama_sub_skpd" : "UPT Rumah Potong Hewan Kelas A"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0007",
+		"nama_sub_skpd" : "UPT Pusat Kesehatan Hewan Kelas A Wilayah I"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0008",
+		"nama_sub_skpd" : "UPT Pusat Kesehatan Hewan Kelas A Wilayah II"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0009",
+		"nama_sub_skpd" : "UPT Pusat Kesehatan Hewan Kelas A Wilayah III"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0010",
+		"nama_sub_skpd" : "UPT Pusat Kesehatan Hewan Kelas A Wilayah IV"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0011",
+		"nama_sub_skpd" : "UPT Pusat Kesehatan Hewan Kelas A Wilayah V"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0012",
+		"nama_sub_skpd" : "UPT Pusat Kesehatan Hewan Kelas A Wilayah VI"
+	},
+	{
+		"id_skpd" : 1408,
+		"kode_skpd" : "3.25.3.27.0.00.01.0000",
+		"nama_skpd" : "DINAS PERIKANAN DAN PETERNAKAN",
+		"kode_sub_skpd" : "3.25.3.27.0.00.01.0013",
+		"nama_sub_skpd" : "UPT Perbibitan Ternak Kelas A"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat DTPHP"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Tanaman Pangan"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Hortikultura"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Perkebunan"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Penyuluhan"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah I"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah II"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "UPT Pertanian Wiilayah III"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "UPT Pertanian Wiilayah IV"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah V"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah VI"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah VII"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0013",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah VIII"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0014",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah IX"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0015",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah X"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0016",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah XI"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0017",
+		"nama_sub_skpd" : "UPT Pertanian Wilayah XII"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0018",
+		"nama_sub_skpd" : "UPT Perbenihan Wilayah I"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0019",
+		"nama_sub_skpd" : "UPT Perbenihan Wilayah II"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0020",
+		"nama_sub_skpd" : "UPT Pengembangan Tanaman Obat"
+	},
+	{
+		"id_skpd" : 1409,
+		"kode_skpd" : "3.27.0.00.0.00.01.0000",
+		"nama_skpd" : "DINAS TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+		"kode_sub_skpd" : "3.27.0.00.0.00.01.0021",
+		"nama_sub_skpd" : "UPT Pengembangan Teknologi Lahan Kering"
+	},
+	{
+		"id_skpd" : 1410,
+		"kode_skpd" : "3.30.3.31.0.00.01.0000",
+		"nama_skpd" : "DINAS PERDAGANGAN DAN PERINDUSTRIAN",
+		"kode_sub_skpd" : "3.30.3.31.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Disdagin"
+	},
+	{
+		"id_skpd" : 1410,
+		"kode_skpd" : "3.30.3.31.0.00.01.0000",
+		"nama_skpd" : "DINAS PERDAGANGAN DAN PERINDUSTRIAN",
+		"kode_sub_skpd" : "3.30.3.31.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Perdagangan"
+	},
+	{
+		"id_skpd" : 1410,
+		"kode_skpd" : "3.30.3.31.0.00.01.0000",
+		"nama_skpd" : "DINAS PERDAGANGAN DAN PERINDUSTRIAN",
+		"kode_sub_skpd" : "3.30.3.31.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Tertib Niaga"
+	},
+	{
+		"id_skpd" : 1410,
+		"kode_skpd" : "3.30.3.31.0.00.01.0000",
+		"nama_skpd" : "DINAS PERDAGANGAN DAN PERINDUSTRIAN",
+		"kode_sub_skpd" : "3.30.3.31.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Perindustrian"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bagian Umum"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bagian Administrasi Pemerintahan"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bagian Perundang-undangan"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bagian Kerjasama dan Bantuan Hukum"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "Bagian Kesejahteraan Rakyat"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "Bagian Perekonomian"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "Bagian Administrasi Pembangunan"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "Bagian Sumber Daya Alam"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "Bagian Pengadaan Barang dan Jasa"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "Bagian Organisasi"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "Bagian Perencanaan Keuangan"
+	},
+	{
+		"id_skpd" : 1412,
+		"kode_skpd" : "4.01.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DAERAH",
+		"kode_sub_skpd" : "4.01.0.00.0.00.01.0013",
+		"nama_sub_skpd" : "Bagian Protokol dan Komunikasi Pimpinan"
+	},
+	{
+		"id_skpd" : 1413,
+		"kode_skpd" : "4.02.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DPRD",
+		"kode_sub_skpd" : "4.02.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Bagian Umum"
+	},
+	{
+		"id_skpd" : 1413,
+		"kode_skpd" : "4.02.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DPRD",
+		"kode_sub_skpd" : "4.02.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bagian Program dan Keuangan"
+	},
+	{
+		"id_skpd" : 1413,
+		"kode_skpd" : "4.02.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DPRD",
+		"kode_sub_skpd" : "4.02.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bagian Persidangan dan Perundang-undangan"
+	},
+	{
+		"id_skpd" : 1413,
+		"kode_skpd" : "4.02.0.00.0.00.01.0000",
+		"nama_skpd" : "SEKRETARIAT DPRD",
+		"kode_sub_skpd" : "4.02.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bagian Fasilitasi Penganggaran dan Pengawasan"
+	},
+	{
+		"id_skpd" : 1411,
+		"kode_skpd" : "5.01.5.05.0.00.01.0000",
+		"nama_skpd" : "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+		"kode_sub_skpd" : "5.01.5.05.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Bappedalitbang"
+	},
+	{
+		"id_skpd" : 1411,
+		"kode_skpd" : "5.01.5.05.0.00.01.0000",
+		"nama_skpd" : "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+		"kode_sub_skpd" : "5.01.5.05.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Perencanaan, Pengendalian dan Evaluasi Pembangunan Daerah"
+	},
+	{
+		"id_skpd" : 1411,
+		"kode_skpd" : "5.01.5.05.0.00.01.0000",
+		"nama_skpd" : "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+		"kode_sub_skpd" : "5.01.5.05.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pemerintahan dan Pembangunan Manusia"
+	},
+	{
+		"id_skpd" : 1411,
+		"kode_skpd" : "5.01.5.05.0.00.01.0000",
+		"nama_skpd" : "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+		"kode_sub_skpd" : "5.01.5.05.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Perekonomian dan Sumberdaya Alam"
+	},
+	{
+		"id_skpd" : 1411,
+		"kode_skpd" : "5.01.5.05.0.00.01.0000",
+		"nama_skpd" : "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+		"kode_sub_skpd" : "5.01.5.05.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Infrastruktur dan Pengembangan Wilayah"
+	},
+	{
+		"id_skpd" : 1411,
+		"kode_skpd" : "5.01.5.05.0.00.01.0000",
+		"nama_skpd" : "BADAN PERENCANAAN PEMBANGUNAN, PENELITIAN DAN PENGEMBANGAN DAERAH",
+		"kode_sub_skpd" : "5.01.5.05.0.00.01.0006",
+		"nama_sub_skpd" : "Bidang Penelitian dan Pengembangan"
+	},
+	{
+		"id_skpd" : 96,
+		"kode_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_sub_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH"
+	},
+	{
+		"id_skpd" : 96,
+		"kode_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat BPKAD"
+	},
+	{
+		"id_skpd" : 96,
+		"kode_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Anggaran"
+	},
+	{
+		"id_skpd" : 96,
+		"kode_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Perbendaharaan"
+	},
+	{
+		"id_skpd" : 96,
+		"kode_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Akutansi dan Teknologi Informasi"
+	},
+	{
+		"id_skpd" : 96,
+		"kode_skpd" : "5.02.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Aset Daerah"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0001",
+		"nama_sub_skpd" : "Sekretariat Bappenda"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0002",
+		"nama_sub_skpd" : "Bidang Perencanaan dan Pengembangan Pendapatan Daerah"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0003",
+		"nama_sub_skpd" : "Bidang Pendataan dan Penilaian"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0004",
+		"nama_sub_skpd" : "Bidang Pelayanan dan Penetapan"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0005",
+		"nama_sub_skpd" : "Bidang  Penagihan, Keberatan dan Pengawasan"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0006",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Sukaraja"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0007",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Gunung Putri"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0008",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Jonggol"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0009",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Parung"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0010",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Ciawi"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0011",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Caringin"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0012",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Citeureup"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0013",
+		"nama_sub_skpd" : "UPT Pajak Daerah Kelas A Ciomas"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0014",
+		"nama_sub_skpd" : "UPT Pajak Daerah KelasA Cigudeg"
+	},
+	{
+		"id_skpd" : 1414,
+		"kode_skpd" : "5.02.0.00.0.00.02.0000",
+		"nama_skpd" : "BADAN PENGELOLAAN PENDAPATAN DAERAH",
+		"kode_sub_skpd" : "5.02.0.00.0.00.02.0015",
+		"nama_sub_skpd" : "UPT Pajak Daerah KelasA Leuwiliang"
+	},
+	{
+		"id_skpd" : 1415,
+		"kode_skpd" : "5.03.5.04.0.00.01.0000",
+		"nama_skpd" : "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+		"kode_sub_skpd" : "5.03.5.04.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat BKPP"
+	},
+	{
+		"id_skpd" : 1415,
+		"kode_skpd" : "5.03.5.04.0.00.01.0000",
+		"nama_skpd" : "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+		"kode_sub_skpd" : "5.03.5.04.0.00.01.0002",
+		"nama_sub_skpd" : "Bidang Mutasi dan Promosi"
+	},
+	{
+		"id_skpd" : 1415,
+		"kode_skpd" : "5.03.5.04.0.00.01.0000",
+		"nama_skpd" : "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+		"kode_sub_skpd" : "5.03.5.04.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Pengadaan, Pemberhentian dan Informasi"
+	},
+	{
+		"id_skpd" : 1415,
+		"kode_skpd" : "5.03.5.04.0.00.01.0000",
+		"nama_skpd" : "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+		"kode_sub_skpd" : "5.03.5.04.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Penilaian Kinerja Aparatur dan Penghargaan"
+	},
+	{
+		"id_skpd" : 1415,
+		"kode_skpd" : "5.03.5.04.0.00.01.0000",
+		"nama_skpd" : "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA",
+		"kode_sub_skpd" : "5.03.5.04.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Pengembangan Kompetensi Aparatur"
+	},
+	{
+		"id_skpd" : 1422,
+		"kode_skpd" : "6.01.0.00.0.00.01.0000",
+		"nama_skpd" : "INSPEKTORAT",
+		"kode_sub_skpd" : "6.01.0.00.0.00.01.0000",
+		"nama_sub_skpd" : "INSPEKTORAT"
+	},
+	{
+		"id_skpd" : 1422,
+		"kode_skpd" : "6.01.0.00.0.00.01.0000",
+		"nama_skpd" : "INSPEKTORAT",
+		"kode_sub_skpd" : "6.01.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Inspetorat"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cibinong"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Kelurahan Ciri Mekar"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Kelurahan Cibinong"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Kelurahan Ciriung"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Kelurahan Pabuaran"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "Kelurahan Harapan Jaya"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0007",
+		"nama_sub_skpd" : "Kelurahan Pondok Rajeg"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0008",
+		"nama_sub_skpd" : "Keluraham Tengah"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0009",
+		"nama_sub_skpd" : "Kelurahan Sukahati"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0010",
+		"nama_sub_skpd" : "Kelurahan Karadenan"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0011",
+		"nama_sub_skpd" : "Kelurahan Nanggewer"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0012",
+		"nama_sub_skpd" : "Kelurahan Nanggewer Mekar"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0013",
+		"nama_sub_skpd" : "Kelurahan Pakansari"
+	},
+	{
+		"id_skpd" : 1424,
+		"kode_skpd" : "7.01.0.00.0.00.01.0000",
+		"nama_skpd" : "KECAMATAN CIBINONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.01.0014",
+		"nama_sub_skpd" : "Kelurahan Pabuaran Mekar"
+	},
+	{
+		"id_skpd" : 1425,
+		"kode_skpd" : "7.01.0.00.0.00.02.0000",
+		"nama_skpd" : "KECAMATAN GUNUNG PUTRI",
+		"kode_sub_skpd" : "7.01.0.00.0.00.02.0000",
+		"nama_sub_skpd" : "KECAMATAN GUNUNG PUTRI"
+	},
+	{
+		"id_skpd" : 1425,
+		"kode_skpd" : "7.01.0.00.0.00.02.0000",
+		"nama_skpd" : "KECAMATAN GUNUNG PUTRI",
+		"kode_sub_skpd" : "7.01.0.00.0.00.02.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Gunung Putri"
+	},
+	{
+		"id_skpd" : 1452,
+		"kode_skpd" : "7.01.0.00.0.00.03.0000",
+		"nama_skpd" : "KECAMATAN CITEUREUP",
+		"kode_sub_skpd" : "7.01.0.00.0.00.03.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Citeureup"
+	},
+	{
+		"id_skpd" : 1452,
+		"kode_skpd" : "7.01.0.00.0.00.03.0000",
+		"nama_skpd" : "KECAMATAN CITEUREUP",
+		"kode_sub_skpd" : "7.01.0.00.0.00.03.0002",
+		"nama_sub_skpd" : "Kelurahan Puspanegara"
+	},
+	{
+		"id_skpd" : 1452,
+		"kode_skpd" : "7.01.0.00.0.00.03.0000",
+		"nama_skpd" : "KECAMATAN CITEUREUP",
+		"kode_sub_skpd" : "7.01.0.00.0.00.03.0003",
+		"nama_sub_skpd" : "Kelurahan Karang Asem Barat"
+	},
+	{
+		"id_skpd" : 1453,
+		"kode_skpd" : "7.01.0.00.0.00.04.0000",
+		"nama_skpd" : "KECAMATAN SUKARAJA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.04.0001",
+		"nama_sub_skpd" : "Sekretaariat Kecamatan Sukaraja"
+	},
+	{
+		"id_skpd" : 1454,
+		"kode_skpd" : "7.01.0.00.0.00.05.0000",
+		"nama_skpd" : "KECAMATAN BABAKAN MADANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.05.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Babakan Madang"
+	},
+	{
+		"id_skpd" : 1455,
+		"kode_skpd" : "7.01.0.00.0.00.06.0000",
+		"nama_skpd" : "KECAMATAN JONGGOL",
+		"kode_sub_skpd" : "7.01.0.00.0.00.06.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Jonggol"
+	},
+	{
+		"id_skpd" : 1456,
+		"kode_skpd" : "7.01.0.00.0.00.07.0000",
+		"nama_skpd" : "KECAMATAN CILEUNGSI",
+		"kode_sub_skpd" : "7.01.0.00.0.00.07.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cileungsi"
+	},
+	{
+		"id_skpd" : 1457,
+		"kode_skpd" : "7.01.0.00.0.00.08.0000",
+		"nama_skpd" : "KECAMATAN CARIU",
+		"kode_sub_skpd" : "7.01.0.00.0.00.08.0000",
+		"nama_sub_skpd" : "KECAMATAN CARIU"
+	},
+	{
+		"id_skpd" : 1457,
+		"kode_skpd" : "7.01.0.00.0.00.08.0000",
+		"nama_skpd" : "KECAMATAN CARIU",
+		"kode_sub_skpd" : "7.01.0.00.0.00.08.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cariu"
+	},
+	{
+		"id_skpd" : 1458,
+		"kode_skpd" : "7.01.0.00.0.00.09.0000",
+		"nama_skpd" : "KECAMATAN SUKAMAKMUR",
+		"kode_sub_skpd" : "7.01.0.00.0.00.09.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Sukamakmur"
+	},
+	{
+		"id_skpd" : 1459,
+		"kode_skpd" : "7.01.0.00.0.00.10.0000",
+		"nama_skpd" : "KECAMATAN PARUNG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.10.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Parung"
+	},
+	{
+		"id_skpd" : 1460,
+		"kode_skpd" : "7.01.0.00.0.00.11.0000",
+		"nama_skpd" : "KECAMATAN GUNUNG SINDUR",
+		"kode_sub_skpd" : "7.01.0.00.0.00.11.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Gunung Sindur"
+	},
+	{
+		"id_skpd" : 1461,
+		"kode_skpd" : "7.01.0.00.0.00.12.0000",
+		"nama_skpd" : "KECAMATAN KEMANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.12.0000",
+		"nama_sub_skpd" : "KECAMATAN KEMANG"
+	},
+	{
+		"id_skpd" : 1461,
+		"kode_skpd" : "7.01.0.00.0.00.12.0000",
+		"nama_skpd" : "KECAMATAN KEMANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.12.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Kemang"
+	},
+	{
+		"id_skpd" : 1461,
+		"kode_skpd" : "7.01.0.00.0.00.12.0000",
+		"nama_skpd" : "KECAMATAN KEMANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.12.0002",
+		"nama_sub_skpd" : "Kelurahan Atang Senjaya"
+	},
+	{
+		"id_skpd" : 1462,
+		"kode_skpd" : "7.01.0.00.0.00.13.0000",
+		"nama_skpd" : "KECAMATAN BOJONGGEDE",
+		"kode_sub_skpd" : "7.01.0.00.0.00.13.0000",
+		"nama_sub_skpd" : "KECAMATAN BOJONGGEDE"
+	},
+	{
+		"id_skpd" : 1462,
+		"kode_skpd" : "7.01.0.00.0.00.13.0000",
+		"nama_skpd" : "KECAMATAN BOJONGGEDE",
+		"kode_sub_skpd" : "7.01.0.00.0.00.13.0001",
+		"nama_sub_skpd" : "Sekretariat Kec.amatan Bojonggede"
+	},
+	{
+		"id_skpd" : 1462,
+		"kode_skpd" : "7.01.0.00.0.00.13.0000",
+		"nama_skpd" : "KECAMATAN BOJONGGEDE",
+		"kode_sub_skpd" : "7.01.0.00.0.00.13.0002",
+		"nama_sub_skpd" : "Kelurahan Pabuaran"
+	},
+	{
+		"id_skpd" : 1463,
+		"kode_skpd" : "7.01.0.00.0.00.14.0000",
+		"nama_skpd" : "KECAMATAN LEUWILIANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.14.0000",
+		"nama_sub_skpd" : "KECAMATAN LEUWILIANG"
+	},
+	{
+		"id_skpd" : 1463,
+		"kode_skpd" : "7.01.0.00.0.00.14.0000",
+		"nama_skpd" : "KECAMATAN LEUWILIANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.14.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Leuwiliang"
+	},
+	{
+		"id_skpd" : 1464,
+		"kode_skpd" : "7.01.0.00.0.00.15.0000",
+		"nama_skpd" : "KECAMATAN CIAMPEA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.15.0001",
+		"nama_sub_skpd" : "Sekretariat Kec. Ciampea"
+	},
+	{
+		"id_skpd" : 1465,
+		"kode_skpd" : "7.01.0.00.0.00.16.0000",
+		"nama_skpd" : "KECAMATAN CIBUNGBULANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.16.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cibungbulang"
+	},
+	{
+		"id_skpd" : 1466,
+		"kode_skpd" : "7.01.0.00.0.00.17.0000",
+		"nama_skpd" : "KECAMATAN PAMIJAHAN",
+		"kode_sub_skpd" : "7.01.0.00.0.00.17.0000",
+		"nama_sub_skpd" : "KECAMATAN PAMIJAHAN"
+	},
+	{
+		"id_skpd" : 1466,
+		"kode_skpd" : "7.01.0.00.0.00.17.0000",
+		"nama_skpd" : "KECAMATAN PAMIJAHAN",
+		"kode_sub_skpd" : "7.01.0.00.0.00.17.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Pamijahan"
+	},
+	{
+		"id_skpd" : 1467,
+		"kode_skpd" : "7.01.0.00.0.00.18.0000",
+		"nama_skpd" : "KECAMATAN RUMPIN",
+		"kode_sub_skpd" : "7.01.0.00.0.00.18.0000",
+		"nama_sub_skpd" : "KECAMATAN RUMPIN"
+	},
+	{
+		"id_skpd" : 1467,
+		"kode_skpd" : "7.01.0.00.0.00.18.0000",
+		"nama_skpd" : "KECAMATAN RUMPIN",
+		"kode_sub_skpd" : "7.01.0.00.0.00.18.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Rumpin"
+	},
+	{
+		"id_skpd" : 1468,
+		"kode_skpd" : "7.01.0.00.0.00.19.0000",
+		"nama_skpd" : "KECAMATAN JASINGA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.19.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Jasinga"
+	},
+	{
+		"id_skpd" : 1469,
+		"kode_skpd" : "7.01.0.00.0.00.20.0000",
+		"nama_skpd" : "KECAMATAN PARUNG PANJANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.20.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Parung Panjang"
+	},
+	{
+		"id_skpd" : 1470,
+		"kode_skpd" : "7.01.0.00.0.00.21.0000",
+		"nama_skpd" : "KECAMATAN NANGGUNG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.21.0000",
+		"nama_sub_skpd" : "KECAMATAN NANGGUNG"
+	},
+	{
+		"id_skpd" : 1470,
+		"kode_skpd" : "7.01.0.00.0.00.21.0000",
+		"nama_skpd" : "KECAMATAN NANGGUNG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.21.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Nanggung"
+	},
+	{
+		"id_skpd" : 1471,
+		"kode_skpd" : "7.01.0.00.0.00.22.0000",
+		"nama_skpd" : "KECAMATAN CIGUDEG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.22.0000",
+		"nama_sub_skpd" : "KECAMATAN CIGUDEG"
+	},
+	{
+		"id_skpd" : 1471,
+		"kode_skpd" : "7.01.0.00.0.00.22.0000",
+		"nama_skpd" : "KECAMATAN CIGUDEG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.22.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cigudeg"
+	},
+	{
+		"id_skpd" : 1472,
+		"kode_skpd" : "7.01.0.00.0.00.23.0000",
+		"nama_skpd" : "KECAMATAN TENJO",
+		"kode_sub_skpd" : "7.01.0.00.0.00.23.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Tenjo"
+	},
+	{
+		"id_skpd" : 1473,
+		"kode_skpd" : "7.01.0.00.0.00.24.0000",
+		"nama_skpd" : "KECAMATAN CIAWI",
+		"kode_sub_skpd" : "7.01.0.00.0.00.24.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Ciawi"
+	},
+	{
+		"id_skpd" : 1474,
+		"kode_skpd" : "7.01.0.00.0.00.25.0000",
+		"nama_skpd" : "KECAMATAN CISARUA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.25.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cisarua"
+	},
+	{
+		"id_skpd" : 1474,
+		"kode_skpd" : "7.01.0.00.0.00.25.0000",
+		"nama_skpd" : "KECAMATAN CISARUA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.25.0002",
+		"nama_sub_skpd" : "Kelurahan Cisarua"
+	},
+	{
+		"id_skpd" : 1475,
+		"kode_skpd" : "7.01.0.00.0.00.26.0000",
+		"nama_skpd" : "KECAMATAN MEGAMENDUNG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.26.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Megamendung"
+	},
+	{
+		"id_skpd" : 1476,
+		"kode_skpd" : "7.01.0.00.0.00.27.0000",
+		"nama_skpd" : "KECAMATAN CARINGIN",
+		"kode_sub_skpd" : "7.01.0.00.0.00.27.0000",
+		"nama_sub_skpd" : "KECAMATAN CARINGIN"
+	},
+	{
+		"id_skpd" : 1476,
+		"kode_skpd" : "7.01.0.00.0.00.27.0000",
+		"nama_skpd" : "KECAMATAN CARINGIN",
+		"kode_sub_skpd" : "7.01.0.00.0.00.27.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Caringin"
+	},
+	{
+		"id_skpd" : 1477,
+		"kode_skpd" : "7.01.0.00.0.00.28.0000",
+		"nama_skpd" : "KECAMATAN CIJERUK",
+		"kode_sub_skpd" : "7.01.0.00.0.00.28.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cijeruk"
+	},
+	{
+		"id_skpd" : 1478,
+		"kode_skpd" : "7.01.0.00.0.00.29.0000",
+		"nama_skpd" : "KECAMATAN CIOMAS",
+		"kode_sub_skpd" : "7.01.0.00.0.00.29.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Ciomas"
+	},
+	{
+		"id_skpd" : 1478,
+		"kode_skpd" : "7.01.0.00.0.00.29.0000",
+		"nama_skpd" : "KECAMATAN CIOMAS",
+		"kode_sub_skpd" : "7.01.0.00.0.00.29.02",
+		"nama_sub_skpd" : "Kelurahan Padasuka"
+	},
+	{
+		"id_skpd" : 1479,
+		"kode_skpd" : "7.01.0.00.0.00.30.0000",
+		"nama_skpd" : "KECAMATAN DRAMAGA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.30.00",
+		"nama_sub_skpd" : "KECAMATAN DRAMAGA"
+	},
+	{
+		"id_skpd" : 1479,
+		"kode_skpd" : "7.01.0.00.0.00.30.0000",
+		"nama_skpd" : "KECAMATAN DRAMAGA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.30.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Dramaga"
+	},
+	{
+		"id_skpd" : 1480,
+		"kode_skpd" : "7.01.0.00.0.00.31.0000",
+		"nama_skpd" : "KECAMATAN TAMANSARI",
+		"kode_sub_skpd" : "7.01.0.00.0.00.31.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Tamansari"
+	},
+	{
+		"id_skpd" : 1481,
+		"kode_skpd" : "7.01.0.00.0.00.32.0000",
+		"nama_skpd" : "KECAMATAN KLAPANUNGGAL",
+		"kode_sub_skpd" : "7.01.0.00.0.00.32.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Klapanunggal"
+	},
+	{
+		"id_skpd" : 1482,
+		"kode_skpd" : "7.01.0.00.0.00.33.0000",
+		"nama_skpd" : "KECAMATAN CISEENG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.33.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Ciseeng"
+	},
+	{
+		"id_skpd" : 1483,
+		"kode_skpd" : "7.01.0.00.0.00.34.0000",
+		"nama_skpd" : "KECAMATAN RANCABUNGUR",
+		"kode_sub_skpd" : "7.01.0.00.0.00.34.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Rancabungur"
+	},
+	{
+		"id_skpd" : 1484,
+		"kode_skpd" : "7.01.0.00.0.00.35.0000",
+		"nama_skpd" : "KECAMATAN SUKAJAYA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.35.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Sukajaya"
+	},
+	{
+		"id_skpd" : 1485,
+		"kode_skpd" : "7.01.0.00.0.00.36.0000",
+		"nama_skpd" : "KECAMATAN TANJUNGSARI",
+		"kode_sub_skpd" : "7.01.0.00.0.00.36.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Tanjungsari"
+	},
+	{
+		"id_skpd" : 1486,
+		"kode_skpd" : "7.01.0.00.0.00.37.0000",
+		"nama_skpd" : "KECAMATAN TAJURHALANG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.37.01",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Tajurhalang"
+	},
+	{
+		"id_skpd" : 1487,
+		"kode_skpd" : "7.01.0.00.0.00.38.0000",
+		"nama_skpd" : "KECAMATAN CIGOMBONG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.38.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Cigombong"
+	},
+	{
+		"id_skpd" : 1488,
+		"kode_skpd" : "7.01.0.00.0.00.39.0000",
+		"nama_skpd" : "KECAMATAN LEUWISADENG",
+		"kode_sub_skpd" : "7.01.0.00.0.00.39.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Leuwisadeng"
+	},
+	{
+		"id_skpd" : 1489,
+		"kode_skpd" : "7.01.0.00.0.00.40.0000",
+		"nama_skpd" : "KECAMATAN TENJOLAYA",
+		"kode_sub_skpd" : "7.01.0.00.0.00.40.0001",
+		"nama_sub_skpd" : "Sekretariat Kecamatan Tenjolaya"
+	},
+	{
+		"id_skpd" : 1423,
+		"kode_skpd" : "8.01.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN KESATUAN BANGSA DAN POLITIK",
+		"kode_sub_skpd" : "8.01.0.00.0.00.01.0002",
+		"nama_sub_skpd" : "Sekrtariat Badan Kesatuan Bangsa dan Politik"
+	},
+	{
+		"id_skpd" : 1423,
+		"kode_skpd" : "8.01.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN KESATUAN BANGSA DAN POLITIK",
+		"kode_sub_skpd" : "8.01.0.00.0.00.01.0003",
+		"nama_sub_skpd" : "Bidang Ideologi, Wawasan Kebangsaan dan Karakter Bangsa"
+	},
+	{
+		"id_skpd" : 1423,
+		"kode_skpd" : "8.01.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN KESATUAN BANGSA DAN POLITIK",
+		"kode_sub_skpd" : "8.01.0.00.0.00.01.0004",
+		"nama_sub_skpd" : "Bidang Politik Dalam Negeri"
+	},
+	{
+		"id_skpd" : 1423,
+		"kode_skpd" : "8.01.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN KESATUAN BANGSA DAN POLITIK",
+		"kode_sub_skpd" : "8.01.0.00.0.00.01.0005",
+		"nama_sub_skpd" : "Bidang Ketahanan Ekonomi, Sosial, Budaya, Agama, dan Organisasi Kemasyarakatan"
+	},
+	{
+		"id_skpd" : 1423,
+		"kode_skpd" : "8.01.0.00.0.00.01.0000",
+		"nama_skpd" : "BADAN KESATUAN BANGSA DAN POLITIK",
+		"kode_sub_skpd" : "8.01.0.00.0.00.01.0006",
+		"nama_sub_skpd" : "Bidang Kewaspadaan Nasional dan Penanganan Konflik"
+	}
+]

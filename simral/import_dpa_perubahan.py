@@ -26,6 +26,22 @@ def modul_perubahan(driver):
     except Exception as err:
         logging.error(err)
 
+def list_sub_skpd(driver):
+    try:
+        logging.info("Mengumpulkan data sub skdp")
+        driver.implicitly_wait(3)
+        driver.switch_to.frame(driver.find_element_by_name("content"))
+        driver.execute_script("""
+        document.getElementById('id_sub_skpd').style.display = "inline";
+
+        """)
+        select_sub_skpd=Select(driver.find_element_by_id("id_sub_skpd"))
+        options=select_sub_skpd.options
+        driver.switch_to.default_content()
+        return options
+    except Exception as err:
+        logging.error(err)
+
 """
 Pilih Kegiatan yang akan diimport
 """
