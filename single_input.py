@@ -57,7 +57,6 @@ if not captcha.isdigit():
 
 skpdList=loadDataSkpd()
 skpd=pilihSkpd(skpdList)
-logging.info("Import {} ke SIMRAL".format(skpd['nama_skpd']))
 driver = webdriver.Chrome(r'./chromedriver.exe')
 simral_login.connect_to_simral(driver)
 simral_login.find_captcha(driver)
@@ -72,14 +71,4 @@ if not captcha.isdigit():
 simral_login.login(driver, USERNAME, PASSWORD, CFG, captcha)
 
 logging.info(f'Import DPA [{skpd["kode_skpd"]}] {skpd["nama_skpd"]}')
-print('Unit SKPD:')
-for unit in skpd["sub_skpd"]:
-    start=time.perf_counter()
-    idp.modul_perubahan(driver)
-    print(f'Import Kegiatan pada [{unit["kode_sub_skpd"]}] {unit["nama_sub_skpd"]}')
-    idp.pilih_kegiatan(driver, PERIODE, f'[{skpd["kode_skpd"]}] {skpd["nama_skpd"]}', f'[{unit["kode_sub_skpd"]}] {unit["nama_sub_skpd"]}')
-    idp.import_kegiatan(driver, JENIS_PERUBAHAN)
-    end=time.perf_counter()
-    time.sleep(1)
-    print(f"Execution Time : {end - start:0.6f} seconds" )
 driver.quit()
