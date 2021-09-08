@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 def loadDataSkpd():
     try:
         logging.info("Membuka referensi data ")
-        f=open('referensi/unit.json',"r")
+        f=open('unit.json',"r")
         jsonData=json.load(f)
         return jsonData
     except Exception as e:

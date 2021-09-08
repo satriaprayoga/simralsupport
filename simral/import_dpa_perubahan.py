@@ -1,6 +1,7 @@
 import logging
 
 from selenium.webdriver.support.select import Select
+from urllib import parse
 
 NAV_ELEMENT="nav"
 MODULE_MENU="SelectModul"
