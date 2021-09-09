@@ -1,5 +1,5 @@
 from simral import simral_login
-from simral import bku_pendapatan as bp
+from simral import validasi_sp2d as val
 from simral import settings
 
 from selenium import webdriver
@@ -12,7 +12,6 @@ import csv
 USERNAME="lalapati"
 PASSWORD="lalapati123"
 CFG="2021"
-
 
 logging.basicConfig(level=logging.INFO)
 
@@ -31,16 +30,18 @@ if not captcha.isdigit():
     exit(-1)
 
 simral_login.login(driver, USERNAME, PASSWORD, CFG, captcha)
-
-
-
-pendapatan=[]
-with open("test.csv","r") as f:
+with open("validasi.csv","r") as f:
     pendapatanCsv=csv.DictReader(f)
     for d in pendapatanCsv:
-       bp.modul_pendapatan(driver)
-       bp.choose_skpd(driver)
-       bp.input_bku_pendapatan(driver, d)
-    
-f.close()
+       val.modul_kasda(driver)
+       data=val.find_spd2d(driver, d['no_sp2d'], d['jumlah'])
+       if data:
+            if data['status']=='Proses Bank':
+                if(data['jumlah']==int(d['jumlah'])):
+                    val.validasi_sp2d(driver,data,d['tgl_cair'])
+       else:
+            pass
+driver.implicitly_wait(2)
 driver.quit()
+
+

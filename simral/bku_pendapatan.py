@@ -5,9 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 
-
-import logging
-
 NAV_ELEMENT="nav"
 MODULE_MENU="SelectModul"
 PENDAPATAN_MENU="Pendapatan"
@@ -16,7 +13,7 @@ PERUBAHAN_LAT_LINK="objTreeMenu_1_node_1_2"
 
 def modul_pendapatan(driver):
     try:
-        logging.info("Navigasi ke modul perubahan")
+        logging.info("Navigasi ke modul Pendapatan")
         driver.implicitly_wait(2)
         driver.switch_to.frame(driver.find_element_by_name(NAV_ELEMENT))
         moduleMenu=driver.find_element_by_id(MODULE_MENU)
@@ -57,11 +54,17 @@ def choose_skpd(driver,periode=2021, bulan='September', tanggal="", skpd="[5.02.
     driver.switch_to.default_content()
 
 def input_bku_pendapatan(driver, data):
+
+    logging.info("Input bku pendapatan untuk nomor bukti: {}".format(data['no_bukti']))
     driver.switch_to.frame(driver.find_element_by_name("content"))
+
+    driver.find_element_by_id("tgl_trx").clear()
 
     driver.find_element_by_id("tgl_trx").send_keys(data['tgl_transaksi'])
 
     driver.find_element_by_id("uraian_trx").send_keys(data['uraian'].strip())
+
+    driver.find_element_by_id("no_bukti").send_keys(data['no_bukti'].strip())
 
     driver.execute_script("""
         document.getElementById('cara_pembayaran').style.display = "inline";
@@ -69,7 +72,6 @@ def input_bku_pendapatan(driver, data):
         """)
     Select(driver.find_element_by_id("cara_pembayaran")).select_by_visible_text(data['cara_pembayaran'].strip())
 
-    driver.find_element_by_id("uraian_trx").send_keys(str(data['no_bukti']))
 
     driver.execute_script("""
         document.getElementById('pendapatan_thn_lalu').style.display = "inline";

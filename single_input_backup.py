@@ -120,17 +120,5 @@ for field in program_fields:
 
                              driver.find_element_by_id('tb-balik').click()
 
-            #   for akun in subgiat:
-            #       tampilkan kode akun belanja untuk setiap subgiat
-            #       ambil data dari sipd (backup) bandingkan dengan data yg ditampilkan di simral
-            #       jika total_rincian sama:
-            #           edit rincian yang ditampilkan di simral, harus sama dengan nilai di sipd
-            #           simpan, kembali ke daftar akun, dst
-            #       jika jumlah akun di sipd<akun di simral:
-            #           edit rincian akun yang berbeda di simral isi dengan 0
-            #           simpan, kembali ke daftar akun, dst
-            #       jika jumlah akun di sipd>akun di simral:
-            #           tambah rincian akun di simral yang berisi data kode, nama, dan total rincian akun yang ada di sipd
-            #           simpan, kembali ke daftar akun, dst
 driver.quit() 
 conn.close()
