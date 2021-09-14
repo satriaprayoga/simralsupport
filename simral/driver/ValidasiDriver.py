@@ -22,7 +22,7 @@ class ValidasiDriver(SimralDriver):
 
             search_field=WebDriverWait(self._driver,1).until(EC.presence_of_element_located((By.ID,"kt_kunci")))
             search_field.clear()
-            search_field.send_keys(noSp2d)
+            search_field.send_keys(f'02.03/{noSp2d}')
 
             search_btn=self._driver.find_element_by_name("submitSearch")
             search_btn.click()

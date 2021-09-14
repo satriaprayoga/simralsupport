@@ -32,7 +32,7 @@ with open("invalid.csv","w") as inv:
     csvwiter.writeheader()
     csvwiter.writerows(invalid_data)
 
-
+driver.quit()
 # driver = webdriver.Chrome(r'./chromedriver.exe')
 # #driver.maximize_window()
 # driver.set_window_size(1250,700)
