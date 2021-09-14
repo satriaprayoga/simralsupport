@@ -2,9 +2,6 @@ import sqlite3
 import json
 import  os
 
-
-            
-
 conn = sqlite3.connect("sipd_backup.db")
 
 
@@ -14,6 +11,10 @@ def init_data():
     c.execute("""
         CREATE TABLE IF NOT EXISTS skpd
         (id_skpd INTEGER PRIMARY KEY, kode_skpd VARCHAR(50), nama_skpd VARCHAR(250) )
+    """)
+
+    c.execute("""
+        CREATE TABLE IF NOT EXISTS sub_skpd(id_skpd INTEGER, kode_skpd VARCHAR(50), nama_skpd VARCHAR(250), kode_sub_skpd VARCHAR(50), nama_sub_skpd VARCHAR(250))
     """)
 
     c.execute("""
@@ -48,6 +49,16 @@ def writeSkpdFromFile(filename):
         c.execute(" INSERT INTO skpd(id_skpd,kode_skpd,nama_skpd) VALUES(?,?,?)",(data['id_skpd'],data['kode_skpd'],data['nama_skpd']))
         conn.commit()
     f.close()
+
+def writeSubSkpdFromFile(filename):
+    f=open(filename,"r")
+    json_data=json.load(f)
+    c=conn.cursor()
+    for data in json_data:
+        c.execute(" INSERT INTO sub_skpd(id_skpd,kode_skpd,nama_skpd,kode_sub_skpd,nama_sub_skpd) VALUES(?,?,?,?,?)",(data['id_skpd'],data['kode_skpd'],data['nama_skpd'],data['kode_sub_skpd'],data['nama_sub_skpd']))
+        conn.commit()
+    f.close()
+
 
 def writeProgramFromFile(filename):
     f=open(filename,"r")
@@ -86,7 +97,8 @@ def writeRincianFromFile(filename):
         conn.commit()
     f.close()
 
-# init_data()
+#init_data()
+# writeSubSkpdFromFile(r'subunit.json')
 # writeSkpdFromFile(r'dpa.json')
 
 # for files in os.walk('referensi'):
@@ -95,11 +107,11 @@ def writeRincianFromFile(filename):
 #            for f in file_name:
 #                 writeProgramFromFile(f'referensi/{f}')
 #                 writeRincianFromFile(f'referensi/{f}')
-c=conn.cursor()
+#c=conn.cursor()
 # writeProgramFromFile(r'referensi/BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH.json')
 # writeRincianFromFile(r'referensi/BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH.json')
 # c=conn.cursor()
-id_skpd=96
+#id_skpd=96
 
 
 def findAllSkpd(conn):
@@ -123,6 +135,18 @@ def findSkpdById(conn,id_skpd):
     else:
         return None
 
+def findSubSkpd(conn,kode_skpd,nama_skpd):
+    c=conn.cursor()
+    c.execute("SELECT DISTINCT kode_sub_skpd, nama_sub_skpd, kode_skpd, nama_skpd from sub_skpd WHERE kode_skpd=:kode_skpd AND nama_skpd=:nama_skpd",{"kode_skpd":kode_skpd,"nama_skpd":nama_skpd})
+    result=c.fetchall()
+    data=[]
+    if result:
+        for col in result:
+            data.append({"kode_sub_skpd":col[0],"nama_sub_skpd":col[1],"nama_skpd":col[2],"kode_skpd":col[3]})
+        return data
+    else:
+        return None
+
 def findKegiatanByProgram(conn,id_skpd, nama_progam):
     c=conn.cursor()
     c.execute("SELECT DISTINCT kode_program, nama_program,nama_skpd,nama_bidang_urusan,nama_sub_skpd,kode_giat, nama_giat FROM subkegiatan WHERE id_skpd=:id_skpd AND nama_program=:nama_program",{'id_skpd':id_skpd,"nama_program":nama_progam})
@@ -130,7 +154,7 @@ def findKegiatanByProgram(conn,id_skpd, nama_progam):
     data=[]
     for col in result:
         data.append({"kode_program":col[0],"nama_program":col[1],"nama_skpd":col[2],"nama_bidang_urusan":col[3],"nama_sub_skpd":col[4],"kode_giat":col[5],"nama_giat":col[6]})
-    return data;
+    return data
 
 def findProgramFromIdSkpd(conn,id_skpd):
     c=conn.cursor()
@@ -208,12 +232,13 @@ def findSingleRekeningAkun(conn,kode_skpd,kode_sub_skpd, kode_bidang_urusan, kod
     return None
 
 
-kegiatan=findKegiatan(conn,"5.02.0.00.0.00.01.0000","5.02.0.00.0.00.01.0004","5.02","5.02.02")
+#kegiatan=findKegiatan(conn,"5.02.0.00.0.00.01.0000","5.02.0.00.0.00.01.0004","5.02","5.02.02")
+#subs=findSubSkpd(conn,"2.15.0.00.0.00.01.0000","DINAS PERHUBUNGAN")
+#result=findRekeningAkun(conn,"5.02.0.00.0.00.01.0000","5.02.0.00.0.00.01.0004","5.02","5.02.02","5.02.02.2.05","5.02.02.2.05.02")
+#single=findSingleRekeningAkun(conn,"5.02.0.00.0.00.01.0000","5.02.0.00.0.00.01.0004","5.02","5.02.02","5.02.02.2.05","5.02.02.2.05.02","5.1.02.02.02.0005")
+#print(subs)
+#print(kegiatan)
+#print(single)
 
-result=findRekeningAkun(conn,"5.02.0.00.0.00.01.0000","5.02.0.00.0.00.01.0004","5.02","5.02.02","5.02.02.2.05","5.02.02.2.05.02")
-single=findSingleRekeningAkun(conn,"5.02.0.00.0.00.01.0000","5.02.0.00.0.00.01.0004","5.02","5.02.02","5.02.02.2.05","5.02.02.2.05.02","5.1.02.02.02.0005")
-print(kegiatan)
-print(single)
-
-c.close()
-conn.close()
+#c.close()
+#conn.close()

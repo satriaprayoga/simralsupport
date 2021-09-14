@@ -83,6 +83,7 @@ for field in program_fields:
                 count=0
                 length=len(akuns)
                 for ak,al in zip(akuns,akun_links):
+                    print(f'{ak["kode_akun"]} {al["idRekSubRincObj"]}')
                     if ak['kode_akun']==al['idRekSubRincObj']:
                          driver.switch_to.frame(driver.find_element_by_name("content"))
                          driver.implicitly_wait(1)
@@ -122,3 +123,4 @@ for field in program_fields:
 
 driver.quit() 
 conn.close()
+

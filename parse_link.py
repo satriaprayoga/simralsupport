@@ -5,3 +5,5 @@ for l,k in zip(links,kegiatans):
     if l['idKgtn']==k['kode_giat']:
         print("Equal: ",l['idKgtn'],k['kode_giat'])
         
+skpd="5.02.0.00.0.00.02.0000 BADAN PENGELOLAAN PENDAPATAN DAERAH"
+print(skpd.strip().split(" ",1))
