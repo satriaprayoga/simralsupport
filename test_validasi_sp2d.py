@@ -24,7 +24,7 @@ for d in data_sp2d:
 f.close()
 invalid=driver.invalid
 
-with open("invalid.csv","w+") as inv:
+with open("invalid.csv","w") as inv:
     invalid_data=[]
     for i in invalid:
         invalid_data.append({"no_sp2d":i['noSp2d'],"jumlah":i["jumlah"],"keterangan":i["keterangan"]})

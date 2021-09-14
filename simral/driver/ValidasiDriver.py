@@ -64,39 +64,47 @@ class ValidasiDriver(SimralDriver):
             logging.error(err)
 
     def validasi_sp2d(self,data,refTable,tanggal_cair):
-        if data == None:
-            logging.info(f'SP2D {refTable["no_sp2d"]} tidak ditemukan')
-            lostData={"noSp2d":refTable["no_sp2d"],"jumlah":refTable["jumlah"]}
-            self.add_invalid_data(lostData,"SP2D tidak ada")
-        else:
-            logging.info(f'Memvalidasi {data["noSp2d"]}')
-
-            if data['status']=="Sudah Dicairkan":
-                 logging.info(f'SP2D {data["noSp2d"]} sudah dicairkan')
-                 self.add_invalid_data(data,"SP2D sudah dicairkan")
-            elif data['jumlah']!=refTable['jumlah']:
-                logging.info(f'SP2D {data["noSp2d"]} jumlah tidak sama')
-                self.add_invalid_data(data,"Jumlah SP2D tidak sama")
+        try:
+            if data == None:
+                logging.info(f'SP2D {refTable["no_sp2d"]} tidak ditemukan')
+                lostData={"noSp2d":refTable["no_sp2d"],"jumlah":refTable["jumlah"]}
+                self.add_invalid_data(lostData,"SP2D tidak ada")
+                self._driver.switch_to.default_content()
             else:
-                self._driver.switch_to.frame(self._driver.find_element_by_name("content"))
-                self._driver.find_element_by_id('tb-edit').click()
-                self._driver.implicitly_wait(1)
+                logging.info(f'Memvalidasi {data["noSp2d"]}')
+                if data['status']=="Sudah Dicairkan":
+                    logging.info(f'SP2D {data["noSp2d"]} sudah dicairkan')
+                    lostData={"noSp2d":refTable["no_sp2d"],"jumlah":refTable["jumlah"]}
+                    self.add_invalid_data(lostData,"Sudah dicairkan")
+                    self._driver.switch_to.default_content()
+                if data['jumlah']!=int(refTable['jumlah']):
+                    logging.info(f'SP2D {data["noSp2d"]} jumlah tidak sama')
+                    lostData={"noSp2d":refTable["no_sp2d"],"jumlah":refTable["jumlah"]}
+                    self.add_invalid_data(lostData,"Jumlah tidak sama")
+                    self._driver.switch_to.default_content()
 
-                self._driver.switch_to.default_content()
-                self._driver.switch_to.frame(self._driver.find_element_by_name("content"))
-                self._driver.execute_script("""
-                document.getElementById('status').style.display = "inline";
+                if data['status']=='Proses Bank':
+                    self.switchFrame('content')
+                    self._driver.find_element_by_id('tb-edit').click()
+                    self._driver.implicitly_wait(1)
 
-                """)
-                Select(self._driver.find_element_by_id('status')).select_by_visible_text("Sudah Dicairkan")
+                    self._driver.switch_to.default_content()
+                    self._driver.switch_to.frame(self._driver.find_element_by_name("content"))
+                    self._driver.execute_script("""
+                    document.getElementById('status').style.display = "inline";
 
-                self._driver.find_element_by_id("tgl_pencairan").clear()
+                    """)
+                    Select(self._driver.find_element_by_id('status')).select_by_visible_text("Sudah Dicairkan")
 
-                self._driver.find_element_by_id("tgl_pencairan").send_keys(tanggal_cair)
+                    self._driver.find_element_by_id("tgl_pencairan").clear()
 
-                self._driver.find_element_by_id('tb-simpan').click()
-                self._driver.implicitly_wait(1)
-                self._driver.switch_to.default_content()
+                    self._driver.find_element_by_id("tgl_pencairan").send_keys(tanggal_cair)
+
+                    self._driver.find_element_by_id('tb-simpan').click()
+                    self._driver.implicitly_wait(1)
+                    self._driver.switch_to.default_content()
+        except Exception as err:
+            logging.error(err)
 
 
     def add_invalid_data(self,data,reason):
