@@ -72,6 +72,18 @@ class BkuPendapatanDriver(SimralDriver):
             Select(self._driver.find_element_by_id("sikd_skpkd_bank_account_id")).select_by_visible_text(data['rekening_setoran'])
 
             self._driver.execute_script("""
+                document.getElementById('dpa_dpa_id').style.display = "inline";
+
+                """)
+            noDpa=""
+            if data["nama_dpa"]=="Belum Tercatat di APBD":
+                noDpa=data["nama_dpa"]
+            else:
+                noDpa=f'[{data["no_dpa"]}] {data["nama_dpa"]}'
+
+            Select(self._driver.find_element_by_id("dpa_dpa_id")).select_by_visible_text(noDpa)
+
+            self._driver.execute_script("""
                 document.getElementById('sikd_rek_jenis_id').style.display = "inline";
 
                 """)
@@ -82,12 +94,12 @@ class BkuPendapatanDriver(SimralDriver):
             rek_obj=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'sikd_rek_obj_id')))
             Select(rek_obj).select_by_visible_text(f'[{data["rekening_objek"]}] {data["nama_objek"]}')
 
-            rek_rinc_obj=self._self._driver.find_element_by_id('sikd_rek_rincian_obj_id')
+            rek_rinc_obj=self._driver.find_element_by_id('sikd_rek_rincian_obj_id')
             WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(rek_rinc_obj))
             rek_rinc_obj=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'sikd_rek_rincian_obj_id')))
             Select(rek_rinc_obj).select_by_visible_text(f'[{data["rekening_rincian"]}] {data["nama_rincian"]}')
 
-            jumlah=self._self._driver.find_element_by_id('jumlah_0')
+            jumlah=self._driver.find_element_by_id('jumlah_0')
             WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(jumlah))
             jumlah=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'jumlah_0')))
             

@@ -1,4 +1,5 @@
 import logging
+from datetime import date
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -116,3 +117,9 @@ class ValidasiDriver(SimralDriver):
     def add_invalid_data(self,data,reason):
         data["keterangan"]=reason.strip()
         self.invalid.append(data) 
+
+    def _validate_date(self,tanggal_cair):
+        tgl_register=self._driver.find_element_by_id('tgl_register')
+        register_value=tgl_register.get_attribute("value").strip().split("-",3)
+        cair_date_strs=tanggal_cair.strip().split("/",3)
+        
