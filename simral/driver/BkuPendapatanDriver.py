@@ -71,33 +71,41 @@ class BkuPendapatanDriver(SimralDriver):
                 """)
             Select(self._driver.find_element_by_id("sikd_skpkd_bank_account_id")).select_by_visible_text(data['rekening_setoran'])
             self._driver.implicitly_wait(1)
-            dpa_id=self._driver.find_element_by_id('dpa_dpa_id')
-            WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(dpa_id))
-            dpa_id=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'dpa_dpa_id')))
-          
-            if data["nama_dpa"]=="Belum Tercatat di APBD":
-                 Select(dpa_id).select_by_visible_text(data["nama_dpa"])
+            self._driver.execute_script("""
+                document.getElementById('dpa_dpa_id').style.display = "inline";
+
+                """)
+           
+            #WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of((By.ID,"dpa_dpa_id")))
+            WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'dpa_dpa_id')))
+            if data['no_dpa']=="x":
+                Select( self._driver.find_element_by_id('dpa_dpa_id')).select_by_visible_text(f'{data["nama_dpa"]}')
             else:
-                Select(dpa_id).select_by_visible_text(f'[{data["no_dpa"]}] {data["nama_dpa"]}')
+                Select( self._driver.find_element_by_id('dpa_dpa_id')).select_by_visible_text(f'[{data["no_dpa"]}] {data["nama_dpa"]}')
+          
             self._driver.implicitly_wait(1)
             self._driver.execute_script("""
                 document.getElementById('sikd_rek_jenis_id').style.display = "inline";
 
                 """)
-            Select(self._driver.find_element_by_id("sikd_rek_jenis_id")).select_by_visible_text(f'[{data["rekening_jenis"]}] {data["nama_jenis"]}')
-            self._driver.implicitly_wait(1)
+            #rek_jenis=self._driver.find_element_by_id('sikd_rek_jenis_id')
+            #WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of((By.ID,"sikd_rek_jenis_id")))
+            rek_jenis=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'sikd_rek_jenis_id')))
+            #logging.info("current {}".format(rek_jenis.get_attribute("value")))
+            Select(rek_jenis).select_by_visible_text(f'[{data["rekening_jenis"]}] {data["nama_jenis"]}')
+           
             rek_obj=self._driver.find_element_by_id('sikd_rek_obj_id')
             WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(rek_obj))
             rek_obj=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'sikd_rek_obj_id')))
             Select(rek_obj).select_by_visible_text(f'[{data["rekening_objek"]}] {data["nama_objek"]}')
-            self._driver.implicitly_wait(1)
+            # self._driver.implicitly_wait(1)
             rek_rinc_obj=self._driver.find_element_by_id('sikd_rek_rincian_obj_id')
             WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(rek_rinc_obj))
             rek_rinc_obj=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'sikd_rek_rincian_obj_id')))
             Select(rek_rinc_obj).select_by_visible_text(f'[{data["rekening_rincian"]}] {data["nama_rincian"]}')
-            self._driver.implicitly_wait(1)
+            # self._driver.implicitly_wait(1)
             jumlah=self._driver.find_element_by_id('jumlah_0')
-            WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(jumlah))
+            #WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(jumlah))
             jumlah=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'jumlah_0')))
             
             jumlah.clear()
