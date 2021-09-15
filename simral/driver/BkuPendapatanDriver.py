@@ -71,17 +71,14 @@ class BkuPendapatanDriver(SimralDriver):
                 """)
             Select(self._driver.find_element_by_id("sikd_skpkd_bank_account_id")).select_by_visible_text(data['rekening_setoran'])
 
-            self._driver.execute_script("""
-                document.getElementById('dpa_dpa_id').style.display = "inline";
-
-                """)
-            noDpa=""
+            dpa_id=self._driver.find_element_by_id('dpa_dpa_id')
+            WebDriverWait(self._driver, 5).until(expected_conditions.staleness_of(dpa_id))
+            dpa_id=WebDriverWait(self._driver, 5).until(expected_conditions.presence_of_element_located((By.ID,'dpa_dpa_id')))
+          
             if data["nama_dpa"]=="Belum Tercatat di APBD":
-                noDpa=data["nama_dpa"]
+                 Select(dpa_id).select_by_visible_text(data["nama_dpa"])
             else:
-                noDpa=f'[{data["no_dpa"]}] {data["nama_dpa"]}'
-
-            Select(self._driver.find_element_by_id("dpa_dpa_id")).select_by_visible_text(noDpa)
+                Select(dpa_id).select_by_visible_text(f'[{data["no_dpa"]}] {data["nama_dpa"]}')
 
             self._driver.execute_script("""
                 document.getElementById('sikd_rek_jenis_id').style.display = "inline";
