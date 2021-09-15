@@ -111,7 +111,7 @@ class BkuPendapatanDriver(SimralDriver):
             jumlah.clear()
 
             jumlah.send_keys(str(data["jumlah"]))
-            self._driver.implicitly_wait(1)
+            self._driver.implicitly_wait(3)
 
             self._driver.find_element_by_id('tb-simpan').click()
             self.switchToDefault()
