@@ -131,7 +131,7 @@ class DppaSimralDriver(SimralDriver):
         except Exception as err:
             logging.error(err)
 
-    def input_pilih_kegiatan(self,kegiatan,link):
+    def input_pilih_kegiatan(self,kegiatan):
         try:
             logging.info(f'Memilih Kegiatan {kegiatan["nama_giat"]}')
             self.switchFrame("content")
@@ -145,7 +145,7 @@ class DppaSimralDriver(SimralDriver):
             self.switchToDefault()
         except Exception as err:
             logging.error(err)
-        pass
+        
 
     def input_list_sub_kegiatan(self,kegiatan):
         try:
@@ -169,12 +169,16 @@ class DppaSimralDriver(SimralDriver):
         except Exception as err:
             logging.error(err)
 
-    def input_pilih_sub_kegiatan(self,sub_kegiatan,link):
+    def input_pilih_sub_kegiatan(self,sub_kegiatan):
         try:
             logging.info(f'memilih {sub_kegiatan["kode_sub_giat"]} {sub_kegiatan["nama_sub_giat"]}')
             self.switchFrame("content")
-            self._driver.find_element_by_xpath('//a[@href="'+link+'"]').click()
+            self._driver.find_element_by_partial_link_text(f'{sub_kegiatan["kode_sub_giat"]}').click()
+            #self._driver.find_element_by_xpath('//a[@href="'+link+'"]').click()
             self._driver.implicitly_wait(1)
+            self.switchToDefault()
+            self.switchFrame("content")
+            self._driver.find_element_by_partial_link_text("Rincian Anggaran").click()
             self.switchToDefault()
         except Exception as err:
             logging.error(err)
@@ -201,41 +205,52 @@ class DppaSimralDriver(SimralDriver):
             logging.error(err)
 
     def input_edit_rincian(self,rincian,rincian_link):
-        if(rincian==None or rincian_link==None):
-            self.input_hapus_rincian(rincian, rincian_link) if rincian==None else self.input_tambah_rincian(rincian,rincian_link)
-        if(rincian['kode_akun']==rincian_link['idRekSubRincObj']):
-            self.input_copy_rincian(rincian,rincian_link)
-        else:
-            self.input_tambah_rincian(rincian,rincian_link)
-            self.input_hapus_rincian(rincian,rincian_link)
+        if(rincian==None and rincian_link!=None):
+            self.input_hapus_rincian(rincian, rincian_link) #if rincian==None else self.input_tambah_rincian(rincian,rincian_link)
+        elif(rincian!=None and rincian_link==None):
+            self.input_tambah_rincian(rincian, rincian_link)
+        else:                    
+            if(rincian['kode_akun']==rincian_link['idRekSubRincObj']):
+                self.input_copy_rincian(rincian,rincian_link)
+            else:
+                self.input_tambah_rincian(rincian,rincian_link)
+                self.input_hapus_rincian(rincian,rincian_link)
         
     def input_copy_rincian(self,rincian,rincian_link):
         try:
-            logging.info(f'Copy rincian {rincian["kode_akun"]} SIPD => {rincian_link["idRekSubRincObj"]} SIMRAL')
+            logging.info(f'Cek rincian {rincian["kode_akun"]} SIPD => {rincian_link["idRekSubRincObj"]} SIMRAL')
             self.switchFrame("content")
             self._driver.implicitly_wait(1)
             self._driver.find_element_by_xpath('//a[@href="'+rincian_link['link']+'"]').click()
             self._driver.implicitly_wait(1)
-            self._driver.find_element_by_id('tb-edit').click()
-            self.switchToDefault()
-            self.switchFrame("content")
-            volume=self._driver.find_element_by_id('volume_rinc_0')
-            volume.clear()
-            satuan=self._driver.find_element_by_id('satuan_rinc_0')
-            satuan.clear()
-            harga=self._driver.find_element_by_id('harga_rinc_0')
-            harga.clear()
+            jumlah_simral=self.get_jumlah_perubahan()
+            jumlah_sipd=rincian["total_rincian"]
+            logging.info(f'jumlah di simral : {jumlah_simral} jumlah di sipd {jumlah_sipd}')
+            if jumlah_simral!=jumlah_sipd:
+                logging.info("Selisih {}".format(jumlah_sipd-jumlah_simral))
+                logging.info("Merubah rincian")
+                self._driver.find_element_by_id('tb-edit').click()
+                self.switchToDefault()
+                self.switchFrame("content")
+                volume=self._driver.find_element_by_id('volume_rinc_0')
+                volume.clear()
+                satuan=self._driver.find_element_by_id('satuan_rinc_0')
+                satuan.clear()
+                harga=self._driver.find_element_by_id('harga_rinc_0')
+                harga.clear()
 
-            volume.send_keys('1')
-            satuan.send_keys('paket')
-            harga.send_keys(str(rincian['total_rincian']))
+                volume.send_keys('1')
+                satuan.send_keys('paket')
+                harga.send_keys(str(rincian['total_rincian']))
 
-            self._driver.implicitly_wait(1)
+                self._driver.implicitly_wait(1)
                         
-            self._driver.find_element_by_id('tb-simpan').click()
-            self.switchToDefault()
-            self.switchFrame("content")
-            self._driver.implicitly_wait(0.5)
+                self._driver.find_element_by_id('tb-simpan').click()
+                self.switchToDefault()
+                self.switchFrame("content")
+                self._driver.implicitly_wait(0.5)
+            else:
+                logging.info("Jumlah sama. Tidak ada perubahan")
 
             self._driver.find_element_by_id('tb-balik').click()
             self.switchToDefault()
@@ -243,7 +258,20 @@ class DppaSimralDriver(SimralDriver):
             logging.error(err)
     
     def input_tambah_rincian(self,rincian,rincian_link):
-        pass
+        try:
+            self.switchFrame("content")
+            self._driver.find_element_by_id('tb-input').click()
+            self.switchToDefault()
+            self.switchFrame("content")
+            logging.info("Menambah rincian {} {} {}".format(rincian['kode_akun'], rincian['nama_akun'], rincian['total_rincian']))
+
+            self._driver.execute_script('''
+
+            ''')
+
+
+        except Exception as err:
+            logging.error(err)
 
     def input_hapus_rincian(self,rincian,rincian_link):
         try:
@@ -266,7 +294,7 @@ class DppaSimralDriver(SimralDriver):
             satuan.send_keys('paket')
             harga.send_keys(str(0))
 
-            self._driver.implicitly_wait(1)
+            self._driver.implicitly_wait(3)
                         
             self._driver.find_element_by_id('tb-simpan').click()
             self.switchToDefault()
@@ -292,3 +320,17 @@ class DppaSimralDriver(SimralDriver):
         self._driver.find_element_by_id('tb-muat-ulang').click()
         self.switchToDefault()
 
+    def get_jumlah_perubahan(self):
+        soup = BeautifulSoup(self._driver.page_source,"html.parser")
+        jumlah_ssdh=soup.find('div',id="jml_pagu_ssdh")
+        jumlah_pagu=jumlah_ssdh.string.strip().replace(".","").replace(",00","")
+        return int(jumlah_pagu)
+
+    def get_jenis_belanja(kode_akun):
+        return kode_akun[0:6]
+
+    def get_objek_belanja(kode_akun):
+        return kode_akun[0:9]
+
+    def get_rincian_objek(kode_akun):
+        return kode_akun[0:12]

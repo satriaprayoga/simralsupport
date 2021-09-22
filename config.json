@@ -1,0 +1,18 @@
+{
+    "anggaran_username":"gilang_2021",
+    "anggaran_password":"1234567a",
+    "anggaran_cfg":"2021",
+    "anggaran_periode":"PARSIAL 3 (2021-07-13 s/d 2021-09-30)",
+    "anggaran_jenis_perubahan":"Perubahan Anggaran Sebelum APBD-P",
+    "bku_pendapatan_username":"lalapati",
+    "bku_pendapatan_password":"lalapati123",
+    "bku_pendapatan_cfg":"2021",
+    "kasda_username":"lalapati",
+    "kasda_password":"lalapati123",
+    "kasda_cfg":"2021",
+    "sipd_username":"adm.keuangan_11_0",
+    "sipd_password":"belanja",
+    "tahunanggaran":2021,
+    "idDaerah":11,
+    "nama_daerah":"Kab. Bogor"
+}

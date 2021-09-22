@@ -1,3 +1,6 @@
+import logging
+import json
+
 #Konfigurasi
 class Config:
 
@@ -9,6 +12,7 @@ class Config:
 
     __defaultSimralUsernama="lalapati"
     __defaultSimralPassword="lalapati123"
+    
 
     
 
@@ -55,3 +59,25 @@ class Config:
         self.__simralKasda["username"]=username
         self.__simralKasda["password"]=password
         self.__simralKasda["cfg"]=cfg
+
+    def load_from_file(self,filename=r'./config.json'):
+        f=open(filename,"r")
+        data=json.load(f)
+        self.__simralPerubahan={
+            "username":data['anggaran_username'],
+            "password":data['anggaran_password'],
+            "cfg":data['anggaran_cfg'],
+            "periode":data['anggaran_periode'],
+            "jenis_perubahan":data['anggaran_jenis_perubahan']
+        }
+        self.__simralKasda={
+            "username":data['kasda_username'],
+            "password":data['kasda_password'],
+            "cfg":data['kasda_cfg']
+        }
+        self.__simralPendapatan={
+            "username":data['bku_pendatapan_username'],
+            "password":data['bku_pendatapan_password'],
+            "cfg":data['bku_pendatapan_cfg']
+        }
+        f.close()

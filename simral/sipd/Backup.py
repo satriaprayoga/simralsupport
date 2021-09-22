@@ -135,6 +135,15 @@ def findSkpdById(conn,id_skpd):
     else:
         return None
 
+def findSkpdByCode(conn,kode_skpd):
+    c=conn.cursor()
+    c.execute("SELECT id_skpd,kode_skpd,nama_skpd FROM skpd WHERE kode_skpd=:kode_skpd",{"kode_skpd":kode_skpd})
+    result=c.fetchone()
+    if result:
+        return ({"id_skpd":result[0],"kode_skpd":result[1],"nama_skpd":result[2]})
+    else:
+        return None
+
 def findSubSkpd(conn,kode_skpd,nama_skpd):
     c=conn.cursor()
     c.execute("SELECT DISTINCT kode_sub_skpd, nama_sub_skpd, kode_skpd, nama_skpd from sub_skpd WHERE kode_skpd=:kode_skpd AND nama_skpd=:nama_skpd",{"kode_skpd":kode_skpd,"nama_skpd":nama_skpd})
@@ -149,11 +158,11 @@ def findSubSkpd(conn,kode_skpd,nama_skpd):
 
 def findKegiatanByProgram(conn,id_skpd, nama_progam):
     c=conn.cursor()
-    c.execute("SELECT DISTINCT kode_program, nama_program,nama_skpd,nama_bidang_urusan,nama_sub_skpd,kode_giat, nama_giat FROM subkegiatan WHERE id_skpd=:id_skpd AND nama_program=:nama_program",{'id_skpd':id_skpd,"nama_program":nama_progam})
+    c.execute("SELECT DISTINCT kode_program, nama_program,nama_skpd,nama_bidang_urusan,nama_sub_skpd,kode_giat, nama_giat,kode_skpd,kode_sub_skpd FROM subkegiatan WHERE id_skpd=:id_skpd AND nama_program=:nama_program",{'id_skpd':id_skpd,"nama_program":nama_progam})
     result=c.fetchall()
     data=[]
     for col in result:
-        data.append({"kode_program":col[0],"nama_program":col[1],"nama_skpd":col[2],"nama_bidang_urusan":col[3],"nama_sub_skpd":col[4],"kode_giat":col[5],"nama_giat":col[6]})
+        data.append({"kode_program":col[0],"nama_program":col[1],"nama_skpd":col[2],"nama_bidang_urusan":col[3],"nama_sub_skpd":col[4],"kode_giat":col[5],"nama_giat":col[6],"kode_skpd":col[7],"kode_sub_skpd":col[8]})
     return data
 
 def findProgramFromIdSkpd(conn,id_skpd):

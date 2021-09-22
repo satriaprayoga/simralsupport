@@ -110,6 +110,27 @@ class SimralDriver:
         except Exception as err:
             logging.error(err)
 
+    def select_modul_by_name(self,moduleName,linkName):
+        try:
+            logging.info(f'Memilih modul : {moduleName}')
+            self._driver.switch_to.frame(self._driver.find_element_by_name(self.__navElement))
+            moduleMenu=self._driver.find_element_by_id(self.__moduleMenu)
+            Select(moduleMenu).select_by_visible_text(moduleName)
+
+            self._driver.execute_script("""
+             var links=document.getElementsByClassName("treemenu")
+             for(i=0;i<links.length;i++){
+                 links[i].style.display = "inline"
+             }
+             """)
+            #self._driver.find_element_by_xpath("//div[@id='{}']//nobr//a".format(linkNode)).click()
+            self._driver.implicitly_wait(2)
+            self._driver.find_element_by_partial_link_text(linkName).click()
+            self._driver.switch_to.default_content()
+       
+        except Exception as err:
+            logging.error(err)
+
     def switchFrame(self,frameName,timeout=1):
         try:
             WebDriverWait(self._driver,timeout).until(EC.frame_to_be_available_and_switch_to_it((By.NAME,frameName)))

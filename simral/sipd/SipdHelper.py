@@ -9,10 +9,10 @@ class SipdConnection:
     def __init__(self, timeout=0.05):
         self.timeout = timeout
 
-    def initConnection(self):
+    def initConnection(self,verify=False):
         self.session=requests.Session()
         response = self.session.get(
-            SIPD_URL, timeout=self.timeout)
+            SIPD_URL+'login', timeout=self.timeout, verify=verify)
         headers = response.headers  # get headers part -> Dictionary
         setCookie = headers['Set-Cookie']  # get set-cookie header part -> String
         cookieDecons = setCookie.split(';')  # split to List
