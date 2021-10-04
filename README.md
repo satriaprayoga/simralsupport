@@ -21,7 +21,7 @@ Instal beberapa library yang digunakan untuk menjalankan script<br/>
 **1. requests**
 install dengan mengetik printah berikut di command prompt:
 
-`pip install requests`<br/>
+`pip install requests numpy scipy pandas`<br/>
 
 **2. beautifulsoup4** <br/>
 install dengan mengetik perintah berikut di command prompt:<br/>

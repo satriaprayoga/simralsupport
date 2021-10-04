@@ -3,6 +3,7 @@ import pyfiglet
 from executor.import_dppa import skpd_prompt,dppa_operation_prompt,import_dppa_operation
 from executor.validasi_sp2d import *
 from executor.bku_pendapatan import *
+from executor.neraca_awal import *
 import logging
 
 logging.basicConfig(level=logging.INFO)
@@ -50,12 +51,16 @@ def ask_pendapatan_file():
     filename=file_pendapatan_prompt()
     input_bku_pendapatan(filename)
 
+def ask_neraca_file():
+    filename=file_neraca_prompt()
+    neraca_awal_operation(filename)
+
 def ask_direction():
     directions_prompt = {
         'type': 'list',
         'name': 'operation',
         'message': 'Pilih Operasi Pada Simral?',
-        'choices': ['APBD-P', 'Validasi SP2D', 'BKU Pendapatan PPKD',"Exit"]
+        'choices': ['APBD-P', 'Validasi SP2D', 'BKU Pendapatan PPKD','Neraca Awal',"Exit"]
     }
     answers = prompt(directions_prompt,style=custom_style_2)
     return answers['operation']
@@ -79,6 +84,8 @@ def main_loop():
         ask_validation_file()
     elif (direction == 'BKU Pendapatan PPKD'):
         ask_pendapatan_file()
+    elif (direction =='Neraca Awal'):
+        ask_neraca_file()
     elif (direction == 'Exit'):
         print("Bye")
         exit(0)
