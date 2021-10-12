@@ -29,5 +29,5 @@ def neraca_awal_operation(filename):
     driver.login(kasda_config['username'],kasda_config['password'],kasda_config['cfg'],answer['captcha'])
     for index,row in data.iterrows():
         driver.select_modul("Akuntansi", "objTreeMenu_1_node_1_1")
-        driver.pilih_skpd(row['Kode '],row['Satuan Kerja'])
+        driver.pilih_skpd(row['Kode '],row['Satuan Kerja'],row['Sub Unit'])
         driver.input_neraca_awal(row['rekening_kelompok'],row['nama_kelompok'],row['rekening_jenis'],row['nama_jenis'],row['rekening_objek'],row['nama_objek'],row['Rekening_rincobjek'],row['nama_rincobjek'],row['Rekening'],row['Uraian'],row['Jumlah Debet'],row['Jumlah Kredit'])
